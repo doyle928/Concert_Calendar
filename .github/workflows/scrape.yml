@@ -38,28 +38,12 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update scraped data"
-
-            # Retry if another push updates main before ours succeeds.
-            for attempt in 1 2 3; do
-              git fetch origin main
-              git rebase origin/main
-
-              if git push origin HEAD:main; then
-                echo "Successfully pushed scraped data."
-                break
-              fi
-
-              if [ "$attempt" -eq 3 ]; then
-                echo "Push failed after 3 attempts."
-                exit 1
-              fi
-
-              echo "Push rejected; retrying with latest main..."
-              sleep 3
-            done
+            git pull --rebase origin main
+            git push
           else
             echo "No data changes to commit."
           fi
+          
       - name: Sync to Google Calendar
         run: python calendar_sync.py
         env:
