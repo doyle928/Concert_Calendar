@@ -1,0 +1,911 @@
+[
+  {
+    "date": "Tue, Nov 10",
+    "artists": "LOCOMOTION: Wax Assassin, Hypemelo, Liminal",
+    "venue": "SPKRBOX",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/locomotion-wax-assassin-551137",
+    "event_id": "551137"
+  },
+  {
+    "date": "Fri, Nov 13",
+    "artists": "Ray Volpe, BARELY ALIVE, NEOTEK",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/ray-volpe-barely-alive-519139",
+    "event_id": "519139"
+  },
+  {
+    "date": "Fri, Nov 13",
+    "artists": "Blasterjaxx",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/blasterjaxx-530723",
+    "event_id": "530723"
+  },
+  {
+    "date": "Fri, Nov 13",
+    "artists": "Friday the 13th: ST4MM3NA, Solarus, H DEEZY, NEBULA, Devon Rexx b2b Navigtr, ZTJ",
+    "venue": "Amplify",
+    "city": "Hamtramck, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/friday-the-13th-st4mm3na-541593",
+    "event_id": "541593"
+  },
+  {
+    "date": "Fri, Nov 13",
+    "artists": "SKY JETTA",
+    "venue": "Northern Lights Lounge",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/sky-jetta-550976",
+    "event_id": "550976"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Marie Vaunt",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/marie-vaunt-513234",
+    "event_id": "513234"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "STS9",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/sts9-514041",
+    "event_id": "514041"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Steller",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/steller-525217",
+    "event_id": "525217"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Layton Giordani, Roddy Lima b2b Greg 99, Annicka, DJ Sphinx",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/layton-giordani-roddy-lima-532195",
+    "event_id": "532195"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Boogie T, SubDocta, AceMyth, kurtzdubz",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/boogie-t-subdocta-533794",
+    "event_id": "533794"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Dasha Rush, Luke Hess, Project 313",
+    "venue": "The Lincoln Factory",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/dasha-rush-luke-hess-534124",
+    "event_id": "534124"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "The Dark Harvest II: PhaseOne b2b Calcium, Dion Timmer, Ruvlo, Gateway Division, RipOff, Watch Party, ZTJ, LEVEE BANKS, Jitter, 808BUMPIN b2b Park Attendant",
+    "venue": "Crofoot Ballroom",
+    "city": "Pontiac, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/the-dark-harvest-ii-phaseone-545104",
+    "event_id": "545104"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Nic Vans",
+    "venue": "Grewal Hall at 224",
+    "city": "Lansing, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/nic-vans-545417",
+    "event_id": "545417"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Chef Boyarbeatz",
+    "venue": "Papa Pete's",
+    "city": "Kalamazoo, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/michigan/chef-boyarbeatz-519933",
+    "event_id": "519933"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Pool Party: Mersiv, Lowke, Konundrum",
+    "venue": "Gun Lake Casino Resort",
+    "city": "Wayland, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826",
+    "event_id": "542826"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Bodega House",
+    "venue": "Diamondback Music Hall",
+    "city": "Belleville, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/bodega-house-544360",
+    "event_id": "544360"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Alternative School Presents: Glenn Underground, Ameera, Turtle Bugg",
+    "venue": "Northern Lights Lounge",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/alternative-school-presents-glenn-underground-545641",
+    "event_id": "545641"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "Madam X, SWIMMIE, DJ Girl, Hoochie, Garrison XR, we1sman",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/madam-x-swimmie-547563",
+    "event_id": "547563"
+  },
+  {
+    "date": "Sat, Nov 14",
+    "artists": "DJ Marathon b2b DJ Carter",
+    "venue": "Big Pink",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/dj-marathon-dj-carter-548936",
+    "event_id": "548936"
+  },
+  {
+    "date": "Wed, Nov 18",
+    "artists": "Mystery Skulls, Fox Stevenson",
+    "venue": "Orchid Theatre",
+    "city": "Ferndale, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/mystery-skulls-fox-stevenson-533696",
+    "event_id": "533696"
+  },
+  {
+    "date": "Thu, Nov 19",
+    "artists": "Volpetron Eternal: Ray Volpe, Tisoki",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/volpetron-eternal-ray-volpe-519097",
+    "event_id": "519097"
+  },
+  {
+    "date": "Thu, Nov 19",
+    "artists": "Red Velvet Underground: Jarm b2b OT, Morin b2b VIGGZ, MDK b2b ST\u00dcHA\u00dcS, Hod b2b MARLOW, KAFRAN b2b Gabo, SPREEDRO",
+    "venue": "Club Above",
+    "city": "Ann Arbor, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/red-velvet-underground-jarm-548180",
+    "event_id": "548180"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Victory Live: Madeon, Anamanaguchi",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/victory-live-madeon-502117",
+    "event_id": "502117"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "SoDown, Noetika, Shamoxis, Ooze",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/sodown-noetika-530784",
+    "event_id": "530784"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "it's murph, Nils Hoffmann, Gavin Blac",
+    "venue": "Expo Hall at Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/its-murph-nils-hoffmann-535267",
+    "event_id": "535267"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Riot Ten, Ophion, LACHJAW, Jaylectrix",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/riot-ten-ophion-541057",
+    "event_id": "541057"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Rave Revival Tour: Rave Jesus",
+    "venue": "Diamondback Music Hall",
+    "city": "Belleville, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/rave-revival-tour-rave-jesus-533451",
+    "event_id": "533451"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Beautiful People Tour: Buku",
+    "venue": "Shakespeare's Lower-Level",
+    "city": "Kalamazoo, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/michigan/beautiful-people-tour-buku-544451",
+    "event_id": "544451"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Hairitage, King Kozz b2b Wubstreet, Riink, DISCOBOT",
+    "venue": "Amplify",
+    "city": "Hamtramck, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/hairitage-king-kozz-545368",
+    "event_id": "545368"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Studio 215: Dynamique, Drop Catch, Nabs the DJ, The DJ Bob Marino, Juan Trevino",
+    "venue": "215 West",
+    "city": "Ferndale, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/studio-215-dynamique-546957",
+    "event_id": "546957"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Noncompliant, Flange, SINA, AIDEL, Adri, Duck Trash",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/noncompliant-flange-547564",
+    "event_id": "547564"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "Daily Bread, Vincent Antone, zoska",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/daily-bread-vincent-antone-520764",
+    "event_id": "520764"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "Whales, Tokyo Machine",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/whales-tokyo-machine-526298",
+    "event_id": "526298"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "After Glow Tour: Canabliss, emrys, bl\u00fcejay, Ganja Girl",
+    "venue": "Stache at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/after-glow-tour-canabliss-532779",
+    "event_id": "532779"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "Paxahau Presents: Eli Escobar, Peter Croce",
+    "venue": "TV Lounge",
+    "city": "Detroit, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/paxahau-presents-eli-escobar-543810",
+    "event_id": "543810"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "Be Kind Rewind",
+    "venue": "The Green Door Lansing",
+    "city": "Lansing, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/be-kind-rewind-547646",
+    "event_id": "547646"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "Fadi Mohem, Echof\u00f8n, Redax",
+    "venue": "Tangent Gallery & Hastings",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/fadi-mohem-echofon-526114",
+    "event_id": "526114"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "Joe Nice, Antithesis",
+    "venue": "215 West",
+    "city": "Ferndale, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/joe-nice-antithesis-549319",
+    "event_id": "549319"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "Clubhouse Sessions: Govan Jones, Dubyah, Le Schlippy, Coogleme, Justeus",
+    "venue": "128 Cadillac Square",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/clubhouse-sessions-govan-jones-550160",
+    "event_id": "550160"
+  },
+  {
+    "date": "Sat, Nov 21",
+    "artists": "John Acquaviva",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/john-acquaviva-550576",
+    "event_id": "550576"
+  },
+  {
+    "date": "Wed, Nov 25",
+    "artists": "Amplify Grand Opening: TBA",
+    "venue": "Amplify",
+    "city": "Hamtramck, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/amplify-grand-opening-tba-534489",
+    "event_id": "534489"
+  },
+  {
+    "date": "Wed, Nov 25",
+    "artists": "City Of Machines: HazMat, Jesse James",
+    "venue": "HALO Bar & Lounge",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/city-of-machines-hazmat-detroit-541596",
+    "event_id": "541596"
+  },
+  {
+    "date": "Fri, Nov 27",
+    "artists": "Zeds Dead, Taiki Nulight b2b Moody Good, Rohaan, PapaJay, Die By The Sword",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/zeds-dead-taiki-nulight-535706",
+    "event_id": "535706"
+  },
+  {
+    "date": "Fri, Nov 27",
+    "artists": "Forest Green",
+    "venue": "Historic Masonic Temple",
+    "city": "Bay City, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/forest-green-536352",
+    "event_id": "536352"
+  },
+  {
+    "date": "Fri, Nov 27",
+    "artists": "Unofficial Zeds Dead Afters: Neumonic",
+    "venue": "Tangent Gallery & Hastings",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/unofficial-zeds-dead-afters-neumonic-547380",
+    "event_id": "547380"
+  },
+  {
+    "date": "Fri, Nov 27",
+    "artists": "Adam X, Craig Gonzalez, Francois Dillinger, Fusegrade, Kobe Dupree, Mira",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/adam-x-craig-gonzalez-549073",
+    "event_id": "549073"
+  },
+  {
+    "date": "Sat, Nov 28",
+    "artists": "Zeds Dead, Jkyl & Hyde, Phrva, Zen Selekta, blurrd vzn",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/zeds-dead-jkyl-and-hyde-535707",
+    "event_id": "535707"
+  },
+  {
+    "date": "Sat, Nov 28",
+    "artists": "Detroit Love: Carl Craig, Seth Troxler, Silverdome Boyz",
+    "venue": "The Lincoln Factory",
+    "city": "Detroit, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/detroit-love-carl-craig-541455",
+    "event_id": "541455"
+  },
+  {
+    "date": "Sat, Nov 28",
+    "artists": "Bodega House",
+    "venue": "Diamondback Music Hall",
+    "city": "Belleville, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/bodega-house-544361",
+    "event_id": "544361"
+  },
+  {
+    "date": "Sat, Nov 28",
+    "artists": "WRIDDIM WRESTLEMANIA",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/wriddim-wrestlemania-549823",
+    "event_id": "549823"
+  },
+  {
+    "date": "Sat, Nov 28",
+    "artists": "Sanctuary - Offering - 1 Year Anniversary: autogyro, Boyfriend Dick, DJirl, DJ Sphinx, HazMat, Hypemelo, Jamea., Marc Homer, misss.mamasss, Tylr, Wax Assassin, we1sman",
+    "venue": "Menjo's",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/sanctuary-offering-1-year-anniversary-autogyro-550957",
+    "event_id": "550957"
+  },
+  {
+    "date": "Sun, Nov 29",
+    "artists": "Terrence Parker",
+    "venue": "TV Lounge",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/terrence-parker-550628",
+    "event_id": "550628"
+  },
+  {
+    "date": "Thu, Dec 3",
+    "artists": "AHEE, Mport",
+    "venue": "Elevation at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/ahee-mport-528497",
+    "event_id": "528497"
+  },
+  {
+    "date": "Fri, Dec 4",
+    "artists": "LAYZ, Kozmoz, Herdizzle, DeathRae, Devon Rexx",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/layz-kozmoz-533822",
+    "event_id": "533822"
+  },
+  {
+    "date": "Fri, Dec 4",
+    "artists": "SIDEPIECE",
+    "venue": "Expo Hall at Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/sidepiece-539043",
+    "event_id": "539043"
+  },
+  {
+    "date": "Fri, Dec 4",
+    "artists": "RAVECLUB",
+    "venue": "Orchid Theatre",
+    "city": "Ferndale, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/raveclub-548423",
+    "event_id": "548423"
+  },
+  {
+    "date": "Sat, Dec 5",
+    "artists": "MashBit",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/mashbit-530019",
+    "event_id": "530019"
+  },
+  {
+    "date": "Sat, Dec 5",
+    "artists": "Smoakland",
+    "venue": "El Club",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/smoakland-541416",
+    "event_id": "541416"
+  },
+  {
+    "date": "Sat, Dec 5",
+    "artists": "Mija",
+    "venue": "The Lincoln Factory",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/mija-541713",
+    "event_id": "541713"
+  },
+  {
+    "date": "Sat, Dec 5",
+    "artists": "Thrashed Tour: Codd Dubz, HE$H, DAGGUR, Melt, 3DEN Dubz, Makoyi, Tap Dubz",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/thrashed-tour-codd-dubz-544806",
+    "event_id": "544806"
+  },
+  {
+    "date": "Sat, Dec 5",
+    "artists": "Detroit, Brooklyn, And Everywhere The Groove Takes You: Toribio, sillygirlcarmen, Meftah",
+    "venue": "TV Lounge",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/detroit-brooklyn-and-everywhere-the-groove-takes-you-toribio-545703",
+    "event_id": "545703"
+  },
+  {
+    "date": "Thu, Dec 10",
+    "artists": "The Occasional Thursday Party: S.P.Y, Jen Symmetry",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/the-occasional-thursday-party-s-p-y-547565",
+    "event_id": "547565"
+  },
+  {
+    "date": "Fri, Dec 11",
+    "artists": "DnB vs Dubstep Showdown: Zubstep, Anomali",
+    "venue": "Amplify",
+    "city": "Hamtramck, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/dnb-vs-dubstep-showdown-zubstep-548229",
+    "event_id": "548229"
+  },
+  {
+    "date": "Sat, Dec 12",
+    "artists": "RIOT, VLCN, C.A.M, Pandalicious, RE:CVLEBRVTE",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/riot-vlcn-529393",
+    "event_id": "529393"
+  },
+  {
+    "date": "Sat, Dec 12",
+    "artists": "HEYZ",
+    "venue": "Elevation at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/heyz-535696",
+    "event_id": "535696"
+  },
+  {
+    "date": "Sat, Dec 12",
+    "artists": "Darude",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/darude-537244",
+    "event_id": "537244"
+  },
+  {
+    "date": "Sat, Dec 12",
+    "artists": "Jacques Greene, Matthew Dear",
+    "venue": "TV Lounge",
+    "city": "Detroit, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/jacques-greene-matthew-dear-551089",
+    "event_id": "551089"
+  },
+  {
+    "date": "Fri, Dec 18",
+    "artists": "GRiZMAS: SIPPY, Noetika, GRiZ",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "16+",
+    "url": "https://edmtrain.com/detroit-mi/grizmas-sippy-538830",
+    "event_id": "538830"
+  },
+  {
+    "date": "Sat, Dec 19",
+    "artists": "GRiZ, Ravenscoon, JiLLi",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/griz-ravenscoon-538831",
+    "event_id": "538831"
+  },
+  {
+    "date": "Sat, Dec 26",
+    "artists": "Dept. Of The Disco: Drop Catch, Voyajeur",
+    "venue": "Cannons",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/dept-of-the-disco-drop-catch-549040",
+    "event_id": "549040"
+  },
+  {
+    "date": "Sat, Dec 26",
+    "artists": "Jantsen, Star Monster, BA1i, bl\u00fcejay, Devon Rexx",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/jantsen-star-monster-550492",
+    "event_id": "550492"
+  },
+  {
+    "date": "Sat, Dec 26",
+    "artists": "Santa Rave: The Saunderson Brothers, Dantiez Saunderson, DaMarii Saunderson, Rolow, TEZMO, Chefboyarzee",
+    "venue": "Diamondback Music Hall",
+    "city": "Belleville, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/santa-rave-the-saunderson-brothers-550718",
+    "event_id": "550718"
+  },
+  {
+    "date": "Thu, Dec 31",
+    "artists": "ZERO HOUR - NEW YEARS EVE 2027: Space Wizard, PROSECUTE",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/zero-hour-new-years-eve-2027-space-wizard-543373",
+    "event_id": "543373"
+  },
+  {
+    "date": "Fri, Jan 15",
+    "artists": "Richard Finger, Daggz, Thew",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/richard-finger-daggz-535291",
+    "event_id": "535291"
+  },
+  {
+    "date": "Fri, Jan 15",
+    "artists": "Buku",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/buku-550405",
+    "event_id": "550405"
+  },
+  {
+    "date": "Sat, Jan 16",
+    "artists": "Krewella",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/krewella-535254",
+    "event_id": "535254"
+  },
+  {
+    "date": "Fri, Jan 22",
+    "artists": "AYYBO",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/ayybo-544270",
+    "event_id": "544270"
+  },
+  {
+    "date": "Sat, Jan 23",
+    "artists": "Hiatus x Wub Street Present BLOSSM: BLOSSM, WHOiSEE, Skeemuh, ROYALFLU$H",
+    "venue": "Pike Room at Crofoot",
+    "city": "Pontiac, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/hiatus-x-wub-street-present-blossm-blossm-540490",
+    "event_id": "540490"
+  },
+  {
+    "date": "Sat, Jan 23",
+    "artists": "SPOOKY RIDDIM RETURNS: Hi I'm Ghost, M?STIC, P\u00d8P\u00d8FF, S'moores, Ivy Drip",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/spooky-riddim-returns-hi-im-ghost-550493",
+    "event_id": "550493"
+  },
+  {
+    "date": "Sat, Jan 30",
+    "artists": "Ely Oaks, QURL, Thay, Gina Maria",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/ely-oaks-qurl-539089",
+    "event_id": "539089"
+  },
+  {
+    "date": "Sat, Jan 30",
+    "artists": "Artifakts, parkbreezy",
+    "venue": "El Club",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/artifakts-parkbreezy-541637",
+    "event_id": "541637"
+  },
+  {
+    "date": "Sat, Jan 30",
+    "artists": "Zingara, Gardella, Wiley, 3DEN Dubz",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/zingara-gardella-547801",
+    "event_id": "547801"
+  },
+  {
+    "date": "Sat, Jan 30",
+    "artists": "CYCLOPS, St. Mary, R\u00d8NAN, Fludder",
+    "venue": "Elevation at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/cyclops-st-mary-544981",
+    "event_id": "544981"
+  },
+  {
+    "date": "Fri, Feb 5",
+    "artists": "D.O.D",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/d-o-d-545871",
+    "event_id": "545871"
+  },
+  {
+    "date": "Fri, Feb 5",
+    "artists": "SPAG",
+    "venue": "Stache at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/spag-547825",
+    "event_id": "547825"
+  },
+  {
+    "date": "Fri, Feb 5",
+    "artists": "C\u00d8NTRA, Abstrakt Sonance",
+    "venue": "Tangent Gallery & Hastings",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/contra-abstrakt-sonance-531902",
+    "event_id": "531902"
+  },
+  {
+    "date": "Sat, Feb 6",
+    "artists": "Effin, Nikita the Wicked, AYCH",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/effin-nikita-the-wicked-546304",
+    "event_id": "546304"
+  },
+  {
+    "date": "Fri, Feb 12",
+    "artists": "2hollis, Lucy Bedroque",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/2hollis-lucy-bedroque-547061",
+    "event_id": "547061"
+  },
+  {
+    "date": "Sat, Feb 13",
+    "artists": "2000s Rave",
+    "venue": "Elevation at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/2000s-rave-542245",
+    "event_id": "542245"
+  },
+  {
+    "date": "Thu, Feb 18",
+    "artists": "Chelsea Cutler",
+    "venue": "Saint Andrew's Hall",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/chelsea-cutler-541516",
+    "event_id": "541516"
+  },
+  {
+    "date": "Fri, Feb 19",
+    "artists": "LEVEL UP, Costa, Z3LLA, Tazu",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/level-up-costa-dc-542205",
+    "event_id": "542205"
+  },
+  {
+    "date": "Fri, Feb 26",
+    "artists": "Swimming Paul",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/swimming-paul-545268",
+    "event_id": "545268"
+  },
+  {
+    "date": "Fri, Feb 26",
+    "artists": "Liquid Stranger, Sully, TWOPERCENT, CHOZEN",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/liquid-stranger-sully-us-549648",
+    "event_id": "549648"
+  },
+  {
+    "date": "Sat, Feb 27",
+    "artists": "Beautiful People Tour: Buku, SLOTH, Farrero, Solarus, Nebula",
+    "venue": "Amplify",
+    "city": "Hamtramck, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/beautiful-people-tour-buku-550482",
+    "event_id": "550482"
+  },
+  {
+    "date": "Fri, Mar 5",
+    "artists": "Femtronica Music & Arts Festival: Ganja Girl, K-Lala",
+    "venue": "The Loft Lansing",
+    "city": "Lansing, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/michigan/femtronica-music-and-arts-festival-ganja-girl-545108",
+    "event_id": "545108"
+  },
+  {
+    "date": "Sat, Mar 6",
+    "artists": "Femtronica Music & Arts Festival",
+    "venue": "The Loft Lansing",
+    "city": "Lansing, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/michigan/femtronica-music-and-arts-festival-545109",
+    "event_id": "545109"
+  },
+  {
+    "date": "Fri, Mar 12",
+    "artists": "ALLEYCVT, YDG, MACHAKI",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "16+",
+    "url": "https://edmtrain.com/detroit-mi/alleycvt-ydg-544266",
+    "event_id": "544266"
+  },
+  {
+    "date": "Fri, Mar 26",
+    "artists": "LSDREAM, Distinct Motive, Steller, Fossils",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "16+",
+    "url": "https://edmtrain.com/detroit-mi/lsdream-distinct-motive-550093",
+    "event_id": "550093"
+  },
+  {
+    "date": "Fri, Apr 2",
+    "artists": "VNV Nation",
+    "venue": "Saint Andrew's Hall",
+    "city": "Detroit, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/vnv-nation-517829",
+    "event_id": "517829"
+  },
+  {
+    "date": "Fri, Apr 9",
+    "artists": "DETROITS INFERNO IV: Samplifire",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/detroits-inferno-iv-samplifire-510887",
+    "event_id": "510887"
+  },
+  {
+    "date": "Sat, Apr 10",
+    "artists": "DETROITS INFERNO IV: Modal Nodes",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/detroits-inferno-iv-modal-nodes-510888",
+    "event_id": "510888"
+  }
+]
