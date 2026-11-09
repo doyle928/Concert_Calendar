@@ -550,7 +550,7 @@
   },
   {
     "date": "Thu, Dec 10",
-    "artists": "The Occasional Thursday Party: S.P.Y, Jen Symmetry",
+    "artists": "The Occasional Thursday Party: S.P.Y, The Chancellor",
     "venue": "Marble Bar",
     "city": "Detroit, MI",
     "age": "",
@@ -657,6 +657,24 @@
     "event_id": "543373"
   },
   {
+    "date": "Thu, Dec 31",
+    "artists": "Reptant, Pearson Sound, Roman Fl\u00fcgel, DJ Pierre, mirepoix, Eddie Fowlkes, Norm Talley, Whodat",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/reptant-pearson-sound-551344",
+    "event_id": "551344"
+  },
+  {
+    "date": "Thu, Dec 31",
+    "artists": "Joshwa, ARCS, Nayt",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/joshwa-arcs-551383",
+    "event_id": "551383"
+  },
+  {
     "date": "Fri, Jan 15",
     "artists": "Richard Finger, Daggz, Thew",
     "venue": "Majestic Theatre Detroit",
@@ -684,6 +702,15 @@
     "event_id": "535254"
   },
   {
+    "date": "Sat, Jan 16",
+    "artists": "Dirt Monkey",
+    "venue": "Stache at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/dirt-monkey-551372",
+    "event_id": "551372"
+  },
+  {
     "date": "Fri, Jan 22",
     "artists": "AYYBO",
     "venue": "Russell Industrial Center",
@@ -691,6 +718,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/ayybo-544270",
     "event_id": "544270"
+  },
+  {
+    "date": "Fri, Jan 22",
+    "artists": "Boogie T, Maddy O'Neal, SHOSH",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/boogie-t-maddy-oneal-551280",
+    "event_id": "551280"
   },
   {
     "date": "Sat, Jan 23",

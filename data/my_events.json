@@ -290,6 +290,16 @@
     "venue_detail": ""
   },
   {
+    "date": "Sat, Jan 16",
+    "artists": "Dirt Monkey",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/dirt-monkey-551372",
+    "event_id": "551372",
+    "venue_detail": "Stache at The Intersection"
+  },
+  {
     "date": "Fri, Jan 22",
     "artists": "AYYBO",
     "venue": "Russell Industrial Center",
@@ -297,6 +307,16 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/ayybo-544270",
     "event_id": "544270",
+    "venue_detail": ""
+  },
+  {
+    "date": "Fri, Jan 22",
+    "artists": "Boogie T, Maddy O'Neal, SHOSH",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/boogie-t-maddy-oneal-551280",
+    "event_id": "551280",
     "venue_detail": ""
   },
   {
