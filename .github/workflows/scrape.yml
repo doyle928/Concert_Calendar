@@ -1,0 +1,41 @@
+name: Daily concert scrape
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # once a day at 12:00 UTC
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write           # needed to commit the data/ folder back
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Scrape and parse
+        run: python scrape.py
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          TARGET_URL: https://edmtrain.com/michigan
+
+      - name: Save data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update scraped data"
+          git push
+
+      - name: Sync to Google Calendar
+        run: python calendar_sync.py
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
