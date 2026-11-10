@@ -123,8 +123,16 @@ def main() -> int:
     except HttpError as err:
         if err.resp.status in (403, 404):
             sa_email = json.loads(os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]).get("client_email", "(unknown)")
+            shape = (
+                f"length {len(calendar_id)}, "
+                f"contains '@': {'@' in calendar_id}, "
+                f"ends with '@group.calendar.google.com': {calendar_id.endswith('@group.calendar.google.com')}, "
+                f"starts with 'http': {calendar_id.startswith('http')}, "
+                f"contains spaces: {' ' in calendar_id}"
+            )
             print(
                 f"Google says HTTP {err.resp.status}: this service account cannot access the calendar.\n"
+                f"  What the script received for GOOGLE_CALENDAR_ID: {shape}\n"
                 f"  1. Check GOOGLE_CALENDAR_ID is the calendar's ID (Calendar settings -> "
                 f"Integrate calendar), e.g. something@group.calendar.google.com\n"
                 f"  2. Check the calendar is shared with {sa_email} "
