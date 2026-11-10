@@ -9,16 +9,16 @@ permissions:
   contents: write           # needed to commit the data/ folder back
 
 concurrency:
-  group: daily-concert-scrape
+  group: daily-scrape       # never run two copies at once
   cancel-in-progress: false
-  
+
 jobs:
   scrape:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -30,22 +30,21 @@ jobs:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           TARGET_URL: https://edmtrain.com/michigan
 
-      - name: Save data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-
-          if ! git diff --cached --quiet; then
-            git commit -m "Update scraped data"
-            git pull --rebase origin main
-            git push
-          else
-            echo "No data changes to commit."
-          fi
-          
       - name: Sync to Google Calendar
         run: python calendar_sync.py
         env:
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
           GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+
+      - name: Save data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to save"
+          else
+            git commit -m "Update scraped data"
+            git pull --rebase origin main
+            git push
+          fi
