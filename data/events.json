@@ -19,11 +19,11 @@
   },
   {
     "date": "Fri, Nov 13",
-    "artists": "Blasterjaxx",
+    "artists": "Blasterjaxx, Teith, Nikkie Nocturnal, Yours Treuly",
     "venue": "Magic Stick",
     "city": "Detroit, MI",
     "age": "18+",
-    "url": "https://edmtrain.com/detroit-mi/blasterjaxx-530723",
+    "url": "https://edmtrain.com/detroit-mi/blasterjaxx-teith-530723",
     "event_id": "530723"
   },
   {
@@ -169,6 +169,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/dj-marathon-dj-carter-548936",
     "event_id": "548936"
+  },
+  {
+    "date": "Sun, Nov 15",
+    "artists": "Industry Sundays: Nikkie Nocturnal",
+    "venue": "Garden Bowl",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551658",
+    "event_id": "551658"
   },
   {
     "date": "Wed, Nov 18",
@@ -360,6 +369,15 @@
     "event_id": "550576"
   },
   {
+    "date": "Sun, Nov 22",
+    "artists": "Industry Sundays: Nikkie Nocturnal",
+    "venue": "Garden Bowl",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551659",
+    "event_id": "551659"
+  },
+  {
     "date": "Wed, Nov 25",
     "artists": "Amplify Grand Opening: TBA",
     "venue": "Amplify",
@@ -468,6 +486,15 @@
     "event_id": "550628"
   },
   {
+    "date": "Sun, Nov 29",
+    "artists": "Industry Sundays: Nikkie Nocturnal",
+    "venue": "Garden Bowl",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551660",
+    "event_id": "551660"
+  },
+  {
     "date": "Thu, Dec 3",
     "artists": "AHEE, Mport",
     "venue": "Elevation at The Intersection",
@@ -549,6 +576,15 @@
     "event_id": "545703"
   },
   {
+    "date": "Sun, Dec 6",
+    "artists": "Industry Sundays: Nikkie Nocturnal",
+    "venue": "Garden Bowl",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551662",
+    "event_id": "551662"
+  },
+  {
     "date": "Thu, Dec 10",
     "artists": "The Occasional Thursday Party: S.P.Y, The Chancellor",
     "venue": "Marble Bar",
@@ -603,6 +639,15 @@
     "event_id": "551089"
   },
   {
+    "date": "Sun, Dec 13",
+    "artists": "Industry Sundays: Nikkie Nocturnal",
+    "venue": "Garden Bowl",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551663",
+    "event_id": "551663"
+  },
+  {
     "date": "Fri, Dec 18",
     "artists": "GRiZMAS: SIPPY, Noetika, GRiZ",
     "venue": "Detroit Masonic Temple",
@@ -619,6 +664,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/griz-ravenscoon-538831",
     "event_id": "538831"
+  },
+  {
+    "date": "Sun, Dec 20",
+    "artists": "Industry Sundays: Nikkie Nocturnal",
+    "venue": "Garden Bowl",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551664",
+    "event_id": "551664"
   },
   {
     "date": "Sat, Dec 26",
@@ -648,6 +702,15 @@
     "event_id": "550718"
   },
   {
+    "date": "Sun, Dec 27",
+    "artists": "Industry Sundays: Nikkie Nocturnal",
+    "venue": "Garden Bowl",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551665",
+    "event_id": "551665"
+  },
+  {
     "date": "Thu, Dec 31",
     "artists": "ZERO HOUR - NEW YEARS EVE 2027: Space Wizard, PROSECUTE",
     "venue": "Elektricity",
@@ -658,21 +721,21 @@
   },
   {
     "date": "Thu, Dec 31",
-    "artists": "Reptant, Pearson Sound, Roman Fl\u00fcgel, DJ Pierre, mirepoix, Eddie Fowlkes, Norm Talley, Whodat",
-    "venue": "Marble Bar",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/reptant-pearson-sound-551344",
-    "event_id": "551344"
-  },
-  {
-    "date": "Thu, Dec 31",
     "artists": "Joshwa, ARCS, Nayt",
     "venue": "Magic Stick",
     "city": "Detroit, MI",
     "age": "18+",
     "url": "https://edmtrain.com/detroit-mi/joshwa-arcs-551383",
     "event_id": "551383"
+  },
+  {
+    "date": "Thu, Dec 31",
+    "artists": "Reptant, Pearson Sound, Roman Fl\u00fcgel, DJ Pierre, mirepoix, Eddie Fowlkes, Norm Talley, Whodat",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/reptant-pearson-sound-551344",
+    "event_id": "551344"
   },
   {
     "date": "Fri, Jan 15",
@@ -837,6 +900,15 @@
     "event_id": "542245"
   },
   {
+    "date": "Sat, Feb 13",
+    "artists": "Kayzo, hhunter",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/kayzo-hhunter-551757",
+    "event_id": "551757"
+  },
+  {
     "date": "Thu, Feb 18",
     "artists": "Chelsea Cutler",
     "venue": "Saint Andrew's Hall",
@@ -943,5 +1015,23 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/detroits-inferno-iv-modal-nodes-510888",
     "event_id": "510888"
+  },
+  {
+    "date": "Sat, Apr 24",
+    "artists": "MC4D",
+    "venue": "El Club",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/mc4d-551467",
+    "event_id": "551467"
+  },
+  {
+    "date": "Fri, May 21",
+    "artists": "Two Friends",
+    "venue": "Detroit Masonic Temple",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/two-friends-551675",
+    "event_id": "551675"
   }
 ]
