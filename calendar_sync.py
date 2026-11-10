@@ -30,6 +30,11 @@ EVENTS_FILE = Path("data/my_events.json")
 
 
 def infer_date(date_str: str, today: date) -> date | None:
+    """Turn 'Fri, Nov 13' into a full date.
+
+    The page gives no year, so try this year and next, and pick the one where
+    the weekday matches and the date is not in the past.
+    """
     weekday, rest = [part.strip() for part in date_str.split(",", 1)]
     for year in (today.year, today.year + 1):
         try:
@@ -109,7 +114,26 @@ def main() -> int:
     from googleapiclient.errors import HttpError
 
     service = get_service()
-    calendar_id = os.environ["GOOGLE_CALENDAR_ID"]
+    # Tolerate stray spaces, newlines or quotes pasted into the secret
+    calendar_id = os.environ["GOOGLE_CALENDAR_ID"].strip().strip("\"'").strip()
+
+    # Preflight: can the service account see this calendar at all?
+    try:
+        service.calendars().get(calendarId=calendar_id).execute()
+    except HttpError as err:
+        if err.resp.status in (403, 404):
+            sa_email = json.loads(os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]).get("client_email", "(unknown)")
+            print(
+                f"Google says HTTP {err.resp.status}: this service account cannot access the calendar.\n"
+                f"  1. Check GOOGLE_CALENDAR_ID is the calendar's ID (Calendar settings -> "
+                f"Integrate calendar), e.g. something@group.calendar.google.com\n"
+                f"  2. Check the calendar is shared with {sa_email} "
+                f"with 'Make changes to events'.",
+                file=sys.stderr,
+            )
+            return 1
+        raise
+
     created = updated = unchanged = skipped_deleted = 0
 
     for e, day, body in planned:
