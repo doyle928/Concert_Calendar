@@ -1,14 +1,5 @@
 [
   {
-    "date": "Tue, Nov 10",
-    "artists": "LOCOMOTION: Wax Assassin, Hypemelo, Liminal",
-    "venue": "SPKRBOX",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/locomotion-wax-assassin-551137",
-    "event_id": "551137"
-  },
-  {
     "date": "Fri, Nov 13",
     "artists": "Ray Volpe, BARELY ALIVE, NEOTEK",
     "venue": "Russell Industrial Center",
@@ -171,6 +162,15 @@
     "event_id": "548936"
   },
   {
+    "date": "Sat, Nov 14",
+    "artists": "BassBin presents- SATURDAY 11.14.26, Zach Bletz Bday Party: Zach Bletz, Nico Blue",
+    "venue": "Billy's Lounge",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/bassbin-presents-saturday-11-14-26-zach-bletz-bday-party-zach-bletz-552115",
+    "event_id": "552115"
+  },
+  {
     "date": "Sun, Nov 15",
     "artists": "Industry Sundays: Nikkie Nocturnal",
     "venue": "Garden Bowl",
@@ -253,21 +253,39 @@
   },
   {
     "date": "Fri, Nov 20",
-    "artists": "Beautiful People Tour: Buku",
-    "venue": "Shakespeare's Lower-Level",
-    "city": "Kalamazoo, MI",
-    "age": "21+",
-    "url": "https://edmtrain.com/michigan/beautiful-people-tour-buku-544451",
-    "event_id": "544451"
-  },
-  {
-    "date": "Fri, Nov 20",
     "artists": "Hairitage, King Kozz b2b Wubstreet, Riink, DISCOBOT",
     "venue": "Amplify",
     "city": "Hamtramck, MI",
     "age": "21+",
     "url": "https://edmtrain.com/detroit-mi/hairitage-king-kozz-545368",
     "event_id": "545368"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Shigeto, Josh Dunn",
+    "venue": "Moondog Caf\u00e9",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/shigeto-josh-dunn-551958",
+    "event_id": "551958"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Eddie Logix, Turtle Bugg, Ameera",
+    "venue": "TV Lounge",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/eddie-logix-turtle-bugg-552063",
+    "event_id": "552063"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Beautiful People Tour: Buku",
+    "venue": "Shakespeare's Lower-Level",
+    "city": "Kalamazoo, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/michigan/beautiful-people-tour-buku-544451",
+    "event_id": "544451"
   },
   {
     "date": "Fri, Nov 20",
@@ -469,7 +487,7 @@
   },
   {
     "date": "Sat, Nov 28",
-    "artists": "Sanctuary - Offering - 1 Year Anniversary: autogyro, Boyfriend Dick, DJirl, DJ Sphinx, HazMat, Hypemelo, Jamea., Marc Homer, misss.mamasss, Tylr, Wax Assassin, we1sman",
+    "artists": "Sanctuary - Offering - 1 Year Anniversary: autogyro, Boyfriend Dick, DJirl, DJ Sphinx, HazMat, Hypemelo, Jamea, Marc Homer, misss.mamasss, TYLR_, Wax Assassin, we1sman, Amino, SINA, Bare Naked, Kas",
     "venue": "Menjo's",
     "city": "Detroit, MI",
     "age": "",
@@ -646,6 +664,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551663",
     "event_id": "551663"
+  },
+  {
+    "date": "Thu, Dec 17",
+    "artists": "GRiZ, & Friends",
+    "venue": "El Club",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/griz-and-friends-552090",
+    "event_id": "552090"
   },
   {
     "date": "Fri, Dec 18",
@@ -901,10 +928,10 @@
   },
   {
     "date": "Sat, Feb 13",
-    "artists": "Kayzo, hhunter",
+    "artists": "Kayzo, hhunter, Raedy Lex",
     "venue": "Magic Stick",
     "city": "Detroit, MI",
-    "age": "",
+    "age": "18+",
     "url": "https://edmtrain.com/detroit-mi/kayzo-hhunter-551757",
     "event_id": "551757"
   },
@@ -1030,7 +1057,7 @@
     "artists": "Two Friends",
     "venue": "Detroit Masonic Temple",
     "city": "Detroit, MI",
-    "age": "",
+    "age": "16+",
     "url": "https://edmtrain.com/detroit-mi/two-friends-551675",
     "event_id": "551675"
   }
