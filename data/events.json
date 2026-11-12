@@ -91,21 +91,21 @@
   },
   {
     "date": "Sat, Nov 14",
-    "artists": "The Dark Harvest II: PhaseOne b2b Calcium, Dion Timmer, Ruvlo, Gateway Division, RipOff, Watch Party, ZTJ, LEVEE BANKS, Jitter, 808BUMPIN b2b Park Attendant",
-    "venue": "Crofoot Ballroom",
-    "city": "Pontiac, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/the-dark-harvest-ii-phaseone-545104",
-    "event_id": "545104"
+    "artists": "Pool Party: Mersiv, Lowke, Konundrum",
+    "venue": "Gun Lake Casino Resort",
+    "city": "Wayland, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826",
+    "event_id": "542826"
   },
   {
     "date": "Sat, Nov 14",
-    "artists": "Nic Vans",
-    "venue": "Grewal Hall at 224",
-    "city": "Lansing, MI",
+    "artists": "BassBin presents- SATURDAY 11.14.26, Zach Bletz Bday Party: Zach Bletz, Nico Blue",
+    "venue": "Billy's Lounge",
+    "city": "Grand Rapids, MI",
     "age": "",
-    "url": "https://edmtrain.com/michigan/nic-vans-545417",
-    "event_id": "545417"
+    "url": "https://edmtrain.com/grand-rapids-mi/bassbin-presents-saturday-11-14-26-zach-bletz-bday-party-zach-bletz-552115",
+    "event_id": "552115"
   },
   {
     "date": "Sat, Nov 14",
@@ -115,15 +115,6 @@
     "age": "21+",
     "url": "https://edmtrain.com/michigan/chef-boyarbeatz-519933",
     "event_id": "519933"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Pool Party: Mersiv, Lowke, Konundrum",
-    "venue": "Gun Lake Casino Resort",
-    "city": "Wayland, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826",
-    "event_id": "542826"
   },
   {
     "date": "Sat, Nov 14",
@@ -160,15 +151,6 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/dj-marathon-dj-carter-548936",
     "event_id": "548936"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "BassBin presents- SATURDAY 11.14.26, Zach Bletz Bday Party: Zach Bletz, Nico Blue",
-    "venue": "Billy's Lounge",
-    "city": "Grand Rapids, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/bassbin-presents-saturday-11-14-26-zach-bletz-bday-party-zach-bletz-552115",
-    "event_id": "552115"
   },
   {
     "date": "Sun, Nov 15",
@@ -594,6 +576,15 @@
     "event_id": "545703"
   },
   {
+    "date": "Sat, Dec 5",
+    "artists": "House Specific Vol 3: Dantiez, Illuminosity, hot pxl, J T, Damselfly, b l u s h, Adrian Mason, K-Lala, N8, Cheque, POCKET PRESENCE, MelBeatz, Smith & Reckless",
+    "venue": "The Old Shillelagh",
+    "city": "Detroit, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/detroit-mi/house-specific-vol-3-dantiez-552142",
+    "event_id": "552142"
+  },
+  {
     "date": "Sun, Dec 6",
     "artists": "Industry Sundays: Nikkie Nocturnal",
     "venue": "Garden Bowl",
@@ -619,6 +610,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/dnb-vs-dubstep-showdown-zubstep-548229",
     "event_id": "548229"
+  },
+  {
+    "date": "Fri, Dec 11",
+    "artists": "GRiZ",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/griz-552220",
+    "event_id": "552220"
   },
   {
     "date": "Sat, Dec 12",
@@ -763,6 +763,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/reptant-pearson-sound-551344",
     "event_id": "551344"
+  },
+  {
+    "date": "Sat, Jan 9",
+    "artists": "The Dark Harvest II: PhaseOne b2b Calcium, Dion Timmer, Ruvlo, Gateway Division, RipOff, Watch Party, ZTJ, LEVEE BANKS, Jitter, 808BUMPIN b2b Park Attendant",
+    "venue": "Crofoot Ballroom",
+    "city": "Pontiac, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/the-dark-harvest-ii-phaseone-545104",
+    "event_id": "545104"
   },
   {
     "date": "Fri, Jan 15",
@@ -918,6 +927,15 @@
     "event_id": "547061"
   },
   {
+    "date": "Fri, Feb 12",
+    "artists": "Kawaii Rave",
+    "venue": "Stache at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/kawaii-rave-552264",
+    "event_id": "552264"
+  },
+  {
     "date": "Sat, Feb 13",
     "artists": "2000s Rave",
     "venue": "Elevation at The Intersection",
@@ -1015,6 +1033,15 @@
     "age": "16+",
     "url": "https://edmtrain.com/detroit-mi/lsdream-distinct-motive-550093",
     "event_id": "550093"
+  },
+  {
+    "date": "Sat, Mar 27",
+    "artists": "Tiffany Day",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/tiffany-day-552307",
+    "event_id": "552307"
   },
   {
     "date": "Fri, Apr 2",

@@ -50,16 +50,6 @@
     "venue_detail": ""
   },
   {
-    "date": "Sat, Nov 14",
-    "artists": "The Dark Harvest II: PhaseOne b2b Calcium, Dion Timmer, Ruvlo, Gateway Division, RipOff, Watch Party, ZTJ, LEVEE BANKS, Jitter, 808BUMPIN b2b Park Attendant",
-    "venue": "Crofoot Ballroom",
-    "city": "Pontiac, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/the-dark-harvest-ii-phaseone-545104",
-    "event_id": "545104",
-    "venue_detail": ""
-  },
-  {
     "date": "Thu, Nov 19",
     "artists": "Volpetron Eternal: Ray Volpe, Tisoki",
     "venue": "The Intersection",
@@ -200,6 +190,16 @@
     "venue_detail": ""
   },
   {
+    "date": "Fri, Dec 11",
+    "artists": "GRiZ",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/griz-552220",
+    "event_id": "552220",
+    "venue_detail": ""
+  },
+  {
     "date": "Sat, Dec 12",
     "artists": "RIOT, VLCN, C.A.M, Pandalicious, RE:CVLEBRVTE",
     "venue": "Elektricity",
@@ -257,6 +257,16 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/zero-hour-new-years-eve-2027-space-wizard-543373",
     "event_id": "543373",
+    "venue_detail": ""
+  },
+  {
+    "date": "Sat, Jan 9",
+    "artists": "The Dark Harvest II: PhaseOne b2b Calcium, Dion Timmer, Ruvlo, Gateway Division, RipOff, Watch Party, ZTJ, LEVEE BANKS, Jitter, 808BUMPIN b2b Park Attendant",
+    "venue": "Crofoot Ballroom",
+    "city": "Pontiac, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/the-dark-harvest-ii-phaseone-545104",
+    "event_id": "545104",
     "venue_detail": ""
   },
   {
@@ -400,6 +410,16 @@
     "venue_detail": ""
   },
   {
+    "date": "Fri, Feb 12",
+    "artists": "Kawaii Rave",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/kawaii-rave-552264",
+    "event_id": "552264",
+    "venue_detail": "Stache at The Intersection"
+  },
+  {
     "date": "Sat, Feb 13",
     "artists": "2000s Rave",
     "venue": "The Intersection",
@@ -457,6 +477,16 @@
     "age": "16+",
     "url": "https://edmtrain.com/detroit-mi/lsdream-distinct-motive-550093",
     "event_id": "550093",
+    "venue_detail": ""
+  },
+  {
+    "date": "Sat, Mar 27",
+    "artists": "Tiffany Day",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/tiffany-day-552307",
+    "event_id": "552307",
     "venue_detail": ""
   },
   {
