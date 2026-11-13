@@ -55,6 +55,15 @@
   },
   {
     "date": "Sat, Nov 14",
+    "artists": "Chef Boyarbeatz",
+    "venue": "Papa Pete's",
+    "city": "Kalamazoo, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/michigan/chef-boyarbeatz-519933",
+    "event_id": "519933"
+  },
+  {
+    "date": "Sat, Nov 14",
     "artists": "Steller",
     "venue": "Elektricity",
     "city": "Pontiac, MI",
@@ -91,15 +100,6 @@
   },
   {
     "date": "Sat, Nov 14",
-    "artists": "Pool Party: Mersiv, Lowke, Konundrum",
-    "venue": "Gun Lake Casino Resort",
-    "city": "Wayland, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826",
-    "event_id": "542826"
-  },
-  {
-    "date": "Sat, Nov 14",
     "artists": "BassBin presents- SATURDAY 11.14.26, Zach Bletz Bday Party: Zach Bletz, Nico Blue",
     "venue": "Billy's Lounge",
     "city": "Grand Rapids, MI",
@@ -109,12 +109,12 @@
   },
   {
     "date": "Sat, Nov 14",
-    "artists": "Chef Boyarbeatz",
-    "venue": "Papa Pete's",
-    "city": "Kalamazoo, MI",
-    "age": "21+",
-    "url": "https://edmtrain.com/michigan/chef-boyarbeatz-519933",
-    "event_id": "519933"
+    "artists": "Pool Party: Mersiv, Lowke, Konundrum",
+    "venue": "Gun Lake Casino Resort",
+    "city": "Wayland, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826",
+    "event_id": "542826"
   },
   {
     "date": "Sat, Nov 14",
@@ -226,15 +226,6 @@
   },
   {
     "date": "Fri, Nov 20",
-    "artists": "Rave Revival Tour: Rave Jesus",
-    "venue": "Diamondback Music Hall",
-    "city": "Belleville, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/rave-revival-tour-rave-jesus-533451",
-    "event_id": "533451"
-  },
-  {
-    "date": "Fri, Nov 20",
     "artists": "Hairitage, King Kozz b2b Wubstreet, Riink, DISCOBOT",
     "venue": "Amplify",
     "city": "Hamtramck, MI",
@@ -259,6 +250,24 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/eddie-logix-turtle-bugg-552063",
     "event_id": "552063"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Now Thats What I Call Rave Night Vol 2: lumii, PRXYZ, Beeyae, DJ Roomba, Glyft (G-Munk)",
+    "venue": "Lotus Room Event Center",
+    "city": "Norton Shores, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/now-thats-what-i-call-rave-night-vol-2-lumii-552378",
+    "event_id": "552378"
+  },
+  {
+    "date": "Fri, Nov 20",
+    "artists": "Rave Revival Tour: Rave Jesus",
+    "venue": "Diamondback Music Hall",
+    "city": "Belleville, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/rave-revival-tour-rave-jesus-533451",
+    "event_id": "533451"
   },
   {
     "date": "Fri, Nov 20",
@@ -613,11 +622,11 @@
   },
   {
     "date": "Fri, Dec 11",
-    "artists": "GRiZ",
+    "artists": "The Nightmare Before GRiZMAS: GRiZ",
     "venue": "Russell Industrial Center",
     "city": "Detroit, MI",
     "age": "18+",
-    "url": "https://edmtrain.com/detroit-mi/griz-552220",
+    "url": "https://edmtrain.com/detroit-mi/the-nightmare-before-grizmas-griz-552220",
     "event_id": "552220"
   },
   {
@@ -655,6 +664,15 @@
     "age": "21+",
     "url": "https://edmtrain.com/detroit-mi/jacques-greene-matthew-dear-551089",
     "event_id": "551089"
+  },
+  {
+    "date": "Sat, Dec 12",
+    "artists": "House Werk 001: Joshua Tree, K-Lala, Werkout Plan, DJ Girl Wunder, FOOD FIGHT",
+    "venue": "Amplify",
+    "city": "Hamtramck, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/house-werk-001-joshua-tree-552358",
+    "event_id": "552358"
   },
   {
     "date": "Sun, Dec 13",
@@ -1026,6 +1044,24 @@
     "event_id": "544266"
   },
   {
+    "date": "Thu, Mar 18",
+    "artists": "Sullivan King, TYNAN, Benda",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/sullivan-king-tynan-552597",
+    "event_id": "552597"
+  },
+  {
+    "date": "Sat, Mar 20",
+    "artists": "Sullivan King, TYNAN, Benda",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/sullivan-king-tynan-552599",
+    "event_id": "552599"
+  },
+  {
     "date": "Fri, Mar 26",
     "artists": "LSDREAM, Distinct Motive, Steller, Fossils",
     "venue": "Detroit Masonic Temple",
@@ -1039,7 +1075,7 @@
     "artists": "Tiffany Day",
     "venue": "Majestic Theatre Detroit",
     "city": "Detroit, MI",
-    "age": "",
+    "age": "All Ages",
     "url": "https://edmtrain.com/detroit-mi/tiffany-day-552307",
     "event_id": "552307"
   },

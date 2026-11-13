@@ -191,11 +191,11 @@
   },
   {
     "date": "Fri, Dec 11",
-    "artists": "GRiZ",
+    "artists": "The Nightmare Before GRiZMAS: GRiZ",
     "venue": "Russell Industrial Center",
     "city": "Detroit, MI",
     "age": "18+",
-    "url": "https://edmtrain.com/detroit-mi/griz-552220",
+    "url": "https://edmtrain.com/detroit-mi/the-nightmare-before-grizmas-griz-552220",
     "event_id": "552220",
     "venue_detail": ""
   },
@@ -470,6 +470,26 @@
     "venue_detail": ""
   },
   {
+    "date": "Thu, Mar 18",
+    "artists": "Sullivan King, TYNAN, Benda",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/sullivan-king-tynan-552597",
+    "event_id": "552597",
+    "venue_detail": ""
+  },
+  {
+    "date": "Sat, Mar 20",
+    "artists": "Sullivan King, TYNAN, Benda",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/sullivan-king-tynan-552599",
+    "event_id": "552599",
+    "venue_detail": ""
+  },
+  {
     "date": "Fri, Mar 26",
     "artists": "LSDREAM, Distinct Motive, Steller, Fossils",
     "venue": "Detroit Masonic Temple",
@@ -484,7 +504,7 @@
     "artists": "Tiffany Day",
     "venue": "Majestic Theatre Detroit",
     "city": "Detroit, MI",
-    "age": "",
+    "age": "All Ages",
     "url": "https://edmtrain.com/detroit-mi/tiffany-day-552307",
     "event_id": "552307",
     "venue_detail": ""
