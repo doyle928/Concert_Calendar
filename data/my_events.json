@@ -1,15 +1,5 @@
 [
   {
-    "date": "Fri, Nov 13",
-    "artists": "Ray Volpe, BARELY ALIVE, NEOTEK",
-    "venue": "Russell Industrial Center",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/ray-volpe-barely-alive-519139",
-    "event_id": "519139",
-    "venue_detail": ""
-  },
-  {
     "date": "Sat, Nov 14",
     "artists": "STS9",
     "venue": "Royal Oak Theatre",
@@ -474,7 +464,7 @@
     "artists": "Sullivan King, TYNAN, Benda",
     "venue": "The Intersection",
     "city": "Grand Rapids, MI",
-    "age": "",
+    "age": "18+",
     "url": "https://edmtrain.com/grand-rapids-mi/sullivan-king-tynan-552597",
     "event_id": "552597",
     "venue_detail": ""
@@ -484,7 +474,7 @@
     "artists": "Sullivan King, TYNAN, Benda",
     "venue": "Royal Oak Theatre",
     "city": "Royal Oak, MI",
-    "age": "",
+    "age": "16+",
     "url": "https://edmtrain.com/detroit-mi/sullivan-king-tynan-552599",
     "event_id": "552599",
     "venue_detail": ""

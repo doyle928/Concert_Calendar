@@ -70,7 +70,7 @@ Unplugs Hearing Protection. Click to protect, click to chat!](https://edmtrain.c
 
 [See Details](https://edmtrain.com/?feature=2635)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/feature/1748.webp?v=4)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/feature/1749.webp?v=4)\\
 \\
 🧟‍♂️ Dont be a zombie on Monday. Rave healthy. Trusted by 100,000+ EDM lovers around the world.](https://www.amazon.com/dp/B08P9VS99Z)
 
@@ -80,7 +80,15 @@ Recently Added
 
 [Candlelight](https://edmtrain.com/michigan)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/2593-large.webp?v=7)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/artist/18700-large.webp?v=2)\\
+\\
+Stacey Hotwaxx Hale, Father Dukes, Dru Allan\\
+\\
+Northern Lights Lounge\\
+\\
+Wed, Nov 25](https://edmtrain.com/detroit-mi/stacey-hotwaxx-hale-father-dukes-552880)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/event/552599-large.webp?v=1)\\
 \\
 Sullivan King, TYNAN, Benda\\
 \\
@@ -296,14 +304,6 @@ TV Lounge\\
 \\
 Sat, Dec 12](https://edmtrain.com/detroit-mi/jacques-greene-matthew-dear-551089)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)\\
-\\
-SKY JETTA\\
-\\
-Northern Lights Lounge\\
-\\
-Fri, Nov 13](https://edmtrain.com/detroit-mi/sky-jetta-550976)
-
 [![](https://d2po6uops3e7id.cloudfront.net/img/event/550957-large.webp?v=1)\\
 \\
 Sanctuary - Offering - 1 Year Anniversary: autogyro, Boyfriend Dick, DJirl, DJ Sphinx, HazMat, Hypemelo, Jamea, Marc Homer, misss.mamasss, TYLR\_, Wax Assassin, we1sman, Amino, SINA, Bare Naked, Kas\\
@@ -335,111 +335,6 @@ Apr
 [Share Likes](https://edmtrain.com/michigan) [Sync Calendar](https://edmtrain.com/michigan)
 
 No suggested events (connect your music below or like more artists)
-
-Fri, Nov 13
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/2951.webp?v=4)\\
-\\
-Ray Volpe, BARELY ALIVE, NEOTEK\\
-\\
-Russell Industrial Center \- Detroit, MI\\
-\\
-\\
-Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/ray-volpe-barely-alive-519139)
-
-[Get Tickets](https://edmtrain.com/detroit-mi/ray-volpe-barely-alive-519139?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/519139&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F519139%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/ray-volpe-barely-alive-519139?get=stubhub)
-
-[Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/2951.webp?v=4)](https://edmtrain.com/tours/ray-volpe-2951)
-
-[Ray Volpe](https://edmtrain.com/tours/ray-volpe-2951)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/1522.webp?v=5)](https://edmtrain.com/tours/barely-alive-1522)
-
-[BARELY ALIVE](https://edmtrain.com/tours/barely-alive-1522)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/50641.webp?v=1)](https://edmtrain.com/tours/neotek-50641)
-
-[NEOTEK](https://edmtrain.com/tours/neotek-50641)
-
-[bass music](https://open.spotify.com/playlist/3fva5PDy3o8ewFmo0zHBLY) [deathstep](https://open.spotify.com/playlist/0muM3KbvGflibIopOxuKVa) [dubstep](https://open.spotify.com/playlist/0ZYFF9tPuPq2YNMRNhQZJt)melodic bass [riddim](https://open.spotify.com/playlist/5JemXUnCO5ULaqdFJG6d67)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/event/530723.webp?v=2)\\
-\\
-Blasterjaxx, Teith, Nikkie Nocturnal, Yours Treuly\\
-\\
-Magic Stick \- Detroit, MI18+](https://edmtrain.com/detroit-mi/blasterjaxx-teith-530723)
-
-![](https://d2po6uops3e7id.cloudfront.net/img/event/530723-large.webp?v=2)
-
-[Get Tickets](https://edmtrain.com/detroit-mi/blasterjaxx-teith-530723?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/530723&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F530723%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/blasterjaxx-teith-530723?get=stubhub)
-
-[Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/121.webp?v=3)](https://edmtrain.com/tours/blasterjaxx-121)
-
-[Blasterjaxx](https://edmtrain.com/tours/blasterjaxx-121)
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
-
-Nikkie Nocturnal
-
-[big room](https://open.spotify.com/playlist/70E7wtl8eL3IG2kpaWok6E) [edm](https://open.spotify.com/playlist/3pDxuMpz94eDs7WFqudTbZ)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/event/541593.webp?v=1)\\
-\\
-Friday the 13th: ST4MM3NA, Solarus, H DEEZY, NEBULA, Devon Rexx b2b Navigtr, ZTJ\\
-\\
-Tickets available at Posh.vip, Original Home Base DJ crew, RayCheezy's 33rd,\\
-\\
-Amplify \- Hamtramck, MI\\
-\\
-\\
-Added by\\
-amplify429](https://edmtrain.com/detroit-mi/friday-the-13th-st4mm3na-541593)
-
-![](https://d2po6uops3e7id.cloudfront.net/img/event/541593-large.webp?v=1)
-
-[Get Tickets](https://edmtrain.com/detroit-mi/friday-the-13th-st4mm3na-541593?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/541593&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F541593%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
-
-[Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
-
-ST4MM3NA
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
-
-Solarus
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
-
-Devon Rexx
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
-
-ZTJ
-
-[drum and bass](https://open.spotify.com/playlist/18b0DBiqVtRuj34OKPCgj6) [dubstep](https://open.spotify.com/playlist/0ZYFF9tPuPq2YNMRNhQZJt) [experimental bass](https://open.spotify.com/playlist/55CFBhiiIM4k0rUYbLWWPU) [riddim](https://open.spotify.com/playlist/5JemXUnCO5ULaqdFJG6d67)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)\\
-\\
-SKY JETTA\\
-\\
-Northern Lights Lounge \- Detroit, MI\\
-\\
-\\
-new](https://edmtrain.com/detroit-mi/sky-jetta-550976)
-
-[Get Tickets](https://edmtrain.com/detroit-mi/sky-jetta-550976?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/550976&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F550976%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
-
-[Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
-
-SKY JETTA
 
 Sat, Nov 14
 
@@ -504,7 +399,11 @@ driftsignal68](https://edmtrain.com/michigan/chef-boyarbeatz-519933)
 \\
 Steller\\
 \\
-Elektricity \- Pontiac, MI](https://edmtrain.com/detroit-mi/steller-525217)
+Elektricity \- Pontiac, MI\\
+\\
+\\
+Edited by\\
+nyxo9,824](https://edmtrain.com/detroit-mi/steller-525217)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/steller-525217?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/525217&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F525217%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/steller-525217?get=stubhub)
 
@@ -524,7 +423,7 @@ Russell Industrial Center \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/layton-giordani-roddy-lima-532195)
+funkmeup588,514](https://edmtrain.com/detroit-mi/layton-giordani-roddy-lima-532195)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/532195-large.webp?v=1)
 
@@ -562,7 +461,7 @@ The Intersection \- Grand Rapids, MI\\
 \\
 \\
 Added by\\
-sectionchad32,604](https://edmtrain.com/grand-rapids-mi/boogie-t-subdocta-533794)
+sectionchad32,638](https://edmtrain.com/grand-rapids-mi/boogie-t-subdocta-533794)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/533794-large.webp?v=1)
 
@@ -622,7 +521,7 @@ Billy's Lounge \- Grand Rapids, MI\\
 \\
 \\
 Added by\\
-bassbingr551\\
+bassbingr553\\
 \\
 new](https://edmtrain.com/grand-rapids-mi/bassbin-presents-saturday-11-14-26-zach-bletz-bday-party-zach-bletz-552115)
 
@@ -650,7 +549,7 @@ Gun Lake Casino Resort \- Wayland, MI\\
 \\
 \\
 Added by\\
-devinkelch013574](https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826)
+devinkelch013600](https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826)
 
 [Get Tickets](https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/542826&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F542826%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
 
@@ -754,7 +653,7 @@ Garden Bowl \- Detroit, MI\\
 \\
 \\
 Added by\\
-nikkienocturnal6,014\\
+nikkienocturnal6,023\\
 \\
 new](https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551658)
 
@@ -803,7 +702,7 @@ Volpetron Eternal: Ray Volpe, Tisoki\\
 The Intersection \- Grand Rapids, MI18+\\
 \\
 Added by\\
-sectionchad32,604](https://edmtrain.com/grand-rapids-mi/volpetron-eternal-ray-volpe-519097)
+sectionchad32,638](https://edmtrain.com/grand-rapids-mi/volpetron-eternal-ray-volpe-519097)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/519097-large.webp?v=1)
 
@@ -829,7 +728,7 @@ Club Above \- Ann Arbor, MI\\
 \\
 \\
 Added by\\
-itstucc492,917](https://edmtrain.com/detroit-mi/red-velvet-underground-jarm-548180)
+itstucc493,432](https://edmtrain.com/detroit-mi/red-velvet-underground-jarm-548180)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/548180-large.webp?v=1)
 
@@ -860,7 +759,7 @@ Victory Live: Madeon, Anamanaguchi\\
 Majestic Theatre Detroit \- Detroit, MI18+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/victory-live-madeon-502117)
+funkmeup588,514](https://edmtrain.com/detroit-mi/victory-live-madeon-502117)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/502117-large.webp?v=1)
 
@@ -916,7 +815,7 @@ Expo Hall at Russell Industrial Center \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 Edited by\\
 nightowl19904,703](https://edmtrain.com/detroit-mi/its-murph-nils-hoffmann-535267)
@@ -983,7 +882,7 @@ Doors at 8:30 Limited Presale\\
 Amplify \- Hamtramck, MI21+\\
 \\
 Added by\\
-amplify429](https://edmtrain.com/detroit-mi/hairitage-king-kozz-545368)
+amplify445](https://edmtrain.com/detroit-mi/hairitage-king-kozz-545368)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/545368-large.webp?v=1)
 
@@ -1061,7 +960,7 @@ Lotus Room Event Center \- Norton Shores, MI\\
 \\
 \\
 Added by\\
-beeyae233\\
+beeyae234\\
 \\
 new](https://edmtrain.com/grand-rapids-mi/now-thats-what-i-call-rave-night-vol-2-lumii-552378)
 
@@ -1098,7 +997,7 @@ Laylo Pre-Sale on sale 8/31 at 10am \| Public on sale 9/1 at 10am\\
 Diamondback Music Hall \- Belleville, MIAll Ages\\
 \\
 Added by\\
-diamondbackmi3,466](https://edmtrain.com/detroit-mi/rave-revival-tour-rave-jesus-533451)
+diamondbackmi3,470](https://edmtrain.com/detroit-mi/rave-revival-tour-rave-jesus-533451)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/533451-large.webp?v=5)
 
@@ -1140,7 +1039,7 @@ $10 before 10pm\\
 \\
 \\
 Added by\\
-wookpackpresent1,982](https://edmtrain.com/detroit-mi/studio-215-dynamique-546957)
+wookpackpresent1,984](https://edmtrain.com/detroit-mi/studio-215-dynamique-546957)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/546957-large.webp?v=1)
 
@@ -1195,7 +1094,7 @@ Daily Bread, Vincent Antone, zoska\\
 Royal Oak Theatre \- Royal Oak, MI18+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/daily-bread-vincent-antone-520764)
+funkmeup588,514](https://edmtrain.com/detroit-mi/daily-bread-vincent-antone-520764)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/520764-large.webp?v=1)
 
@@ -1225,7 +1124,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/whales-tokyo-machine-526298)
+funkmeup588,514](https://edmtrain.com/detroit-mi/whales-tokyo-machine-526298)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/whales-tokyo-machine-526298?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/526298&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F526298%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/whales-tokyo-machine-526298?get=stubhub)
 
@@ -1248,7 +1147,7 @@ After Glow Tour: Canabliss, emrys, blüejay, Ganja Girl\\
 Stache at The Intersection \- Grand Rapids, MI18+\\
 \\
 Edited by\\
-sectionchad32,604](https://edmtrain.com/grand-rapids-mi/after-glow-tour-canabliss-532779)
+sectionchad32,638](https://edmtrain.com/grand-rapids-mi/after-glow-tour-canabliss-532779)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/532779-large.webp?v=2)
 
@@ -1328,19 +1227,29 @@ Redax
 
 [dub techno](https://open.spotify.com/playlist/13Kst5O4iuiTXwJcbBTJ26) [minimal techno](https://open.spotify.com/playlist/68uxlFAvnITCyQs0U8qr6n) [techno](https://open.spotify.com/playlist/50kZecUV5pY2SuJv3Ie0vy)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/4205.webp?v=1)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/event/549319.webp?v=1)\\
 \\
 Joe Nice, Antithesis\\
 \\
-215 West \- Ferndale, MI](https://edmtrain.com/detroit-mi/joe-nice-antithesis-549319)
+215 West \- Ferndale, MI\\
+\\
+\\
+Edited by\\
+itshoodlum806](https://edmtrain.com/detroit-mi/joe-nice-antithesis-mi-549319)
 
-[Get Tickets](https://edmtrain.com/detroit-mi/joe-nice-antithesis-549319?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/549319&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F549319%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
+![](https://d2po6uops3e7id.cloudfront.net/img/event/549319-large.webp?v=1)
+
+[Get Tickets](https://edmtrain.com/detroit-mi/joe-nice-antithesis-mi-549319?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/549319&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F549319%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
 
 [Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
 
 [![](https://d2po6uops3e7id.cloudfront.net/img/artist/4205.webp?v=1)](https://edmtrain.com/tours/joe-nice-4205)
 
 [Joe Nice](https://edmtrain.com/tours/joe-nice-4205)
+
+![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
+
+Antithesis
 
 [![](https://d2po6uops3e7id.cloudfront.net/img/event/550160.webp?v=1)\\
 \\
@@ -1376,14 +1285,11 @@ Le Schlippy
 
 [![](https://d2po6uops3e7id.cloudfront.net/img/artist/4131.webp?v=3)\\
 \\
-John Acquaviva\\
+John Acquaviva, Terrence Dixon, Pablo R, Ruiz\\
 \\
-Marble Bar \- Detroit, MI\\
-\\
-\\
-new](https://edmtrain.com/detroit-mi/john-acquaviva-550576)
+Marble Bar \- Detroit, MI](https://edmtrain.com/detroit-mi/john-acquaviva-terrence-dixon-550576)
 
-[Get Tickets](https://edmtrain.com/detroit-mi/john-acquaviva-550576?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/550576&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F550576%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
+[Get Tickets](https://edmtrain.com/detroit-mi/john-acquaviva-terrence-dixon-550576?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/550576&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F550576%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
 
 [Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
 
@@ -1391,7 +1297,11 @@ new](https://edmtrain.com/detroit-mi/john-acquaviva-550576)
 
 [John Acquaviva](https://edmtrain.com/tours/john-acquaviva-4131)
 
-[minimal techno](https://open.spotify.com/playlist/68uxlFAvnITCyQs0U8qr6n) [tech house](https://open.spotify.com/playlist/7HxEKL4NF7ZKakfTZiekTr)
+[![](https://d2po6uops3e7id.cloudfront.net/img/artist/4165.webp?v=1)](https://edmtrain.com/tours/terrence-dixon-4165)
+
+[Terrence Dixon](https://edmtrain.com/tours/terrence-dixon-4165)
+
+[dub techno](https://open.spotify.com/playlist/13Kst5O4iuiTXwJcbBTJ26)idm [minimal techno](https://open.spotify.com/playlist/68uxlFAvnITCyQs0U8qr6n) [tech house](https://open.spotify.com/playlist/7HxEKL4NF7ZKakfTZiekTr)
 
 Sun, Nov 22
 
@@ -1405,7 +1315,7 @@ Garden Bowl \- Detroit, MI\\
 \\
 \\
 Added by\\
-nikkienocturnal6,014\\
+nikkienocturnal6,023\\
 \\
 new](https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551659)
 
@@ -1431,7 +1341,7 @@ Amplify \- Hamtramck, MI\\
 \\
 \\
 Added by\\
-amplify429](https://edmtrain.com/detroit-mi/amplify-grand-opening-tba-534489)
+amplify445](https://edmtrain.com/detroit-mi/amplify-grand-opening-tba-534489)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/534489-large.webp?v=1)
 
@@ -1449,7 +1359,7 @@ HALO Bar & Lounge \- Detroit, MI\\
 \\
 \\
 Added by\\
-connectedd39](https://edmtrain.com/detroit-mi/city-of-machines-hazmat-detroit-541596)
+connectedd41](https://edmtrain.com/detroit-mi/city-of-machines-hazmat-detroit-541596)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/541596-large.webp?v=1)
 
@@ -1467,6 +1377,27 @@ Jesse James
 
 [electro](https://open.spotify.com/playlist/4oBAlPMMM8HqTd9ee6GiRr) [techno](https://open.spotify.com/playlist/50kZecUV5pY2SuJv3Ie0vy)
 
+[![](https://d2po6uops3e7id.cloudfront.net/img/artist/18700.webp?v=2)\\
+\\
+Stacey Hotwaxx Hale, Father Dukes, Dru Allan\\
+\\
+Northern Lights Lounge \- Detroit, MI\\
+\\
+\\
+new](https://edmtrain.com/detroit-mi/stacey-hotwaxx-hale-father-dukes-552880)
+
+[Get Tickets](https://edmtrain.com/detroit-mi/stacey-hotwaxx-hale-father-dukes-552880?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/552880&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F552880%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
+
+[Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/artist/18700.webp?v=2)](https://edmtrain.com/tours/stacey-hotwaxx-hale-18700)
+
+[Stacey Hotwaxx Hale](https://edmtrain.com/tours/stacey-hotwaxx-hale-18700)
+
+![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
+
+Father Dukes
+
 Fri, Nov 27
 
 [![](https://d2po6uops3e7id.cloudfront.net/img/event/535706.webp?v=1)\\
@@ -1477,7 +1408,7 @@ Detroit Masonic Temple \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/zeds-dead-taiki-nulight-535706)
+funkmeup588,514](https://edmtrain.com/detroit-mi/zeds-dead-taiki-nulight-535706)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/535706-large.webp?v=1)
 
@@ -1587,7 +1518,7 @@ Detroit Masonic Temple \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/zeds-dead-jkyl-and-hyde-535707)
+funkmeup588,514](https://edmtrain.com/detroit-mi/zeds-dead-jkyl-and-hyde-535707)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/535707-large.webp?v=1)
 
@@ -1735,10 +1666,7 @@ Sun, Nov 29
 \\
 Terrence Parker\\
 \\
-TV Lounge \- Detroit, MI\\
-\\
-\\
-new](https://edmtrain.com/detroit-mi/terrence-parker-550628)
+TV Lounge \- Detroit, MI](https://edmtrain.com/detroit-mi/terrence-parker-550628)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/terrence-parker-550628?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/550628&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F550628%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
 
@@ -1760,7 +1688,7 @@ Garden Bowl \- Detroit, MI\\
 \\
 \\
 Added by\\
-nikkienocturnal6,014\\
+nikkienocturnal6,023\\
 \\
 new](https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551660)
 
@@ -1784,7 +1712,7 @@ Elevation at The Intersection \- Grand Rapids, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/grand-rapids-mi/ahee-mport-528497)
+funkmeup588,514](https://edmtrain.com/grand-rapids-mi/ahee-mport-528497)
 
 [Get Tickets](https://edmtrain.com/grand-rapids-mi/ahee-mport-528497?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/528497&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F528497%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/grand-rapids-mi/ahee-mport-528497?get=stubhub)
 
@@ -1810,7 +1738,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/layz-kozmoz-533822)
+funkmeup588,514](https://edmtrain.com/detroit-mi/layz-kozmoz-533822)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/533822-large.webp?v=1)
 
@@ -1912,7 +1840,7 @@ The Lincoln Factory \- Detroit, MI\\
 \\
 \\
 Added by\\
-jasonbass2,202](https://edmtrain.com/detroit-mi/mija-541713)
+jasonbass2,205](https://edmtrain.com/detroit-mi/mija-541713)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/541713-large.webp?v=1)
 
@@ -1993,7 +1921,7 @@ FLOOR 2+3 13DJS HEATED PATIO FOOD TILL 11PM ORDER FROM ALL FLOORS, HEATED SMOKE 
 The Old Shillelagh \- Detroit, MI21+\\
 \\
 Added by\\
-bootscats522\\
+bootscats523\\
 \\
 new](https://edmtrain.com/detroit-mi/house-specific-vol-3-dantiez-552142)
 
@@ -2037,7 +1965,7 @@ Garden Bowl \- Detroit, MI\\
 \\
 \\
 Added by\\
-nikkienocturnal6,014\\
+nikkienocturnal6,023\\
 \\
 new](https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551662)
 
@@ -2085,7 +2013,7 @@ Amplify \- Hamtramck, MI\\
 \\
 \\
 Added by\\
-eclipseent59](https://edmtrain.com/detroit-mi/dnb-vs-dubstep-showdown-zubstep-548229)
+eclipseent65](https://edmtrain.com/detroit-mi/dnb-vs-dubstep-showdown-zubstep-548229)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/548229-large.webp?v=1)
 
@@ -2132,7 +2060,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Edited by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/riot-vlcn-529393)
+funkmeup588,514](https://edmtrain.com/detroit-mi/riot-vlcn-529393)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/529393-large.webp?v=1)
 
@@ -2166,7 +2094,7 @@ Elevation at The Intersection \- Grand Rapids, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/grand-rapids-mi/heyz-535696)
+funkmeup588,514](https://edmtrain.com/grand-rapids-mi/heyz-535696)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/535696-large.webp?v=1)
 
@@ -2232,7 +2160,7 @@ Amplify \- Hamtramck, MI\\
 \\
 \\
 Added by\\
-werkoutplan537\\
+werkoutplan551\\
 \\
 new](https://edmtrain.com/detroit-mi/house-werk-001-joshua-tree-552358)
 
@@ -2272,7 +2200,7 @@ Garden Bowl \- Detroit, MI\\
 \\
 \\
 Added by\\
-nikkienocturnal6,014\\
+nikkienocturnal6,023\\
 \\
 new](https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551663)
 
@@ -2296,7 +2224,7 @@ El Club \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 new](https://edmtrain.com/detroit-mi/griz-and-friends-552090)
 
@@ -2321,7 +2249,7 @@ GRiZMAS: SIPPY, Noetika, GRiZ\\
 Detroit Masonic Temple \- Detroit, MI16+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/grizmas-sippy-538830)
+funkmeup588,514](https://edmtrain.com/detroit-mi/grizmas-sippy-538830)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/538830-large.webp?v=1)
 
@@ -2353,7 +2281,7 @@ Detroit Masonic Temple \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/griz-ravenscoon-538831)
+funkmeup588,514](https://edmtrain.com/detroit-mi/griz-ravenscoon-538831)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/538831-large.webp?v=1)
 
@@ -2387,7 +2315,7 @@ Garden Bowl \- Detroit, MI\\
 \\
 \\
 Added by\\
-nikkienocturnal6,014\\
+nikkienocturnal6,023\\
 \\
 new](https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551664)
 
@@ -2403,30 +2331,6 @@ Nikkie Nocturnal
 
 Sat, Dec 26
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/event/549040.webp?v=1)\\
-\\
-Dept. Of The Disco: Drop Catch, Voyajeur\\
-\\
-No cover 5pm-9pm\\
-\\
-Cannons \- Detroit, MI\\
-\\
-\\
-Added by\\
-wookpackpresent1,982](https://edmtrain.com/detroit-mi/dept-of-the-disco-drop-catch-549040)
-
-![](https://d2po6uops3e7id.cloudfront.net/img/event/549040-large.webp?v=1)
-
-[Get Tickets](https://edmtrain.com/detroit-mi/dept-of-the-disco-drop-catch-549040?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/549040&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F549040%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
-
-[Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
-
-Drop Catch
-
-[disco](https://open.spotify.com/playlist/0ZVSWcJIf7cvycEn9HUvps) [disco house](https://open.spotify.com/playlist/7tW3eTmzzYNNyEmi9qHdQC)french house [funky house](https://open.spotify.com/playlist/1ZwOZItEvdtWZuTVFQfwJs) [italo disco](https://open.spotify.com/playlist/3KqrijNkb21PAycB7ihAQG)
-
 [![](https://d2po6uops3e7id.cloudfront.net/img/artist/2134.webp?v=4)\\
 \\
 Jantsen, Star Monster, BA1i, blüejay, Devon Rexx\\
@@ -2435,9 +2339,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-elektricity2,239\\
-\\
-new](https://edmtrain.com/detroit-mi/jantsen-star-monster-550492)
+elektricity2,251](https://edmtrain.com/detroit-mi/jantsen-star-monster-550492)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/jantsen-star-monster-550492?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/550492&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F550492%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/jantsen-star-monster-550492?get=stubhub)
 
@@ -2465,6 +2367,30 @@ Devon Rexx
 
 [bass music](https://open.spotify.com/playlist/3fva5PDy3o8ewFmo0zHBLY) [dubstep](https://open.spotify.com/playlist/0ZYFF9tPuPq2YNMRNhQZJt)
 
+[![](https://d2po6uops3e7id.cloudfront.net/img/event/549040.webp?v=1)\\
+\\
+Dept. Of The Disco: Drop Catch, Voyajeur\\
+\\
+No cover 5pm-9pm\\
+\\
+Cannons \- Detroit, MI\\
+\\
+\\
+Added by\\
+wookpackpresent1,984](https://edmtrain.com/detroit-mi/dept-of-the-disco-drop-catch-549040)
+
+![](https://d2po6uops3e7id.cloudfront.net/img/event/549040-large.webp?v=1)
+
+[Get Tickets](https://edmtrain.com/detroit-mi/dept-of-the-disco-drop-catch-549040?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/549040&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F549040%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
+
+[Share](https://edmtrain.com/michigan) [Directions](https://edmtrain.com/michigan) [Edit](https://edmtrain.com/michigan)
+
+![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
+
+Drop Catch
+
+[disco](https://open.spotify.com/playlist/0ZVSWcJIf7cvycEn9HUvps) [disco house](https://open.spotify.com/playlist/7tW3eTmzzYNNyEmi9qHdQC)french house [funky house](https://open.spotify.com/playlist/1ZwOZItEvdtWZuTVFQfwJs) [italo disco](https://open.spotify.com/playlist/3KqrijNkb21PAycB7ihAQG)
+
 [![](https://d2po6uops3e7id.cloudfront.net/img/event/550718.webp?v=2)\\
 \\
 Santa Rave: The Saunderson Brothers, Dantiez Saunderson, DaMarii Saunderson, Rolow, TEZMO, Chefboyarzee\\
@@ -2474,7 +2400,7 @@ Early-Bird Tickets on sale now!\\
 Diamondback Music Hall \- Belleville, MI18+\\
 \\
 Added by\\
-diamondbackmi3,466\\
+diamondbackmi3,470\\
 \\
 new](https://edmtrain.com/detroit-mi/santa-rave-the-saunderson-brothers-550718)
 
@@ -2502,7 +2428,7 @@ Garden Bowl \- Detroit, MI\\
 \\
 \\
 Added by\\
-nikkienocturnal6,014\\
+nikkienocturnal6,023\\
 \\
 new](https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551665)
 
@@ -2528,7 +2454,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-exodusenter16,950](https://edmtrain.com/detroit-mi/zero-hour-new-years-eve-2027-space-wizard-543373)
+exodusenter16,961](https://edmtrain.com/detroit-mi/zero-hour-new-years-eve-2027-space-wizard-543373)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/543373-large.webp?v=2)
 
@@ -2624,7 +2550,7 @@ AA\\
 Crofoot Ballroom \- Pontiac, MIAll Ages\\
 \\
 Added by\\
-hiatus5,854](https://edmtrain.com/detroit-mi/the-dark-harvest-ii-phaseone-545104)
+hiatus5,857](https://edmtrain.com/detroit-mi/the-dark-harvest-ii-phaseone-545104)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/545104-large.webp?v=3)
 
@@ -2675,7 +2601,7 @@ Richard Finger, Daggz, Thew\\
 Majestic Theatre Detroit \- Detroit, MI18+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/richard-finger-daggz-535291)
+funkmeup588,514](https://edmtrain.com/detroit-mi/richard-finger-daggz-535291)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/535291-large.webp?v=1)
 
@@ -2705,7 +2631,7 @@ The Intersection \- Grand Rapids, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/grand-rapids-mi/buku-550405)
+funkmeup588,514](https://edmtrain.com/grand-rapids-mi/buku-550405)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/550405-large.webp?v=1)
 
@@ -2729,7 +2655,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/krewella-535254)
+funkmeup588,514](https://edmtrain.com/detroit-mi/krewella-535254)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/535254-large.webp?v=1)
 
@@ -2773,7 +2699,7 @@ Russell Industrial Center \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/ayybo-544270)
+funkmeup588,514](https://edmtrain.com/detroit-mi/ayybo-544270)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/ayybo-544270?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/544270&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F544270%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/ayybo-544270?get=stubhub)
 
@@ -2792,7 +2718,7 @@ Boogie T, Maddy O'Neal, SHOSH\\
 Majestic Theatre Detroit \- Detroit, MI18+\\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 new](https://edmtrain.com/detroit-mi/boogie-t-maddy-oneal-551280)
 
@@ -2825,7 +2751,7 @@ Hiatus x Wub Street Present BLOSSM: BLOSSM, WHOiSEE, Skeemuh, ROYALFLU$H\\
 Pike Room at Crofoot \- Pontiac, MIAll Ages\\
 \\
 Added by\\
-hiatus5,854](https://edmtrain.com/detroit-mi/hiatus-x-wub-street-present-blossm-blossm-540490)
+hiatus5,857](https://edmtrain.com/detroit-mi/hiatus-x-wub-street-present-blossm-blossm-540490)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/540490-large.webp?v=2)
 
@@ -2859,9 +2785,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-elektricity2,239\\
-\\
-new](https://edmtrain.com/detroit-mi/spooky-riddim-returns-hi-im-ghost-550493)
+elektricity2,251](https://edmtrain.com/detroit-mi/spooky-riddim-returns-hi-im-ghost-550493)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/spooky-riddim-returns-hi-im-ghost-550493?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/550493&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F550493%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
 
@@ -2947,7 +2871,7 @@ Russell Industrial Center \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/zingara-gardella-547801)
+funkmeup588,514](https://edmtrain.com/detroit-mi/zingara-gardella-547801)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/zingara-gardella-547801?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/547801&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F547801%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/zingara-gardella-547801?get=stubhub)
 
@@ -2978,7 +2902,7 @@ CYCLOPS, St. Mary, RØNAN, Fludder\\
 Elevation at The Intersection \- Grand Rapids, MI18+\\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 Edited by\\
 r0nan1,793](https://edmtrain.com/grand-rapids-mi/cyclops-st-mary-544981)
@@ -3012,7 +2936,7 @@ D.O.D\\
 Royal Oak Theatre \- Royal Oak, MI18+\\
 \\
 Added by\\
-rotisserie267,943](https://edmtrain.com/detroit-mi/d-o-d-545871)
+rotisserie270,345](https://edmtrain.com/detroit-mi/d-o-d-545871)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/545871-large.webp?v=1)
 
@@ -3033,7 +2957,7 @@ SPAG\\
 Stache at The Intersection \- Grand Rapids, MI18+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/grand-rapids-mi/spag-547825)
+funkmeup588,514](https://edmtrain.com/grand-rapids-mi/spag-547825)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/547825-large.webp?v=1)
 
@@ -3081,7 +3005,7 @@ Effin, Nikita the Wicked, AYCH\\
 Majestic Theatre Detroit \- Detroit, MI18+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/effin-nikita-the-wicked-546304)
+funkmeup588,514](https://edmtrain.com/detroit-mi/effin-nikita-the-wicked-546304)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/546304-large.webp?v=1)
 
@@ -3112,7 +3036,7 @@ Fri, Feb 12
 Detroit Masonic Temple \- Detroit, MIAll Ages\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/2hollis-lucy-bedroque-547061)
+funkmeup588,514](https://edmtrain.com/detroit-mi/2hollis-lucy-bedroque-547061)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/547061-large.webp?v=1)
 
@@ -3138,7 +3062,7 @@ Stache at The Intersection \- Grand Rapids, MI\\
 \\
 \\
 Added by\\
-itstucc492,917\\
+itstucc493,432\\
 \\
 new](https://edmtrain.com/grand-rapids-mi/kawaii-rave-552264)
 
@@ -3160,7 +3084,7 @@ Elevation at The Intersection \- Grand Rapids, MI\\
 \\
 \\
 Added by\\
-synovamusic49,004](https://edmtrain.com/grand-rapids-mi/2000s-rave-542245)
+synovamusic49,108](https://edmtrain.com/grand-rapids-mi/2000s-rave-542245)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/542245-large.webp?v=1)
 
@@ -3177,7 +3101,7 @@ Kayzo, hhunter, Raedy Lex\\
 Magic Stick \- Detroit, MI18+\\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 new](https://edmtrain.com/detroit-mi/kayzo-hhunter-551757)
 
@@ -3211,7 +3135,7 @@ Saint Andrew's Hall \- Detroit, MI\\
 \\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/chelsea-cutler-541516)
+funkmeup588,514](https://edmtrain.com/detroit-mi/chelsea-cutler-541516)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/chelsea-cutler-541516?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/541516&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F541516%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/chelsea-cutler-541516?get=stubhub)
 
@@ -3232,7 +3156,7 @@ LEVEL UP, Costa, Z3LLA, Tazu\\
 Royal Oak Theatre \- Royal Oak, MIAll Ages\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/level-up-costa-dc-542205)
+funkmeup588,514](https://edmtrain.com/detroit-mi/level-up-costa-dc-542205)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/542205-large.webp?v=1)
 
@@ -3268,7 +3192,7 @@ Russell Industrial Center \- Detroit, MI\\
 \\
 \\
 Added by\\
-rotisserie267,943](https://edmtrain.com/detroit-mi/swimming-paul-545268)
+rotisserie270,345](https://edmtrain.com/detroit-mi/swimming-paul-545268)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/swimming-paul-545268?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/545268&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F545268%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0) [StubHub Tickets](https://edmtrain.com/detroit-mi/swimming-paul-545268?get=stubhub)
 
@@ -3287,7 +3211,7 @@ Liquid Stranger, Sully, TWOPERCENT, CHOZEN\\
 The Intersection \- Grand Rapids, MI18+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/grand-rapids-mi/liquid-stranger-sully-us-549648)
+funkmeup588,514](https://edmtrain.com/grand-rapids-mi/liquid-stranger-sully-us-549648)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/549648-large.webp?v=1)
 
@@ -3322,9 +3246,7 @@ Beautiful People Tour: Buku, SLOTH, Farrero, Solarus, Nebula\\
 Amplify \- Hamtramck, MI21+\\
 \\
 Added by\\
-amplify429\\
-\\
-new](https://edmtrain.com/detroit-mi/beautiful-people-tour-buku-550482)
+amplify445](https://edmtrain.com/detroit-mi/beautiful-people-tour-buku-550482)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/550482-large.webp?v=1)
 
@@ -3409,7 +3331,7 @@ ALLEYCVT, YDG, MACHAKI\\
 Detroit Masonic Temple \- Detroit, MI16+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/alleycvt-ydg-544266)
+funkmeup588,514](https://edmtrain.com/detroit-mi/alleycvt-ydg-544266)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/544266-large.webp?v=1)
 
@@ -3437,11 +3359,10 @@ Thu, Mar 18
 \\
 Sullivan King, TYNAN, Benda\\
 \\
-The Intersection \- Grand Rapids, MI\\
-\\
+The Intersection \- Grand Rapids, MI18+\\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 new](https://edmtrain.com/grand-rapids-mi/sullivan-king-tynan-552597)
 
@@ -3467,17 +3388,18 @@ new](https://edmtrain.com/grand-rapids-mi/sullivan-king-tynan-552597)
 
 Sat, Mar 20
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/artist/2593.webp?v=7)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/event/552599.webp?v=1)\\
 \\
 Sullivan King, TYNAN, Benda\\
 \\
-Royal Oak Theatre \- Royal Oak, MI\\
-\\
+Royal Oak Theatre \- Royal Oak, MI16+\\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 new](https://edmtrain.com/detroit-mi/sullivan-king-tynan-552599)
+
+![](https://d2po6uops3e7id.cloudfront.net/img/event/552599-large.webp?v=1)
 
 [Get Tickets](https://edmtrain.com/detroit-mi/sullivan-king-tynan-552599?get=tickets) [View Event Chat](https://radiate.app.link/?$deeplink_path=edmtrainevents/552599&$fallback_url=https%3A%2F%2Fwww.radiatetheworld.com%2Fedmtrainevent%2F552599%3Futm_source%3Dedmtrain%26utm_content%3DView_Event_Chat&~channel=edmtrain&~tags=partner_referral&~tags=edmtrain&~tags=cta:View_Event_Chat&$uri_redirect_mode=0)
 
@@ -3506,7 +3428,7 @@ LSDREAM, Distinct Motive, Steller, Fossils\\
 Detroit Masonic Temple \- Detroit, MI16+\\
 \\
 Added by\\
-funkmeup581,458](https://edmtrain.com/detroit-mi/lsdream-distinct-motive-550093)
+funkmeup588,514](https://edmtrain.com/detroit-mi/lsdream-distinct-motive-550093)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/550093-large.webp?v=1)
 
@@ -3541,7 +3463,7 @@ Tiffany Day\\
 Majestic Theatre Detroit \- Detroit, MIAll Ages\\
 \\
 Added by\\
-funkmeup581,458\\
+funkmeup588,514\\
 \\
 new](https://edmtrain.com/detroit-mi/tiffany-day-552307)
 
@@ -3589,7 +3511,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-exodusenter16,950](https://edmtrain.com/detroit-mi/detroits-inferno-iv-samplifire-510887)
+exodusenter16,961](https://edmtrain.com/detroit-mi/detroits-inferno-iv-samplifire-510887)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/510887-large.webp?v=2)
 
@@ -3615,7 +3537,7 @@ Elektricity \- Pontiac, MI\\
 \\
 \\
 Added by\\
-exodusenter16,950](https://edmtrain.com/detroit-mi/detroits-inferno-iv-modal-nodes-510888)
+exodusenter16,961](https://edmtrain.com/detroit-mi/detroits-inferno-iv-modal-nodes-510888)
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/event/510888-large.webp?v=2)
 
@@ -3658,7 +3580,7 @@ Two Friends\\
 Detroit Masonic Temple \- Detroit, MI16+\\
 \\
 Added by\\
-rotisserie267,943\\
+rotisserie270,345\\
 \\
 new](https://edmtrain.com/detroit-mi/two-friends-551675)
 
@@ -3680,25 +3602,19 @@ Like artists by connecting your music, browsing popular artists, and looking up 
 
 Latest News
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/87237059-14dc-4524-b06d-2ec3bd4c7eac-small.webp?v=2)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/bd93eb0d-71c1-4e09-955e-55af3d8b48b3-small.webp?v=1)\\
 \\
-INTERVIEW: Henri PFR opens up about growing as an artist alongside Parookaville at 2026 edition](https://edmtrain.com/news/interview-henri-pfr-opens-up-about-growing-as-an-artist-alongside-parookaville-at-2026-edition-1005)
+EDC Orlando announces dates and tickets for 2027 edition returning to Tinker Field](https://edmtrain.com/news/edc-orlando-announces-dates-and-tickets-for-2027-edition-returning-to-tinker-field-1013)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18151398925576733-small.webp)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/c42a52f6-c096-45b1-ad91-72731af7e98b-small.webp?v=7)\\
 \\
-Imagine walking past a pharmacy in Mexico City and seeing ZHU casually throwing down in the middle o](https://www.instagram.com/reel/DfruPB0vMRw/)
+Steve Aoki and MORTEN bringing dance music to the Grid at Formula 1 Las Vegas Grand Prix 2026](https://edmtrain.com/news/steve-aoki-and-morten-bringing-dance-music-to-the-grid-at-formula-1-las-vegas-grand-prix-2026-1011)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/81659dd0-5be7-4545-8478-a1617c7f3508-small.webp?v=7)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18150358966560722-small.webp)\\
 \\
-Unlimited Productions opens first U.S. office after Martin Garrix, Tiësto, Elements and HiJinx work](https://edmtrain.com/news/unlimited-productions-opens-first-u-s-office-after-martin-garrix-tiesto-elements-and-hijinx-work-1004)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/62cc6495-0325-4792-9694-790604cafbde-small.webp?v=22)\\
+🚨 HOMETOWN SHOW ALERT! 🗽\\
 \\
-Henri PFR is our Artist of the Week!](https://edmtrain.com/news/henri-pfr-is-our-artist-of-the-week-1008)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/18fe147f-7ebc-4450-a39f-bcbe9b76f6c7-small.webp?v=1)\\
-\\
-Tomorrowland's CORE is returning to Los Angeles for second edition in October 2027](https://edmtrain.com/news/tomorrowlands-core-is-returning-to-los-angeles-for-second-edition-in-october-2027-1007)
+CID just announced his BIGGEST hometown show yet, taking over the iconic](https://www.instagram.com/p/DfpppMYCZ5E/)
 
 [![](https://d2po6uops3e7id.cloudfront.net/img/post/18178429099451229-small.webp)\\
 \\
@@ -3706,23 +3622,36 @@ AFROJACK IS BRINGING THE HEAT! 🔥\\
 \\
 AFROJACK is dropping a certified club heater this Friday on Layto](https://www.instagram.com/p/DfpupbUCZX2/)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18092172848262464-small.webp)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18029861216699525-small.webp)\\
 \\
-Your favorite Dubstep DJs are literally just two dudes who wanted a little sweet treat😭🍦🍨 subtron](https://www.instagram.com/p/DfrqLQvP5WN/)
+ALEX WANN TICKET GIVEAWAY ALERT! 🚨\\
+\\
+We are teaming up with Harbour Vancouver and OFF2 to give a luc](https://www.instagram.com/p/DfseSyyCW1A/)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18031337978920446-small.webp)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/81659dd0-5be7-4545-8478-a1617c7f3508-small.webp?v=7)\\
 \\
-COACHELLA 2027 IS STACKED WITH EDM HEAVYWEIGHTS! 🔥\\
-\\
-Coachella is bringing some serious electronic m](https://www.instagram.com/p/Dfm-fRxiXKz/)
+Unlimited Productions opens first U.S. office after Martin Garrix, Tiësto, Elements and HiJinx work](https://edmtrain.com/news/unlimited-productions-opens-first-u-s-office-after-martin-garrix-tiesto-elements-and-hijinx-work-1004)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18219533380358589-small.webp)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/5bd57c35-b4e9-4a66-9a3b-255758d40617-small.webp?v=1)\\
 \\
-Sometimes, we make the most unique connections at festivals 😂😂. romeyboo.official made a new frien](https://www.instagram.com/reel/Dfn3vnEv7RX/)
+Give Thanks Festival 2026: Wednesday's lineup is more than worth the early start](https://edmtrain.com/news/give-thanks-festival-2026-wednesdays-lineup-is-more-than-worth-the-early-start-1010)
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18110734229574949-small.webp)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18151398925576733-small.webp)\\
 \\
-troyboi went HARD at EDC Orlando!](https://www.instagram.com/reel/Dfn1SIcPeix/)
+Imagine walking past a pharmacy in Mexico City and seeing ZHU casually throwing down in the middle o](https://www.instagram.com/reel/DfruPB0vMRw/)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18103653014073088-small.webp)\\
+\\
+Yessir nothin but net itsthewestend](https://www.instagram.com/reel/DfttCqQvr24/)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18012703719004636-small.webp)\\
+\\
+NEW MUSIC FRIDAY\\
+11/13 \\
+. \\
+Comment ‘New Music’ or ‘NMF’ To Get The Playlists Sent To You!\\
+. \\
+1\. JOHN](https://www.instagram.com/p/Dfq6l4rm4h5/)
 
 No matching posts found
 
@@ -3732,93 +3661,93 @@ No matching articles found
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
-Added Sullivan King
+Added Sullivan King, Stacey Hotwaxx Hale
 
-today
+1d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Candlelight - Hip-Hop.., Candlelight - The Lord.., Candlelight - Disney..
 
-today
+1d ago
+
+![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
+
+Added Festivals: Igloofest, Force Fields, Together Festival, Cascade Equinox Festival, Resonate Suwannee
+
+1d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added Tiffany Day, lumii, Joshua Tree
 
-1d ago
+2d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Deftones, Phoebe Bridgers, Badfish
 
-1d ago
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
-
-Added Festivals: Force Fields, Together Festival, Resonate Suwannee
-
-1d ago
+2d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added GRiZ, Dantiez, Zach Bletz, Kawaii Rave
 
-2d ago
+3d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added GOLDEN - A K-Pop Kids..
 
-2d ago
+3d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
 
 Added Festivals: Carolina Open Air, Escape Psycho Circus, Into The Horizon, Campout In The Pines.., Electric Daisy.., CRSSD Spring 2027, Tomorrowland Presents..
 
-2d ago
+3d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added Two Friends, Kayzo, Shigeto, Nikkie Nocturnal, Eddie Logix
 
-3d ago
+4d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Noah Kahan, Twin Temple
 
-3d ago
+4d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added MC4D, Dirt Monkey, Boogie T, Joshwa, Reptant
 
-4d ago
+5d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Fall Out Boy, DJ Kdirty, Hiphop Night, Twerksgiving
 
-4d ago
+5d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
-Added Jacques Greene, SKY JETTA, autogyro
+Added Jacques Greene, autogyro
 
-6d ago
+1w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Kings of Leon
 
-6d ago
+1w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-other-genre-web.svg?v=3)
 
 Added Festivals: Dauphin's Countryfest
 
-6d ago
+1w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
@@ -3884,7 +3813,7 @@ Added Dixon's Violin
 
 Added Festivals: Zootown, Rezzentialz Music Fest
 
-1w ago
+2w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
@@ -3900,7 +3829,7 @@ Added Candlelight - The Lord.., Magic Bag Presents
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
 
-Added Festivals: ArtikFest, Thunderdome, Balance, GRIZTRONICS GORGE 2, BTW Festival, Ägapē Winter Festival, Soulgasm 19th.., Ultra Europe
+Added Festivals: ArtikFest, Thunderdome, Balance, GRIZTRONICS GORGE 2, Ägapē Winter Festival, Soulgasm 19th.., BTW Festival, Ultra Europe
 
 2w ago
 
@@ -3934,55 +3863,54 @@ Added SPAG, Zingara
 
 2w ago
 
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
-
-Added Candlelight - Tribute..
-
-2w ago
-
 Latest News
 
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18119422756824622-small.webp)\\
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18121686398283102-small.webp)\\
 \\
-BREAKING 🚨- COACHELLA 2027 LINEUP HAS ARRIVED!\\
+ELI BROWN IS TAKING RAVING TO ANOTHER LEVEL! \\
 \\
-The desert is about to turn into one massive dance](https://www.instagram.com/p/DfmPGqMljUP/)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18031337978920446-small.webp)\\
-\\
-COACHELLA 2027 IS STACKED WITH EDM HEAVYWEIGHTS! 🔥\\
-\\
-Coachella is bringing some serious electronic m](https://www.instagram.com/p/Dfm-fRxiXKz/)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18219533380358589-small.webp)\\
-\\
-Sometimes, we make the most unique connections at festivals 😂😂. romeyboo.official made a new frien](https://www.instagram.com/reel/Dfn3vnEv7RX/)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/62cc6495-0325-4792-9694-790604cafbde-small.webp?v=22)\\
-\\
-Henri PFR is our Artist of the Week!](https://edmtrain.com/news/henri-pfr-is-our-artist-of-the-week-1008)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/17897082141426651-small.webp)\\
-\\
-hardwell had us vibing at edc\_orlando that we put our phone on the ground to show we are vibing 😅😂](https://www.instagram.com/reel/Dfm-xreJGUT/)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/post/18178429099451229-small.webp)\\
-\\
-AFROJACK IS BRINGING THE HEAT! 🔥\\
-\\
-AFROJACK is dropping a certified club heater this Friday on Layto](https://www.instagram.com/p/DfpupbUCZX2/)
-
-[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/87237059-14dc-4524-b06d-2ec3bd4c7eac-small.webp?v=2)\\
-\\
-INTERVIEW: Henri PFR opens up about growing as an artist alongside Parookaville at 2026 edition](https://edmtrain.com/news/interview-henri-pfr-opens-up-about-growing-as-an-artist-alongside-parookaville-at-2026-edition-1005)
+After nearly two decades of making music, elibrownbea](https://www.instagram.com/reel/DfsI3R0PNEF/)
 
 [![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/a4f5a11b-ca0a-48a5-80ad-6abb6a88fa99-small.webp?v=1)\\
 \\
 Kay Coté releases debut single 'Take Me Higher' with producer Amenti](https://edmtrain.com/news/kay-cote-releases-debut-single-take-me-higher-with-producer-amenti-1003)
 
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18092172848262464-small.webp)\\
+\\
+Your favorite Dubstep DJs are literally just two dudes who wanted a little sweet treat😭🍦🍨 subtron](https://www.instagram.com/p/DfrqLQvP5WN/)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18029861216699525-small.webp)\\
+\\
+ALEX WANN TICKET GIVEAWAY ALERT! 🚨\\
+\\
+We are teaming up with Harbour Vancouver and OFF2 to give a luc](https://www.instagram.com/p/DfseSyyCW1A/)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/c42a52f6-c096-45b1-ad91-72731af7e98b-small.webp?v=7)\\
+\\
+Steve Aoki and MORTEN bringing dance music to the Grid at Formula 1 Las Vegas Grand Prix 2026](https://edmtrain.com/news/steve-aoki-and-morten-bringing-dance-music-to-the-grid-at-formula-1-las-vegas-grand-prix-2026-1011)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18012703719004636-small.webp)\\
+\\
+NEW MUSIC FRIDAY\\
+11/13 \\
+. \\
+Comment ‘New Music’ or ‘NMF’ To Get The Playlists Sent To You!\\
+. \\
+1\. JOHN](https://www.instagram.com/p/Dfq6l4rm4h5/)
+
 [![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/81659dd0-5be7-4545-8478-a1617c7f3508-small.webp?v=7)\\
 \\
 Unlimited Productions opens first U.S. office after Martin Garrix, Tiësto, Elements and HiJinx work](https://edmtrain.com/news/unlimited-productions-opens-first-u-s-office-after-martin-garrix-tiesto-elements-and-hijinx-work-1004)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/post/18150358966560722-small.webp)\\
+\\
+🚨 HOMETOWN SHOW ALERT! 🗽\\
+\\
+CID just announced his BIGGEST hometown show yet, taking over the iconic](https://www.instagram.com/p/DfpppMYCZ5E/)
+
+[![](https://d2po6uops3e7id.cloudfront.net/img/news-cover/5bd57c35-b4e9-4a66-9a3b-255758d40617-small.webp?v=1)\\
+\\
+Give Thanks Festival 2026: Wednesday's lineup is more than worth the early start](https://edmtrain.com/news/give-thanks-festival-2026-wednesdays-lineup-is-more-than-worth-the-early-start-1010)
 
 [![](https://d2po6uops3e7id.cloudfront.net/img/post/18110734229574949-small.webp)\\
 \\
@@ -3996,93 +3924,93 @@ PushTexts
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
-Added Sullivan King
+Added Sullivan King, Stacey Hotwaxx Hale
 
-today
+1d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Candlelight - Hip-Hop.., Candlelight - The Lord.., Candlelight - Disney..
 
-today
+1d ago
+
+![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
+
+Added Festivals: Igloofest, Force Fields, Together Festival, Cascade Equinox Festival, Resonate Suwannee
+
+1d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added Tiffany Day, lumii, Joshua Tree
 
-1d ago
+2d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Deftones, Phoebe Bridgers, Badfish
 
-1d ago
-
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
-
-Added Festivals: Force Fields, Together Festival, Resonate Suwannee
-
-1d ago
+2d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added GRiZ, Dantiez, Zach Bletz, Kawaii Rave
 
-2d ago
+3d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added GOLDEN - A K-Pop Kids..
 
-2d ago
+3d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
 
 Added Festivals: Carolina Open Air, Escape Psycho Circus, Into The Horizon, Campout In The Pines.., Electric Daisy.., CRSSD Spring 2027, Tomorrowland Presents..
 
-2d ago
+3d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added Two Friends, Kayzo, Shigeto, Nikkie Nocturnal, Eddie Logix
 
-3d ago
+4d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Noah Kahan, Twin Temple
 
-3d ago
+4d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
 Added MC4D, Dirt Monkey, Boogie T, Joshwa, Reptant
 
-4d ago
+5d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Fall Out Boy, DJ Kdirty, Hiphop Night, Twerksgiving
 
-4d ago
+5d ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
-Added Jacques Greene, SKY JETTA, autogyro
+Added Jacques Greene, autogyro
 
-6d ago
+1w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
 
 Added Kings of Leon
 
-6d ago
+1w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-other-genre-web.svg?v=3)
 
 Added Festivals: Dauphin's Countryfest
 
-6d ago
+1w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
@@ -4148,7 +4076,7 @@ Added Dixon's Violin
 
 Added Festivals: Zootown, Rezzentialz Music Fest
 
-1w ago
+2w ago
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-web.svg)
 
@@ -4164,7 +4092,7 @@ Added Candlelight - The Lord.., Magic Bag Presents
 
 ![](https://d2po6uops3e7id.cloudfront.net/img/logo/festivals-square-transparent-bg-web.svg?v=2)
 
-Added Festivals: ArtikFest, Thunderdome, Balance, GRIZTRONICS GORGE 2, BTW Festival, Ägapē Winter Festival, Soulgasm 19th.., Ultra Europe
+Added Festivals: ArtikFest, Thunderdome, Balance, GRIZTRONICS GORGE 2, Ägapē Winter Festival, Soulgasm 19th.., BTW Festival, Ultra Europe
 
 2w ago
 
@@ -4198,23 +4126,17 @@ Added SPAG, Zingara
 
 2w ago
 
-![](https://d2po6uops3e7id.cloudfront.net/img/logo/icon-square-transparent-bg-other-genre-web.svg?v=7)
-
-Added Candlelight - Tribute..
-
-2w ago
-
 Top Michigan Members
 
 |     |     |     |
 | --- | --- | --- |
 | [1.](https://edmtrain.com/members/rlosey13) | [rlosey13](https://edmtrain.com/members/rlosey13) | [82,690](https://edmtrain.com/members/rlosey13) |
 | [2.](https://edmtrain.com/members/jack-peltz) | [jack-peltz](https://edmtrain.com/members/jack-peltz) | [62,645](https://edmtrain.com/members/jack-peltz) |
-| [3.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,598](https://edmtrain.com/members/sectionchad) |
-| [4.](https://edmtrain.com/members/hydrastic) | [hydrastic](https://edmtrain.com/members/hydrastic) | [24,923](https://edmtrain.com/members/hydrastic) |
-| [5.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [24,567](https://edmtrain.com/members/funkmeup) |
-| [6.](https://edmtrain.com/members/exodusenter) | [exodusenter](https://edmtrain.com/members/exodusenter) | [16,663](https://edmtrain.com/members/exodusenter) |
-| [7.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [14,000](https://edmtrain.com/members/itstucc) |
+| [3.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,632](https://edmtrain.com/members/sectionchad) |
+| [4.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [25,045](https://edmtrain.com/members/funkmeup) |
+| [5.](https://edmtrain.com/members/hydrastic) | [hydrastic](https://edmtrain.com/members/hydrastic) | [24,923](https://edmtrain.com/members/hydrastic) |
+| [6.](https://edmtrain.com/members/exodusenter) | [exodusenter](https://edmtrain.com/members/exodusenter) | [16,674](https://edmtrain.com/members/exodusenter) |
+| [7.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [14,010](https://edmtrain.com/members/itstucc) |
 | [8.](https://edmtrain.com/members/dddd) | [dddd](https://edmtrain.com/members/dddd) | [12,802](https://edmtrain.com/members/dddd) |
 | [9.](https://edmtrain.com/members/basslineboston) | [basslineboston](https://edmtrain.com/members/basslineboston) | [11,208](https://edmtrain.com/members/basslineboston) |
 | [10.](https://edmtrain.com/members/bassfacecolle) | [bassfacecolle](https://edmtrain.com/members/bassfacecolle) | [9,975](https://edmtrain.com/members/bassfacecolle) |
@@ -4224,10 +4146,10 @@ Top Michigan Members
 | [14.](https://edmtrain.com/members/s0phf) | [s0phf](https://edmtrain.com/members/s0phf) | [7,100](https://edmtrain.com/members/s0phf) |
 | [15.](https://edmtrain.com/members/jbarrio11) | [jbarrio11](https://edmtrain.com/members/jbarrio11) | [6,907](https://edmtrain.com/members/jbarrio11) |
 | [16.](https://edmtrain.com/members/pojoe) | [pojoe](https://edmtrain.com/members/pojoe) | [5,903](https://edmtrain.com/members/pojoe) |
-| [17.](https://edmtrain.com/members/nikkienocturnal) | [nikkienocturnal](https://edmtrain.com/members/nikkienocturnal) | [5,476](https://edmtrain.com/members/nikkienocturnal) |
+| [17.](https://edmtrain.com/members/nikkienocturnal) | [nikkienocturnal](https://edmtrain.com/members/nikkienocturnal) | [5,485](https://edmtrain.com/members/nikkienocturnal) |
 | [18.](https://edmtrain.com/members/mikesummit) | [mikesummit](https://edmtrain.com/members/mikesummit) | [5,226](https://edmtrain.com/members/mikesummit) |
-| [19.](https://edmtrain.com/members/hiatus) | [hiatus](https://edmtrain.com/members/hiatus) | [5,138](https://edmtrain.com/members/hiatus) |
-| [20.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [5,135](https://edmtrain.com/members/rotisserie) |
+| [19.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [5,152](https://edmtrain.com/members/rotisserie) |
+| [20.](https://edmtrain.com/members/hiatus) | [hiatus](https://edmtrain.com/members/hiatus) | [5,141](https://edmtrain.com/members/hiatus) |
 | [21.](https://edmtrain.com/members/szhou22) | [szhou22](https://edmtrain.com/members/szhou22) | [4,933](https://edmtrain.com/members/szhou22) |
 | [22.](https://edmtrain.com/members/indigo) | [indigo](https://edmtrain.com/members/indigo) | [4,683](https://edmtrain.com/members/indigo) |
 | [23.](https://edmtrain.com/members/renz32) | [renz32](https://edmtrain.com/members/renz32) | [4,562](https://edmtrain.com/members/renz32) |
@@ -4238,91 +4160,91 @@ Top Members
 
 |     |     |     |
 | --- | --- | --- |
-| [1.](https://edmtrain.com/members/gio-dev) | [gio-dev](https://edmtrain.com/members/gio-dev) | [2,059,612](https://edmtrain.com/members/gio-dev) |
-| [2.](https://edmtrain.com/members/texasedmc) | [texasedmc](https://edmtrain.com/members/texasedmc) | [1,495,910](https://edmtrain.com/members/texasedmc) |
-| [3.](https://edmtrain.com/members/ravewavenyc) | [ravewavenyc](https://edmtrain.com/members/ravewavenyc) | [1,006,454](https://edmtrain.com/members/ravewavenyc) |
+| [1.](https://edmtrain.com/members/gio-dev) | [gio-dev](https://edmtrain.com/members/gio-dev) | [2,059,883](https://edmtrain.com/members/gio-dev) |
+| [2.](https://edmtrain.com/members/texasedmc) | [texasedmc](https://edmtrain.com/members/texasedmc) | [1,496,318](https://edmtrain.com/members/texasedmc) |
+| [3.](https://edmtrain.com/members/ravewavenyc) | [ravewavenyc](https://edmtrain.com/members/ravewavenyc) | [1,006,671](https://edmtrain.com/members/ravewavenyc) |
 | [4.](https://edmtrain.com/members/270yanks) | [270yanks](https://edmtrain.com/members/270yanks) | [996,852](https://edmtrain.com/members/270yanks) |
-| [5.](https://edmtrain.com/members/ditto) | [ditto](https://edmtrain.com/members/ditto) | [963,600](https://edmtrain.com/members/ditto) |
+| [5.](https://edmtrain.com/members/ditto) | [ditto](https://edmtrain.com/members/ditto) | [963,634](https://edmtrain.com/members/ditto) |
 | [6.](https://edmtrain.com/members/housecatnyc) | [housecatnyc](https://edmtrain.com/members/housecatnyc) | [674,177](https://edmtrain.com/members/housecatnyc) |
-| [7.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [581,458](https://edmtrain.com/members/funkmeup) |
-| [8.](https://edmtrain.com/members/renz32) | [renz32](https://edmtrain.com/members/renz32) | [543,615](https://edmtrain.com/members/renz32) |
-| [9.](https://edmtrain.com/members/adoboraves) | [adoboraves](https://edmtrain.com/members/adoboraves) | [536,802](https://edmtrain.com/members/adoboraves) |
-| [10.](https://edmtrain.com/members/eppe-pen) | [eppe-pen](https://edmtrain.com/members/eppe-pen) | [520,937](https://edmtrain.com/members/eppe-pen) |
-| [11.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [492,917](https://edmtrain.com/members/itstucc) |
-| [12.](https://edmtrain.com/members/hannahrose) | [hannahrose](https://edmtrain.com/members/hannahrose) | [338,283](https://edmtrain.com/members/hannahrose) |
+| [7.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [588,514](https://edmtrain.com/members/funkmeup) |
+| [8.](https://edmtrain.com/members/renz32) | [renz32](https://edmtrain.com/members/renz32) | [543,861](https://edmtrain.com/members/renz32) |
+| [9.](https://edmtrain.com/members/adoboraves) | [adoboraves](https://edmtrain.com/members/adoboraves) | [537,868](https://edmtrain.com/members/adoboraves) |
+| [10.](https://edmtrain.com/members/eppe-pen) | [eppe-pen](https://edmtrain.com/members/eppe-pen) | [521,347](https://edmtrain.com/members/eppe-pen) |
+| [11.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [493,432](https://edmtrain.com/members/itstucc) |
+| [12.](https://edmtrain.com/members/hannahrose) | [hannahrose](https://edmtrain.com/members/hannahrose) | [338,471](https://edmtrain.com/members/hannahrose) |
 | [13.](https://edmtrain.com/members/dj-oliver) | [dj-oliver](https://edmtrain.com/members/dj-oliver) | [318,046](https://edmtrain.com/members/dj-oliver) |
-| [14.](https://edmtrain.com/members/s0phf) | [s0phf](https://edmtrain.com/members/s0phf) | [304,309](https://edmtrain.com/members/s0phf) |
-| [15.](https://edmtrain.com/members/topiarysound) | [topiarysound](https://edmtrain.com/members/topiarysound) | [300,276](https://edmtrain.com/members/topiarysound) |
-| [16.](https://edmtrain.com/members/tauruspixie) | [tauruspixie](https://edmtrain.com/members/tauruspixie) | [276,889](https://edmtrain.com/members/tauruspixie) |
-| [17.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [267,943](https://edmtrain.com/members/rotisserie) |
+| [14.](https://edmtrain.com/members/s0phf) | [s0phf](https://edmtrain.com/members/s0phf) | [304,320](https://edmtrain.com/members/s0phf) |
+| [15.](https://edmtrain.com/members/topiarysound) | [topiarysound](https://edmtrain.com/members/topiarysound) | [300,612](https://edmtrain.com/members/topiarysound) |
+| [16.](https://edmtrain.com/members/tauruspixie) | [tauruspixie](https://edmtrain.com/members/tauruspixie) | [276,894](https://edmtrain.com/members/tauruspixie) |
+| [17.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [270,345](https://edmtrain.com/members/rotisserie) |
 | [18.](https://edmtrain.com/members/jbarrio11) | [jbarrio11](https://edmtrain.com/members/jbarrio11) | [245,335](https://edmtrain.com/members/jbarrio11) |
-| [19.](https://edmtrain.com/members/thisislorex) | [thisislorex](https://edmtrain.com/members/thisislorex) | [243,620](https://edmtrain.com/members/thisislorex) |
+| [19.](https://edmtrain.com/members/thisislorex) | [thisislorex](https://edmtrain.com/members/thisislorex) | [244,403](https://edmtrain.com/members/thisislorex) |
 | [20.](https://edmtrain.com/members/indigo) | [indigo](https://edmtrain.com/members/indigo) | [216,004](https://edmtrain.com/members/indigo) |
-| [21.](https://edmtrain.com/members/devinphilly) | [devinphilly](https://edmtrain.com/members/devinphilly) | [214,235](https://edmtrain.com/members/devinphilly) |
-| [22.](https://edmtrain.com/members/kittygarfunkle) | [kittygarfunkle](https://edmtrain.com/members/kittygarfunkle) | [212,049](https://edmtrain.com/members/kittygarfunkle) |
-| [23.](https://edmtrain.com/members/tannathost) | [tannathost](https://edmtrain.com/members/tannathost) | [205,759](https://edmtrain.com/members/tannathost) |
-| [24.](https://edmtrain.com/members/basslineboston) | [basslineboston](https://edmtrain.com/members/basslineboston) | [200,609](https://edmtrain.com/members/basslineboston) |
-| [25.](https://edmtrain.com/members/johnnypopperss) | [johnnypopperss](https://edmtrain.com/members/johnnypopperss) | [190,626](https://edmtrain.com/members/johnnypopperss) |
-| [26.](https://edmtrain.com/members/akatlas) | [akatlas](https://edmtrain.com/members/akatlas) | [188,983](https://edmtrain.com/members/akatlas) |
+| [21.](https://edmtrain.com/members/devinphilly) | [devinphilly](https://edmtrain.com/members/devinphilly) | [214,516](https://edmtrain.com/members/devinphilly) |
+| [22.](https://edmtrain.com/members/kittygarfunkle) | [kittygarfunkle](https://edmtrain.com/members/kittygarfunkle) | [212,308](https://edmtrain.com/members/kittygarfunkle) |
+| [23.](https://edmtrain.com/members/tannathost) | [tannathost](https://edmtrain.com/members/tannathost) | [206,250](https://edmtrain.com/members/tannathost) |
+| [24.](https://edmtrain.com/members/basslineboston) | [basslineboston](https://edmtrain.com/members/basslineboston) | [200,909](https://edmtrain.com/members/basslineboston) |
+| [25.](https://edmtrain.com/members/johnnypopperss) | [johnnypopperss](https://edmtrain.com/members/johnnypopperss) | [190,888](https://edmtrain.com/members/johnnypopperss) |
+| [26.](https://edmtrain.com/members/akatlas) | [akatlas](https://edmtrain.com/members/akatlas) | [189,000](https://edmtrain.com/members/akatlas) |
 | [27.](https://edmtrain.com/members/hughmungus) | [hughmungus](https://edmtrain.com/members/hughmungus) | [187,966](https://edmtrain.com/members/hughmungus) |
 | [28.](https://edmtrain.com/members/blnkcnvspres) | [blnkcnvspres](https://edmtrain.com/members/blnkcnvspres) | [168,382](https://edmtrain.com/members/blnkcnvspres) |
-| [29.](https://edmtrain.com/members/pojoe) | [pojoe](https://edmtrain.com/members/pojoe) | [159,570](https://edmtrain.com/members/pojoe) |
+| [29.](https://edmtrain.com/members/pojoe) | [pojoe](https://edmtrain.com/members/pojoe) | [159,576](https://edmtrain.com/members/pojoe) |
 | [30.](https://edmtrain.com/members/mikesummit) | [mikesummit](https://edmtrain.com/members/mikesummit) | [155,715](https://edmtrain.com/members/mikesummit) |
-| [31.](https://edmtrain.com/members/nextlvlevent) | [nextlvlevent](https://edmtrain.com/members/nextlvlevent) | [153,355](https://edmtrain.com/members/nextlvlevent) |
-| [32.](https://edmtrain.com/members/ikicksg) | [ikicksg](https://edmtrain.com/members/ikicksg) | [144,951](https://edmtrain.com/members/ikicksg) |
-| [33.](https://edmtrain.com/members/mamasan) | [mamasan](https://edmtrain.com/members/mamasan) | [138,425](https://edmtrain.com/members/mamasan) |
+| [31.](https://edmtrain.com/members/nextlvlevent) | [nextlvlevent](https://edmtrain.com/members/nextlvlevent) | [153,427](https://edmtrain.com/members/nextlvlevent) |
+| [32.](https://edmtrain.com/members/ikicksg) | [ikicksg](https://edmtrain.com/members/ikicksg) | [145,057](https://edmtrain.com/members/ikicksg) |
+| [33.](https://edmtrain.com/members/mamasan) | [mamasan](https://edmtrain.com/members/mamasan) | [138,568](https://edmtrain.com/members/mamasan) |
 | [34.](https://edmtrain.com/members/sarasbrodir) | [sarasbrodir](https://edmtrain.com/members/sarasbrodir) | [133,842](https://edmtrain.com/members/sarasbrodir) |
-| [35.](https://edmtrain.com/members/peterdimov) | [peterdimov](https://edmtrain.com/members/peterdimov) | [131,790](https://edmtrain.com/members/peterdimov) |
-| [36.](https://edmtrain.com/members/mat120) | [mat120](https://edmtrain.com/members/mat120) | [126,329](https://edmtrain.com/members/mat120) |
-| [37.](https://edmtrain.com/members/webelonghere) | [webelonghere](https://edmtrain.com/members/webelonghere) | [124,849](https://edmtrain.com/members/webelonghere) |
+| [35.](https://edmtrain.com/members/peterdimov) | [peterdimov](https://edmtrain.com/members/peterdimov) | [132,544](https://edmtrain.com/members/peterdimov) |
+| [36.](https://edmtrain.com/members/mat120) | [mat120](https://edmtrain.com/members/mat120) | [126,400](https://edmtrain.com/members/mat120) |
+| [37.](https://edmtrain.com/members/webelonghere) | [webelonghere](https://edmtrain.com/members/webelonghere) | [125,080](https://edmtrain.com/members/webelonghere) |
 | [38.](https://edmtrain.com/members/nichoffm) | [nichoffm](https://edmtrain.com/members/nichoffm) | [110,810](https://edmtrain.com/members/nichoffm) |
 | [39.](https://edmtrain.com/members/cicada) | [cicada](https://edmtrain.com/members/cicada) | [105,368](https://edmtrain.com/members/cicada) |
-| [40.](https://edmtrain.com/members/bozus) | [bozus](https://edmtrain.com/members/bozus) | [104,090](https://edmtrain.com/members/bozus) |
+| [40.](https://edmtrain.com/members/bozus) | [bozus](https://edmtrain.com/members/bozus) | [104,179](https://edmtrain.com/members/bozus) |
 | [41.](https://edmtrain.com/members/jdubs) | [jdubs](https://edmtrain.com/members/jdubs) | [103,903](https://edmtrain.com/members/jdubs) |
-| [42.](https://edmtrain.com/members/fullgrindtexas) | [fullgrindtexas](https://edmtrain.com/members/fullgrindtexas) | [103,552](https://edmtrain.com/members/fullgrindtexas) |
+| [42.](https://edmtrain.com/members/fullgrindtexas) | [fullgrindtexas](https://edmtrain.com/members/fullgrindtexas) | [103,594](https://edmtrain.com/members/fullgrindtexas) |
 | [43.](https://edmtrain.com/members/rlosey13) | [rlosey13](https://edmtrain.com/members/rlosey13) | [102,159](https://edmtrain.com/members/rlosey13) |
-| [44.](https://edmtrain.com/members/biglexthaplug) | [biglexthaplug](https://edmtrain.com/members/biglexthaplug) | [101,482](https://edmtrain.com/members/biglexthaplug) |
+| [44.](https://edmtrain.com/members/biglexthaplug) | [biglexthaplug](https://edmtrain.com/members/biglexthaplug) | [101,660](https://edmtrain.com/members/biglexthaplug) |
 | [45.](https://edmtrain.com/members/manman) | [manman](https://edmtrain.com/members/manman) | [98,989](https://edmtrain.com/members/manman) |
-| [46.](https://edmtrain.com/members/k-mart) | [k-mart](https://edmtrain.com/members/k-mart) | [96,276](https://edmtrain.com/members/k-mart) |
+| [46.](https://edmtrain.com/members/k-mart) | [k-mart](https://edmtrain.com/members/k-mart) | [96,281](https://edmtrain.com/members/k-mart) |
 | [47.](https://edmtrain.com/members/ian) | [ian](https://edmtrain.com/members/ian) | [80,022](https://edmtrain.com/members/ian) |
 | [48.](https://edmtrain.com/members/tyla) | [tyla](https://edmtrain.com/members/tyla) | [73,636](https://edmtrain.com/members/tyla) |
-| [49.](https://edmtrain.com/members/blindmaniacc) | [blindmaniacc](https://edmtrain.com/members/blindmaniacc) | [73,414](https://edmtrain.com/members/blindmaniacc) |
-| [50.](https://edmtrain.com/members/jessbob) | [jessbob](https://edmtrain.com/members/jessbob) | [72,853](https://edmtrain.com/members/jessbob) |
-| [51.](https://edmtrain.com/members/katiebass) | [katiebass](https://edmtrain.com/members/katiebass) | [68,450](https://edmtrain.com/members/katiebass) |
-| [52.](https://edmtrain.com/members/vibesense) | [vibesense](https://edmtrain.com/members/vibesense) | [68,314](https://edmtrain.com/members/vibesense) |
-| [53.](https://edmtrain.com/members/jammon) | [jammon](https://edmtrain.com/members/jammon) | [66,537](https://edmtrain.com/members/jammon) |
-| [54.](https://edmtrain.com/members/defiantpresents) | [defiantpresents](https://edmtrain.com/members/defiantpresents) | [66,026](https://edmtrain.com/members/defiantpresents) |
-| [55.](https://edmtrain.com/members/drdance) | [drdance](https://edmtrain.com/members/drdance) | [66,026](https://edmtrain.com/members/drdance) |
+| [49.](https://edmtrain.com/members/jessbob) | [jessbob](https://edmtrain.com/members/jessbob) | [73,545](https://edmtrain.com/members/jessbob) |
+| [50.](https://edmtrain.com/members/blindmaniacc) | [blindmaniacc](https://edmtrain.com/members/blindmaniacc) | [73,414](https://edmtrain.com/members/blindmaniacc) |
+| [51.](https://edmtrain.com/members/vibesense) | [vibesense](https://edmtrain.com/members/vibesense) | [68,481](https://edmtrain.com/members/vibesense) |
+| [52.](https://edmtrain.com/members/katiebass) | [katiebass](https://edmtrain.com/members/katiebass) | [68,450](https://edmtrain.com/members/katiebass) |
+| [53.](https://edmtrain.com/members/jammon) | [jammon](https://edmtrain.com/members/jammon) | [66,556](https://edmtrain.com/members/jammon) |
+| [54.](https://edmtrain.com/members/drdance) | [drdance](https://edmtrain.com/members/drdance) | [66,129](https://edmtrain.com/members/drdance) |
+| [55.](https://edmtrain.com/members/defiantpresents) | [defiantpresents](https://edmtrain.com/members/defiantpresents) | [66,098](https://edmtrain.com/members/defiantpresents) |
 | [56.](https://edmtrain.com/members/stephstarr) | [stephstarr](https://edmtrain.com/members/stephstarr) | [65,722](https://edmtrain.com/members/stephstarr) |
-| [57.](https://edmtrain.com/members/knyghts) | [knyghts](https://edmtrain.com/members/knyghts) | [64,872](https://edmtrain.com/members/knyghts) |
+| [57.](https://edmtrain.com/members/knyghts) | [knyghts](https://edmtrain.com/members/knyghts) | [64,939](https://edmtrain.com/members/knyghts) |
 | [58.](https://edmtrain.com/members/jack-peltz) | [jack-peltz](https://edmtrain.com/members/jack-peltz) | [62,948](https://edmtrain.com/members/jack-peltz) |
 | [59.](https://edmtrain.com/members/spaceyacht) | [spaceyacht](https://edmtrain.com/members/spaceyacht) | [59,986](https://edmtrain.com/members/spaceyacht) |
 | [60.](https://edmtrain.com/members/djlazarus) | [djlazarus](https://edmtrain.com/members/djlazarus) | [59,266](https://edmtrain.com/members/djlazarus) |
-| [61.](https://edmtrain.com/members/moeoeop) | [moeoeop](https://edmtrain.com/members/moeoeop) | [59,159](https://edmtrain.com/members/moeoeop) |
+| [61.](https://edmtrain.com/members/moeoeop) | [moeoeop](https://edmtrain.com/members/moeoeop) | [59,187](https://edmtrain.com/members/moeoeop) |
 | [62.](https://edmtrain.com/members/eastcoast-udm) | [eastcoast-udm](https://edmtrain.com/members/eastcoast-udm) | [57,638](https://edmtrain.com/members/eastcoast-udm) |
 | [63.](https://edmtrain.com/members/sacredhive) | [sacredhive](https://edmtrain.com/members/sacredhive) | [55,735](https://edmtrain.com/members/sacredhive) |
-| [64.](https://edmtrain.com/members/am215) | [am215](https://edmtrain.com/members/am215) | [55,395](https://edmtrain.com/members/am215) |
+| [64.](https://edmtrain.com/members/am215) | [am215](https://edmtrain.com/members/am215) | [55,600](https://edmtrain.com/members/am215) |
 | [65.](https://edmtrain.com/members/tropicalcharles) | [tropicalcharles](https://edmtrain.com/members/tropicalcharles) | [52,519](https://edmtrain.com/members/tropicalcharles) |
 | [66.](https://edmtrain.com/members/uepresents) | [uepresents](https://edmtrain.com/members/uepresents) | [52,399](https://edmtrain.com/members/uepresents) |
 | [67.](https://edmtrain.com/members/chrisandres23) | [chrisandres23](https://edmtrain.com/members/chrisandres23) | [52,296](https://edmtrain.com/members/chrisandres23) |
 | [68.](https://edmtrain.com/members/acg06c) | [acg06c](https://edmtrain.com/members/acg06c) | [52,180](https://edmtrain.com/members/acg06c) |
 | [69.](https://edmtrain.com/members/benzqoa) | [benzqoa](https://edmtrain.com/members/benzqoa) | [51,514](https://edmtrain.com/members/benzqoa) |
 | [70.](https://edmtrain.com/members/mordy311) | [mordy311](https://edmtrain.com/members/mordy311) | [51,133](https://edmtrain.com/members/mordy311) |
-| [71.](https://edmtrain.com/members/gorseevents420) | [gorseevents420](https://edmtrain.com/members/gorseevents420) | [51,046](https://edmtrain.com/members/gorseevents420) |
+| [71.](https://edmtrain.com/members/gorseevents420) | [gorseevents420](https://edmtrain.com/members/gorseevents420) | [51,098](https://edmtrain.com/members/gorseevents420) |
 | [72.](https://edmtrain.com/members/shibashan) | [shibashan](https://edmtrain.com/members/shibashan) | [50,617](https://edmtrain.com/members/shibashan) |
-| [73.](https://edmtrain.com/members/eddiewrg) | [eddiewrg](https://edmtrain.com/members/eddiewrg) | [49,495](https://edmtrain.com/members/eddiewrg) |
-| [74.](https://edmtrain.com/members/synovamusic) | [synovamusic](https://edmtrain.com/members/synovamusic) | [49,004](https://edmtrain.com/members/synovamusic) |
-| [75.](https://edmtrain.com/members/onlyoneantidote) | [onlyoneantidote](https://edmtrain.com/members/onlyoneantidote) | [47,593](https://edmtrain.com/members/onlyoneantidote) |
-| [76.](https://edmtrain.com/members/anakin) | [anakin](https://edmtrain.com/members/anakin) | [43,733](https://edmtrain.com/members/anakin) |
+| [73.](https://edmtrain.com/members/eddiewrg) | [eddiewrg](https://edmtrain.com/members/eddiewrg) | [49,507](https://edmtrain.com/members/eddiewrg) |
+| [74.](https://edmtrain.com/members/synovamusic) | [synovamusic](https://edmtrain.com/members/synovamusic) | [49,108](https://edmtrain.com/members/synovamusic) |
+| [75.](https://edmtrain.com/members/onlyoneantidote) | [onlyoneantidote](https://edmtrain.com/members/onlyoneantidote) | [47,718](https://edmtrain.com/members/onlyoneantidote) |
+| [76.](https://edmtrain.com/members/anakin) | [anakin](https://edmtrain.com/members/anakin) | [43,768](https://edmtrain.com/members/anakin) |
 | [77.](https://edmtrain.com/members/djchenofficial) | [djchenofficial](https://edmtrain.com/members/djchenofficial) | [43,717](https://edmtrain.com/members/djchenofficial) |
 | [78.](https://edmtrain.com/members/edmpunk) | [edmpunk](https://edmtrain.com/members/edmpunk) | [42,610](https://edmtrain.com/members/edmpunk) |
 | [79.](https://edmtrain.com/members/tlkeller) | [tlkeller](https://edmtrain.com/members/tlkeller) | [42,491](https://edmtrain.com/members/tlkeller) |
-| [80.](https://edmtrain.com/members/sick6) | [sick6](https://edmtrain.com/members/sick6) | [41,744](https://edmtrain.com/members/sick6) |
+| [80.](https://edmtrain.com/members/sick6) | [sick6](https://edmtrain.com/members/sick6) | [41,754](https://edmtrain.com/members/sick6) |
 | [81.](https://edmtrain.com/members/titobuddy) | [titobuddy](https://edmtrain.com/members/titobuddy) | [41,716](https://edmtrain.com/members/titobuddy) |
 | [82.](https://edmtrain.com/members/webermusic) | [webermusic](https://edmtrain.com/members/webermusic) | [41,003](https://edmtrain.com/members/webermusic) |
 | [83.](https://edmtrain.com/members/dustingaronzik) | [dustingaronzik](https://edmtrain.com/members/dustingaronzik) | [40,630](https://edmtrain.com/members/dustingaronzik) |
 | [84.](https://edmtrain.com/members/atxlimodriver) | [atxlimodriver](https://edmtrain.com/members/atxlimodriver) | [40,607](https://edmtrain.com/members/atxlimodriver) |
-| [85.](https://edmtrain.com/members/givethanksfest) | [givethanksfest](https://edmtrain.com/members/givethanksfest) | [39,634](https://edmtrain.com/members/givethanksfest) |
+| [85.](https://edmtrain.com/members/givethanksfest) | [givethanksfest](https://edmtrain.com/members/givethanksfest) | [39,671](https://edmtrain.com/members/givethanksfest) |
 | [86.](https://edmtrain.com/members/lri) | [lri](https://edmtrain.com/members/lri) | [39,432](https://edmtrain.com/members/lri) |
 | [87.](https://edmtrain.com/members/lift4lfepatriot) | [lift4lfepatriot](https://edmtrain.com/members/lift4lfepatriot) | [39,009](https://edmtrain.com/members/lift4lfepatriot) |
 | [88.](https://edmtrain.com/members/yekcolb) | [yekcolb](https://edmtrain.com/members/yekcolb) | [38,916](https://edmtrain.com/members/yekcolb) |
@@ -4330,14 +4252,14 @@ Top Members
 | [90.](https://edmtrain.com/members/lazertaco45) | [lazertaco45](https://edmtrain.com/members/lazertaco45) | [38,527](https://edmtrain.com/members/lazertaco45) |
 | [91.](https://edmtrain.com/members/xzacklypromos) | [xzacklypromos](https://edmtrain.com/members/xzacklypromos) | [38,396](https://edmtrain.com/members/xzacklypromos) |
 | [92.](https://edmtrain.com/members/changeover) | [changeover](https://edmtrain.com/members/changeover) | [38,024](https://edmtrain.com/members/changeover) |
-| [93.](https://edmtrain.com/members/gfin) | [gfin](https://edmtrain.com/members/gfin) | [37,970](https://edmtrain.com/members/gfin) |
+| [93.](https://edmtrain.com/members/gfin) | [gfin](https://edmtrain.com/members/gfin) | [37,990](https://edmtrain.com/members/gfin) |
 | [94.](https://edmtrain.com/members/mft) | [mft](https://edmtrain.com/members/mft) | [37,765](https://edmtrain.com/members/mft) |
-| [95.](https://edmtrain.com/members/arshia3112) | [arshia3112](https://edmtrain.com/members/arshia3112) | [37,377](https://edmtrain.com/members/arshia3112) |
-| [96.](https://edmtrain.com/members/antrex101) | [antrex101](https://edmtrain.com/members/antrex101) | [35,019](https://edmtrain.com/members/antrex101) |
+| [95.](https://edmtrain.com/members/arshia3112) | [arshia3112](https://edmtrain.com/members/arshia3112) | [37,404](https://edmtrain.com/members/arshia3112) |
+| [96.](https://edmtrain.com/members/antrex101) | [antrex101](https://edmtrain.com/members/antrex101) | [35,023](https://edmtrain.com/members/antrex101) |
 | [97.](https://edmtrain.com/members/technosloot) | [technosloot](https://edmtrain.com/members/technosloot) | [34,944](https://edmtrain.com/members/technosloot) |
 | [98.](https://edmtrain.com/members/theedmnotify) | [theedmnotify](https://edmtrain.com/members/theedmnotify) | [34,295](https://edmtrain.com/members/theedmnotify) |
 | [99.](https://edmtrain.com/members/bsplatbassbean) | [bsplatbassbean](https://edmtrain.com/members/bsplatbassbean) | [33,862](https://edmtrain.com/members/bsplatbassbean) |
-| [100.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,604](https://edmtrain.com/members/sectionchad) |
+| [100.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,638](https://edmtrain.com/members/sectionchad) |
 
 [|     |     |\\
 | --- | --- |\\
@@ -4351,14 +4273,14 @@ Top Michigan Members
 | --- | --- | --- |
 | [1.](https://edmtrain.com/members/rlosey13) | [rlosey13](https://edmtrain.com/members/rlosey13) | [82,690](https://edmtrain.com/members/rlosey13) |
 | [2.](https://edmtrain.com/members/jack-peltz) | [jack-peltz](https://edmtrain.com/members/jack-peltz) | [62,645](https://edmtrain.com/members/jack-peltz) |
-| [3.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,598](https://edmtrain.com/members/sectionchad) |
-| [4.](https://edmtrain.com/members/hydrastic) | [hydrastic](https://edmtrain.com/members/hydrastic) | [24,923](https://edmtrain.com/members/hydrastic) |
-| [5.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [24,567](https://edmtrain.com/members/funkmeup) |
+| [3.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,632](https://edmtrain.com/members/sectionchad) |
+| [4.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [25,045](https://edmtrain.com/members/funkmeup) |
+| [5.](https://edmtrain.com/members/hydrastic) | [hydrastic](https://edmtrain.com/members/hydrastic) | [24,923](https://edmtrain.com/members/hydrastic) |
 
 |     |     |     |
 | --- | --- | --- |
-| [6.](https://edmtrain.com/members/exodusenter) | [exodusenter](https://edmtrain.com/members/exodusenter) | [16,663](https://edmtrain.com/members/exodusenter) |
-| [7.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [14,000](https://edmtrain.com/members/itstucc) |
+| [6.](https://edmtrain.com/members/exodusenter) | [exodusenter](https://edmtrain.com/members/exodusenter) | [16,674](https://edmtrain.com/members/exodusenter) |
+| [7.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [14,010](https://edmtrain.com/members/itstucc) |
 | [8.](https://edmtrain.com/members/dddd) | [dddd](https://edmtrain.com/members/dddd) | [12,802](https://edmtrain.com/members/dddd) |
 | [9.](https://edmtrain.com/members/basslineboston) | [basslineboston](https://edmtrain.com/members/basslineboston) | [11,208](https://edmtrain.com/members/basslineboston) |
 | [10.](https://edmtrain.com/members/bassfacecolle) | [bassfacecolle](https://edmtrain.com/members/bassfacecolle) | [9,975](https://edmtrain.com/members/bassfacecolle) |
@@ -4374,10 +4296,10 @@ Top Michigan Members
 |     |     |     |
 | --- | --- | --- |
 | [16.](https://edmtrain.com/members/pojoe) | [pojoe](https://edmtrain.com/members/pojoe) | [5,903](https://edmtrain.com/members/pojoe) |
-| [17.](https://edmtrain.com/members/nikkienocturnal) | [nikkienocturnal](https://edmtrain.com/members/nikkienocturnal) | [5,476](https://edmtrain.com/members/nikkienocturnal) |
+| [17.](https://edmtrain.com/members/nikkienocturnal) | [nikkienocturnal](https://edmtrain.com/members/nikkienocturnal) | [5,485](https://edmtrain.com/members/nikkienocturnal) |
 | [18.](https://edmtrain.com/members/mikesummit) | [mikesummit](https://edmtrain.com/members/mikesummit) | [5,226](https://edmtrain.com/members/mikesummit) |
-| [19.](https://edmtrain.com/members/hiatus) | [hiatus](https://edmtrain.com/members/hiatus) | [5,138](https://edmtrain.com/members/hiatus) |
-| [20.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [5,135](https://edmtrain.com/members/rotisserie) |
+| [19.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [5,152](https://edmtrain.com/members/rotisserie) |
+| [20.](https://edmtrain.com/members/hiatus) | [hiatus](https://edmtrain.com/members/hiatus) | [5,141](https://edmtrain.com/members/hiatus) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -4391,106 +4313,106 @@ Top Members
 
 |     |     |     |
 | --- | --- | --- |
-| [1.](https://edmtrain.com/members/gio-dev) | [gio-dev](https://edmtrain.com/members/gio-dev) | [2,059,612](https://edmtrain.com/members/gio-dev) |
-| [2.](https://edmtrain.com/members/texasedmc) | [texasedmc](https://edmtrain.com/members/texasedmc) | [1,495,910](https://edmtrain.com/members/texasedmc) |
-| [3.](https://edmtrain.com/members/ravewavenyc) | [ravewavenyc](https://edmtrain.com/members/ravewavenyc) | [1,006,454](https://edmtrain.com/members/ravewavenyc) |
+| [1.](https://edmtrain.com/members/gio-dev) | [gio-dev](https://edmtrain.com/members/gio-dev) | [2,059,883](https://edmtrain.com/members/gio-dev) |
+| [2.](https://edmtrain.com/members/texasedmc) | [texasedmc](https://edmtrain.com/members/texasedmc) | [1,496,318](https://edmtrain.com/members/texasedmc) |
+| [3.](https://edmtrain.com/members/ravewavenyc) | [ravewavenyc](https://edmtrain.com/members/ravewavenyc) | [1,006,671](https://edmtrain.com/members/ravewavenyc) |
 | [4.](https://edmtrain.com/members/270yanks) | [270yanks](https://edmtrain.com/members/270yanks) | [996,852](https://edmtrain.com/members/270yanks) |
-| [5.](https://edmtrain.com/members/ditto) | [ditto](https://edmtrain.com/members/ditto) | [963,600](https://edmtrain.com/members/ditto) |
+| [5.](https://edmtrain.com/members/ditto) | [ditto](https://edmtrain.com/members/ditto) | [963,634](https://edmtrain.com/members/ditto) |
 
 |     |     |     |
 | --- | --- | --- |
 | [6.](https://edmtrain.com/members/housecatnyc) | [housecatnyc](https://edmtrain.com/members/housecatnyc) | [674,177](https://edmtrain.com/members/housecatnyc) |
-| [7.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [581,458](https://edmtrain.com/members/funkmeup) |
-| [8.](https://edmtrain.com/members/renz32) | [renz32](https://edmtrain.com/members/renz32) | [543,615](https://edmtrain.com/members/renz32) |
-| [9.](https://edmtrain.com/members/adoboraves) | [adoboraves](https://edmtrain.com/members/adoboraves) | [536,802](https://edmtrain.com/members/adoboraves) |
-| [10.](https://edmtrain.com/members/eppe-pen) | [eppe-pen](https://edmtrain.com/members/eppe-pen) | [520,937](https://edmtrain.com/members/eppe-pen) |
+| [7.](https://edmtrain.com/members/funkmeup) | [funkmeup](https://edmtrain.com/members/funkmeup) | [588,514](https://edmtrain.com/members/funkmeup) |
+| [8.](https://edmtrain.com/members/renz32) | [renz32](https://edmtrain.com/members/renz32) | [543,861](https://edmtrain.com/members/renz32) |
+| [9.](https://edmtrain.com/members/adoboraves) | [adoboraves](https://edmtrain.com/members/adoboraves) | [537,868](https://edmtrain.com/members/adoboraves) |
+| [10.](https://edmtrain.com/members/eppe-pen) | [eppe-pen](https://edmtrain.com/members/eppe-pen) | [521,347](https://edmtrain.com/members/eppe-pen) |
 
 |     |     |     |
 | --- | --- | --- |
-| [11.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [492,917](https://edmtrain.com/members/itstucc) |
-| [12.](https://edmtrain.com/members/hannahrose) | [hannahrose](https://edmtrain.com/members/hannahrose) | [338,283](https://edmtrain.com/members/hannahrose) |
+| [11.](https://edmtrain.com/members/itstucc) | [itstucc](https://edmtrain.com/members/itstucc) | [493,432](https://edmtrain.com/members/itstucc) |
+| [12.](https://edmtrain.com/members/hannahrose) | [hannahrose](https://edmtrain.com/members/hannahrose) | [338,471](https://edmtrain.com/members/hannahrose) |
 | [13.](https://edmtrain.com/members/dj-oliver) | [dj-oliver](https://edmtrain.com/members/dj-oliver) | [318,046](https://edmtrain.com/members/dj-oliver) |
-| [14.](https://edmtrain.com/members/s0phf) | [s0phf](https://edmtrain.com/members/s0phf) | [304,309](https://edmtrain.com/members/s0phf) |
-| [15.](https://edmtrain.com/members/topiarysound) | [topiarysound](https://edmtrain.com/members/topiarysound) | [300,276](https://edmtrain.com/members/topiarysound) |
+| [14.](https://edmtrain.com/members/s0phf) | [s0phf](https://edmtrain.com/members/s0phf) | [304,320](https://edmtrain.com/members/s0phf) |
+| [15.](https://edmtrain.com/members/topiarysound) | [topiarysound](https://edmtrain.com/members/topiarysound) | [300,612](https://edmtrain.com/members/topiarysound) |
 
 |     |     |     |
 | --- | --- | --- |
-| [16.](https://edmtrain.com/members/tauruspixie) | [tauruspixie](https://edmtrain.com/members/tauruspixie) | [276,889](https://edmtrain.com/members/tauruspixie) |
-| [17.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [267,943](https://edmtrain.com/members/rotisserie) |
+| [16.](https://edmtrain.com/members/tauruspixie) | [tauruspixie](https://edmtrain.com/members/tauruspixie) | [276,894](https://edmtrain.com/members/tauruspixie) |
+| [17.](https://edmtrain.com/members/rotisserie) | [rotisserie](https://edmtrain.com/members/rotisserie) | [270,345](https://edmtrain.com/members/rotisserie) |
 | [18.](https://edmtrain.com/members/jbarrio11) | [jbarrio11](https://edmtrain.com/members/jbarrio11) | [245,335](https://edmtrain.com/members/jbarrio11) |
-| [19.](https://edmtrain.com/members/thisislorex) | [thisislorex](https://edmtrain.com/members/thisislorex) | [243,620](https://edmtrain.com/members/thisislorex) |
+| [19.](https://edmtrain.com/members/thisislorex) | [thisislorex](https://edmtrain.com/members/thisislorex) | [244,403](https://edmtrain.com/members/thisislorex) |
 | [20.](https://edmtrain.com/members/indigo) | [indigo](https://edmtrain.com/members/indigo) | [216,004](https://edmtrain.com/members/indigo) |
 
 |     |     |     |
 | --- | --- | --- |
-| [21.](https://edmtrain.com/members/devinphilly) | [devinphilly](https://edmtrain.com/members/devinphilly) | [214,235](https://edmtrain.com/members/devinphilly) |
-| [22.](https://edmtrain.com/members/kittygarfunkle) | [kittygarfunkle](https://edmtrain.com/members/kittygarfunkle) | [212,049](https://edmtrain.com/members/kittygarfunkle) |
-| [23.](https://edmtrain.com/members/tannathost) | [tannathost](https://edmtrain.com/members/tannathost) | [205,759](https://edmtrain.com/members/tannathost) |
-| [24.](https://edmtrain.com/members/basslineboston) | [basslineboston](https://edmtrain.com/members/basslineboston) | [200,609](https://edmtrain.com/members/basslineboston) |
-| [25.](https://edmtrain.com/members/johnnypopperss) | [johnnypopperss](https://edmtrain.com/members/johnnypopperss) | [190,626](https://edmtrain.com/members/johnnypopperss) |
+| [21.](https://edmtrain.com/members/devinphilly) | [devinphilly](https://edmtrain.com/members/devinphilly) | [214,516](https://edmtrain.com/members/devinphilly) |
+| [22.](https://edmtrain.com/members/kittygarfunkle) | [kittygarfunkle](https://edmtrain.com/members/kittygarfunkle) | [212,308](https://edmtrain.com/members/kittygarfunkle) |
+| [23.](https://edmtrain.com/members/tannathost) | [tannathost](https://edmtrain.com/members/tannathost) | [206,250](https://edmtrain.com/members/tannathost) |
+| [24.](https://edmtrain.com/members/basslineboston) | [basslineboston](https://edmtrain.com/members/basslineboston) | [200,909](https://edmtrain.com/members/basslineboston) |
+| [25.](https://edmtrain.com/members/johnnypopperss) | [johnnypopperss](https://edmtrain.com/members/johnnypopperss) | [190,888](https://edmtrain.com/members/johnnypopperss) |
 
 |     |     |     |
 | --- | --- | --- |
-| [26.](https://edmtrain.com/members/akatlas) | [akatlas](https://edmtrain.com/members/akatlas) | [188,983](https://edmtrain.com/members/akatlas) |
+| [26.](https://edmtrain.com/members/akatlas) | [akatlas](https://edmtrain.com/members/akatlas) | [189,000](https://edmtrain.com/members/akatlas) |
 | [27.](https://edmtrain.com/members/hughmungus) | [hughmungus](https://edmtrain.com/members/hughmungus) | [187,966](https://edmtrain.com/members/hughmungus) |
 | [28.](https://edmtrain.com/members/blnkcnvspres) | [blnkcnvspres](https://edmtrain.com/members/blnkcnvspres) | [168,382](https://edmtrain.com/members/blnkcnvspres) |
-| [29.](https://edmtrain.com/members/pojoe) | [pojoe](https://edmtrain.com/members/pojoe) | [159,570](https://edmtrain.com/members/pojoe) |
+| [29.](https://edmtrain.com/members/pojoe) | [pojoe](https://edmtrain.com/members/pojoe) | [159,576](https://edmtrain.com/members/pojoe) |
 | [30.](https://edmtrain.com/members/mikesummit) | [mikesummit](https://edmtrain.com/members/mikesummit) | [155,715](https://edmtrain.com/members/mikesummit) |
 
 |     |     |     |
 | --- | --- | --- |
-| [31.](https://edmtrain.com/members/nextlvlevent) | [nextlvlevent](https://edmtrain.com/members/nextlvlevent) | [153,355](https://edmtrain.com/members/nextlvlevent) |
-| [32.](https://edmtrain.com/members/ikicksg) | [ikicksg](https://edmtrain.com/members/ikicksg) | [144,951](https://edmtrain.com/members/ikicksg) |
-| [33.](https://edmtrain.com/members/mamasan) | [mamasan](https://edmtrain.com/members/mamasan) | [138,425](https://edmtrain.com/members/mamasan) |
+| [31.](https://edmtrain.com/members/nextlvlevent) | [nextlvlevent](https://edmtrain.com/members/nextlvlevent) | [153,427](https://edmtrain.com/members/nextlvlevent) |
+| [32.](https://edmtrain.com/members/ikicksg) | [ikicksg](https://edmtrain.com/members/ikicksg) | [145,057](https://edmtrain.com/members/ikicksg) |
+| [33.](https://edmtrain.com/members/mamasan) | [mamasan](https://edmtrain.com/members/mamasan) | [138,568](https://edmtrain.com/members/mamasan) |
 | [34.](https://edmtrain.com/members/sarasbrodir) | [sarasbrodir](https://edmtrain.com/members/sarasbrodir) | [133,842](https://edmtrain.com/members/sarasbrodir) |
-| [35.](https://edmtrain.com/members/peterdimov) | [peterdimov](https://edmtrain.com/members/peterdimov) | [131,790](https://edmtrain.com/members/peterdimov) |
+| [35.](https://edmtrain.com/members/peterdimov) | [peterdimov](https://edmtrain.com/members/peterdimov) | [132,544](https://edmtrain.com/members/peterdimov) |
 
 |     |     |     |
 | --- | --- | --- |
-| [36.](https://edmtrain.com/members/mat120) | [mat120](https://edmtrain.com/members/mat120) | [126,329](https://edmtrain.com/members/mat120) |
-| [37.](https://edmtrain.com/members/webelonghere) | [webelonghere](https://edmtrain.com/members/webelonghere) | [124,849](https://edmtrain.com/members/webelonghere) |
+| [36.](https://edmtrain.com/members/mat120) | [mat120](https://edmtrain.com/members/mat120) | [126,400](https://edmtrain.com/members/mat120) |
+| [37.](https://edmtrain.com/members/webelonghere) | [webelonghere](https://edmtrain.com/members/webelonghere) | [125,080](https://edmtrain.com/members/webelonghere) |
 | [38.](https://edmtrain.com/members/nichoffm) | [nichoffm](https://edmtrain.com/members/nichoffm) | [110,810](https://edmtrain.com/members/nichoffm) |
 | [39.](https://edmtrain.com/members/cicada) | [cicada](https://edmtrain.com/members/cicada) | [105,368](https://edmtrain.com/members/cicada) |
-| [40.](https://edmtrain.com/members/bozus) | [bozus](https://edmtrain.com/members/bozus) | [104,090](https://edmtrain.com/members/bozus) |
+| [40.](https://edmtrain.com/members/bozus) | [bozus](https://edmtrain.com/members/bozus) | [104,179](https://edmtrain.com/members/bozus) |
 
 |     |     |     |
 | --- | --- | --- |
 | [41.](https://edmtrain.com/members/jdubs) | [jdubs](https://edmtrain.com/members/jdubs) | [103,903](https://edmtrain.com/members/jdubs) |
-| [42.](https://edmtrain.com/members/fullgrindtexas) | [fullgrindtexas](https://edmtrain.com/members/fullgrindtexas) | [103,552](https://edmtrain.com/members/fullgrindtexas) |
+| [42.](https://edmtrain.com/members/fullgrindtexas) | [fullgrindtexas](https://edmtrain.com/members/fullgrindtexas) | [103,594](https://edmtrain.com/members/fullgrindtexas) |
 | [43.](https://edmtrain.com/members/rlosey13) | [rlosey13](https://edmtrain.com/members/rlosey13) | [102,159](https://edmtrain.com/members/rlosey13) |
-| [44.](https://edmtrain.com/members/biglexthaplug) | [biglexthaplug](https://edmtrain.com/members/biglexthaplug) | [101,482](https://edmtrain.com/members/biglexthaplug) |
+| [44.](https://edmtrain.com/members/biglexthaplug) | [biglexthaplug](https://edmtrain.com/members/biglexthaplug) | [101,660](https://edmtrain.com/members/biglexthaplug) |
 | [45.](https://edmtrain.com/members/manman) | [manman](https://edmtrain.com/members/manman) | [98,989](https://edmtrain.com/members/manman) |
 
 |     |     |     |
 | --- | --- | --- |
-| [46.](https://edmtrain.com/members/k-mart) | [k-mart](https://edmtrain.com/members/k-mart) | [96,276](https://edmtrain.com/members/k-mart) |
+| [46.](https://edmtrain.com/members/k-mart) | [k-mart](https://edmtrain.com/members/k-mart) | [96,281](https://edmtrain.com/members/k-mart) |
 | [47.](https://edmtrain.com/members/ian) | [ian](https://edmtrain.com/members/ian) | [80,022](https://edmtrain.com/members/ian) |
 | [48.](https://edmtrain.com/members/tyla) | [tyla](https://edmtrain.com/members/tyla) | [73,636](https://edmtrain.com/members/tyla) |
-| [49.](https://edmtrain.com/members/blindmaniacc) | [blindmaniacc](https://edmtrain.com/members/blindmaniacc) | [73,414](https://edmtrain.com/members/blindmaniacc) |
-| [50.](https://edmtrain.com/members/jessbob) | [jessbob](https://edmtrain.com/members/jessbob) | [72,853](https://edmtrain.com/members/jessbob) |
+| [49.](https://edmtrain.com/members/jessbob) | [jessbob](https://edmtrain.com/members/jessbob) | [73,545](https://edmtrain.com/members/jessbob) |
+| [50.](https://edmtrain.com/members/blindmaniacc) | [blindmaniacc](https://edmtrain.com/members/blindmaniacc) | [73,414](https://edmtrain.com/members/blindmaniacc) |
 
 |     |     |     |
 | --- | --- | --- |
-| [51.](https://edmtrain.com/members/katiebass) | [katiebass](https://edmtrain.com/members/katiebass) | [68,450](https://edmtrain.com/members/katiebass) |
-| [52.](https://edmtrain.com/members/vibesense) | [vibesense](https://edmtrain.com/members/vibesense) | [68,314](https://edmtrain.com/members/vibesense) |
-| [53.](https://edmtrain.com/members/jammon) | [jammon](https://edmtrain.com/members/jammon) | [66,537](https://edmtrain.com/members/jammon) |
-| [54.](https://edmtrain.com/members/defiantpresents) | [defiantpresents](https://edmtrain.com/members/defiantpresents) | [66,026](https://edmtrain.com/members/defiantpresents) |
-| [55.](https://edmtrain.com/members/drdance) | [drdance](https://edmtrain.com/members/drdance) | [66,026](https://edmtrain.com/members/drdance) |
+| [51.](https://edmtrain.com/members/vibesense) | [vibesense](https://edmtrain.com/members/vibesense) | [68,481](https://edmtrain.com/members/vibesense) |
+| [52.](https://edmtrain.com/members/katiebass) | [katiebass](https://edmtrain.com/members/katiebass) | [68,450](https://edmtrain.com/members/katiebass) |
+| [53.](https://edmtrain.com/members/jammon) | [jammon](https://edmtrain.com/members/jammon) | [66,556](https://edmtrain.com/members/jammon) |
+| [54.](https://edmtrain.com/members/drdance) | [drdance](https://edmtrain.com/members/drdance) | [66,129](https://edmtrain.com/members/drdance) |
+| [55.](https://edmtrain.com/members/defiantpresents) | [defiantpresents](https://edmtrain.com/members/defiantpresents) | [66,098](https://edmtrain.com/members/defiantpresents) |
 
 |     |     |     |
 | --- | --- | --- |
 | [56.](https://edmtrain.com/members/stephstarr) | [stephstarr](https://edmtrain.com/members/stephstarr) | [65,722](https://edmtrain.com/members/stephstarr) |
-| [57.](https://edmtrain.com/members/knyghts) | [knyghts](https://edmtrain.com/members/knyghts) | [64,872](https://edmtrain.com/members/knyghts) |
+| [57.](https://edmtrain.com/members/knyghts) | [knyghts](https://edmtrain.com/members/knyghts) | [64,939](https://edmtrain.com/members/knyghts) |
 | [58.](https://edmtrain.com/members/jack-peltz) | [jack-peltz](https://edmtrain.com/members/jack-peltz) | [62,948](https://edmtrain.com/members/jack-peltz) |
 | [59.](https://edmtrain.com/members/spaceyacht) | [spaceyacht](https://edmtrain.com/members/spaceyacht) | [59,986](https://edmtrain.com/members/spaceyacht) |
 | [60.](https://edmtrain.com/members/djlazarus) | [djlazarus](https://edmtrain.com/members/djlazarus) | [59,266](https://edmtrain.com/members/djlazarus) |
 
 |     |     |     |
 | --- | --- | --- |
-| [61.](https://edmtrain.com/members/moeoeop) | [moeoeop](https://edmtrain.com/members/moeoeop) | [59,159](https://edmtrain.com/members/moeoeop) |
+| [61.](https://edmtrain.com/members/moeoeop) | [moeoeop](https://edmtrain.com/members/moeoeop) | [59,187](https://edmtrain.com/members/moeoeop) |
 | [62.](https://edmtrain.com/members/eastcoast-udm) | [eastcoast-udm](https://edmtrain.com/members/eastcoast-udm) | [57,638](https://edmtrain.com/members/eastcoast-udm) |
 | [63.](https://edmtrain.com/members/sacredhive) | [sacredhive](https://edmtrain.com/members/sacredhive) | [55,735](https://edmtrain.com/members/sacredhive) |
-| [64.](https://edmtrain.com/members/am215) | [am215](https://edmtrain.com/members/am215) | [55,395](https://edmtrain.com/members/am215) |
+| [64.](https://edmtrain.com/members/am215) | [am215](https://edmtrain.com/members/am215) | [55,600](https://edmtrain.com/members/am215) |
 | [65.](https://edmtrain.com/members/tropicalcharles) | [tropicalcharles](https://edmtrain.com/members/tropicalcharles) | [52,519](https://edmtrain.com/members/tropicalcharles) |
 
 |     |     |     |
@@ -4503,19 +4425,19 @@ Top Members
 
 |     |     |     |
 | --- | --- | --- |
-| [71.](https://edmtrain.com/members/gorseevents420) | [gorseevents420](https://edmtrain.com/members/gorseevents420) | [51,046](https://edmtrain.com/members/gorseevents420) |
+| [71.](https://edmtrain.com/members/gorseevents420) | [gorseevents420](https://edmtrain.com/members/gorseevents420) | [51,098](https://edmtrain.com/members/gorseevents420) |
 | [72.](https://edmtrain.com/members/shibashan) | [shibashan](https://edmtrain.com/members/shibashan) | [50,617](https://edmtrain.com/members/shibashan) |
-| [73.](https://edmtrain.com/members/eddiewrg) | [eddiewrg](https://edmtrain.com/members/eddiewrg) | [49,495](https://edmtrain.com/members/eddiewrg) |
-| [74.](https://edmtrain.com/members/synovamusic) | [synovamusic](https://edmtrain.com/members/synovamusic) | [49,004](https://edmtrain.com/members/synovamusic) |
-| [75.](https://edmtrain.com/members/onlyoneantidote) | [onlyoneantidote](https://edmtrain.com/members/onlyoneantidote) | [47,593](https://edmtrain.com/members/onlyoneantidote) |
+| [73.](https://edmtrain.com/members/eddiewrg) | [eddiewrg](https://edmtrain.com/members/eddiewrg) | [49,507](https://edmtrain.com/members/eddiewrg) |
+| [74.](https://edmtrain.com/members/synovamusic) | [synovamusic](https://edmtrain.com/members/synovamusic) | [49,108](https://edmtrain.com/members/synovamusic) |
+| [75.](https://edmtrain.com/members/onlyoneantidote) | [onlyoneantidote](https://edmtrain.com/members/onlyoneantidote) | [47,718](https://edmtrain.com/members/onlyoneantidote) |
 
 |     |     |     |
 | --- | --- | --- |
-| [76.](https://edmtrain.com/members/anakin) | [anakin](https://edmtrain.com/members/anakin) | [43,733](https://edmtrain.com/members/anakin) |
+| [76.](https://edmtrain.com/members/anakin) | [anakin](https://edmtrain.com/members/anakin) | [43,768](https://edmtrain.com/members/anakin) |
 | [77.](https://edmtrain.com/members/djchenofficial) | [djchenofficial](https://edmtrain.com/members/djchenofficial) | [43,717](https://edmtrain.com/members/djchenofficial) |
 | [78.](https://edmtrain.com/members/edmpunk) | [edmpunk](https://edmtrain.com/members/edmpunk) | [42,610](https://edmtrain.com/members/edmpunk) |
 | [79.](https://edmtrain.com/members/tlkeller) | [tlkeller](https://edmtrain.com/members/tlkeller) | [42,491](https://edmtrain.com/members/tlkeller) |
-| [80.](https://edmtrain.com/members/sick6) | [sick6](https://edmtrain.com/members/sick6) | [41,744](https://edmtrain.com/members/sick6) |
+| [80.](https://edmtrain.com/members/sick6) | [sick6](https://edmtrain.com/members/sick6) | [41,754](https://edmtrain.com/members/sick6) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -4523,7 +4445,7 @@ Top Members
 | [82.](https://edmtrain.com/members/webermusic) | [webermusic](https://edmtrain.com/members/webermusic) | [41,003](https://edmtrain.com/members/webermusic) |
 | [83.](https://edmtrain.com/members/dustingaronzik) | [dustingaronzik](https://edmtrain.com/members/dustingaronzik) | [40,630](https://edmtrain.com/members/dustingaronzik) |
 | [84.](https://edmtrain.com/members/atxlimodriver) | [atxlimodriver](https://edmtrain.com/members/atxlimodriver) | [40,607](https://edmtrain.com/members/atxlimodriver) |
-| [85.](https://edmtrain.com/members/givethanksfest) | [givethanksfest](https://edmtrain.com/members/givethanksfest) | [39,634](https://edmtrain.com/members/givethanksfest) |
+| [85.](https://edmtrain.com/members/givethanksfest) | [givethanksfest](https://edmtrain.com/members/givethanksfest) | [39,671](https://edmtrain.com/members/givethanksfest) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -4537,17 +4459,17 @@ Top Members
 | --- | --- | --- |
 | [91.](https://edmtrain.com/members/xzacklypromos) | [xzacklypromos](https://edmtrain.com/members/xzacklypromos) | [38,396](https://edmtrain.com/members/xzacklypromos) |
 | [92.](https://edmtrain.com/members/changeover) | [changeover](https://edmtrain.com/members/changeover) | [38,024](https://edmtrain.com/members/changeover) |
-| [93.](https://edmtrain.com/members/gfin) | [gfin](https://edmtrain.com/members/gfin) | [37,970](https://edmtrain.com/members/gfin) |
+| [93.](https://edmtrain.com/members/gfin) | [gfin](https://edmtrain.com/members/gfin) | [37,990](https://edmtrain.com/members/gfin) |
 | [94.](https://edmtrain.com/members/mft) | [mft](https://edmtrain.com/members/mft) | [37,765](https://edmtrain.com/members/mft) |
-| [95.](https://edmtrain.com/members/arshia3112) | [arshia3112](https://edmtrain.com/members/arshia3112) | [37,377](https://edmtrain.com/members/arshia3112) |
+| [95.](https://edmtrain.com/members/arshia3112) | [arshia3112](https://edmtrain.com/members/arshia3112) | [37,404](https://edmtrain.com/members/arshia3112) |
 
 |     |     |     |
 | --- | --- | --- |
-| [96.](https://edmtrain.com/members/antrex101) | [antrex101](https://edmtrain.com/members/antrex101) | [35,019](https://edmtrain.com/members/antrex101) |
+| [96.](https://edmtrain.com/members/antrex101) | [antrex101](https://edmtrain.com/members/antrex101) | [35,023](https://edmtrain.com/members/antrex101) |
 | [97.](https://edmtrain.com/members/technosloot) | [technosloot](https://edmtrain.com/members/technosloot) | [34,944](https://edmtrain.com/members/technosloot) |
 | [98.](https://edmtrain.com/members/theedmnotify) | [theedmnotify](https://edmtrain.com/members/theedmnotify) | [34,295](https://edmtrain.com/members/theedmnotify) |
 | [99.](https://edmtrain.com/members/bsplatbassbean) | [bsplatbassbean](https://edmtrain.com/members/bsplatbassbean) | [33,862](https://edmtrain.com/members/bsplatbassbean) |
-| [100.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,604](https://edmtrain.com/members/sectionchad) |
+| [100.](https://edmtrain.com/members/sectionchad) | [sectionchad](https://edmtrain.com/members/sectionchad) | [32,638](https://edmtrain.com/members/sectionchad) |
 
 [Report Issue](https://edmtrain.com/michigan) [Promote Your Event](https://docs.google.com/forms/d/e/1FAIpQLSfNNNBvqD3KMKcjm_uvkQFVLVFsbf6xq-KXcu8w68x0yrrhCA/viewform)
 
