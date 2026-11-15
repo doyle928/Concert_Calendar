@@ -1,45 +1,5 @@
 [
   {
-    "date": "Sat, Nov 14",
-    "artists": "STS9",
-    "venue": "Royal Oak Theatre",
-    "city": "Royal Oak, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/sts9-514041",
-    "event_id": "514041",
-    "venue_detail": ""
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Steller",
-    "venue": "Elektricity",
-    "city": "Pontiac, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/steller-525217",
-    "event_id": "525217",
-    "venue_detail": ""
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Layton Giordani, Roddy Lima b2b Greg 99, Annicka, DJ Sphinx",
-    "venue": "Russell Industrial Center",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/layton-giordani-roddy-lima-532195",
-    "event_id": "532195",
-    "venue_detail": ""
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Boogie T, SubDocta, AceMyth, kurtzdubz",
-    "venue": "The Intersection",
-    "city": "Grand Rapids, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/boogie-t-subdocta-533794",
-    "event_id": "533794",
-    "venue_detail": ""
-  },
-  {
     "date": "Thu, Nov 19",
     "artists": "Volpetron Eternal: Ray Volpe, Tisoki",
     "venue": "The Intersection",

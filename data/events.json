@@ -1,131 +1,5 @@
 [
   {
-    "date": "Sat, Nov 14",
-    "artists": "Marie Vaunt",
-    "venue": "Magic Stick",
-    "city": "Detroit, MI",
-    "age": "18+",
-    "url": "https://edmtrain.com/detroit-mi/marie-vaunt-513234",
-    "event_id": "513234"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "STS9",
-    "venue": "Royal Oak Theatre",
-    "city": "Royal Oak, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/sts9-514041",
-    "event_id": "514041"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Chef Boyarbeatz",
-    "venue": "Papa Pete's",
-    "city": "Kalamazoo, MI",
-    "age": "21+",
-    "url": "https://edmtrain.com/michigan/chef-boyarbeatz-519933",
-    "event_id": "519933"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Steller",
-    "venue": "Elektricity",
-    "city": "Pontiac, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/steller-525217",
-    "event_id": "525217"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Layton Giordani, Roddy Lima b2b Greg 99, Annicka, DJ Sphinx",
-    "venue": "Russell Industrial Center",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/layton-giordani-roddy-lima-532195",
-    "event_id": "532195"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Boogie T, SubDocta, AceMyth, kurtzdubz",
-    "venue": "The Intersection",
-    "city": "Grand Rapids, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/boogie-t-subdocta-533794",
-    "event_id": "533794"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Dasha Rush, Luke Hess, Project 313",
-    "venue": "The Lincoln Factory",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/dasha-rush-luke-hess-534124",
-    "event_id": "534124"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "BassBin presents- SATURDAY 11.14.26, Zach Bletz Bday Party: Zach Bletz, Nico Blue",
-    "venue": "Billy's Lounge",
-    "city": "Grand Rapids, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/bassbin-presents-saturday-11-14-26-zach-bletz-bday-party-zach-bletz-552115",
-    "event_id": "552115"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Pool Party: Mersiv, Lowke, Konundrum",
-    "venue": "Gun Lake Casino Resort",
-    "city": "Wayland, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/pool-party-mersiv-542826",
-    "event_id": "542826"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Bodega House",
-    "venue": "Diamondback Music Hall",
-    "city": "Belleville, MI",
-    "age": "21+",
-    "url": "https://edmtrain.com/detroit-mi/bodega-house-544360",
-    "event_id": "544360"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Alternative School Presents: Glenn Underground, Ameera, Turtle Bugg",
-    "venue": "Northern Lights Lounge",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/alternative-school-presents-glenn-underground-545641",
-    "event_id": "545641"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "Madam X, SWIMMIE, DJ Girl, Hoochie, Garrison XR, we1sman",
-    "venue": "Marble Bar",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/madam-x-swimmie-547563",
-    "event_id": "547563"
-  },
-  {
-    "date": "Sat, Nov 14",
-    "artists": "DJ Marathon b2b DJ Carter",
-    "venue": "Big Pink",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/dj-marathon-dj-carter-548936",
-    "event_id": "548936"
-  },
-  {
-    "date": "Sun, Nov 15",
-    "artists": "Industry Sundays: Nikkie Nocturnal",
-    "venue": "Garden Bowl",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551658",
-    "event_id": "551658"
-  },
-  {
     "date": "Wed, Nov 18",
     "artists": "Mystery Skulls, Fox Stevenson",
     "venue": "Orchid Theatre",
@@ -349,6 +223,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/industry-sundays-nikkie-nocturnal-551659",
     "event_id": "551659"
+  },
+  {
+    "date": "Tue, Nov 24",
+    "artists": "Boiler Room",
+    "venue": "Encore, The Nightclub",
+    "city": "Mount Pleasant, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/boiler-room-552987",
+    "event_id": "552987"
   },
   {
     "date": "Wed, Nov 25",
