@@ -1,14 +1,5 @@
 [
   {
-    "date": "Wed, Nov 18",
-    "artists": "Mystery Skulls, Fox Stevenson",
-    "venue": "Orchid Theatre",
-    "city": "Ferndale, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/mystery-skulls-fox-stevenson-533696",
-    "event_id": "533696"
-  },
-  {
     "date": "Thu, Nov 19",
     "artists": "Volpetron Eternal: Ray Volpe, Tisoki",
     "venue": "The Intersection",
@@ -25,6 +16,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/red-velvet-underground-jarm-548180",
     "event_id": "548180"
+  },
+  {
+    "date": "Thu, Nov 19",
+    "artists": "Juan Atkins",
+    "venue": "ORA Detroit",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/juan-atkins-553285",
+    "event_id": "553285"
   },
   {
     "date": "Fri, Nov 20",
