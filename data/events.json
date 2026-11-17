@@ -297,6 +297,15 @@
     "event_id": "549073"
   },
   {
+    "date": "Fri, Nov 27",
+    "artists": "Steve Bug, John Johr",
+    "venue": "The Lincoln Factory",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/steve-bug-john-johr-553581",
+    "event_id": "553581"
+  },
+  {
     "date": "Sat, Nov 28",
     "artists": "Zeds Dead, Jkyl & Hyde, Phrva, Zen Selekta, blurrd vzn",
     "venue": "Detroit Masonic Temple",
@@ -340,6 +349,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/sanctuary-offering-1-year-anniversary-autogyro-550957",
     "event_id": "550957"
+  },
+  {
+    "date": "Sat, Nov 28",
+    "artists": "Bakery Rave For Toys For Tots: Apricity",
+    "venue": "Sinfully Sweet Bakery & Coffee Shop",
+    "city": "Fremont, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/bakery-rave-for-toys-for-tots-apricity-553445",
+    "event_id": "553445"
   },
   {
     "date": "Sun, Nov 29",
@@ -486,6 +504,15 @@
     "event_id": "552220"
   },
   {
+    "date": "Fri, Dec 11",
+    "artists": "GOTH GALA - WINTER SOLSTICE: Kaskka, Psymothic, bassdrip, Shakti, Ghoztbomb",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/goth-gala-winter-solstice-kaskka-553671",
+    "event_id": "553671"
+  },
+  {
     "date": "Sat, Dec 12",
     "artists": "RIOT, VLCN, C.A.M, Pandalicious, RE:CVLEBRVTE",
     "venue": "Elektricity",
@@ -613,15 +640,6 @@
   },
   {
     "date": "Thu, Dec 31",
-    "artists": "ZERO HOUR - NEW YEARS EVE 2027: Space Wizard, PROSECUTE",
-    "venue": "Elektricity",
-    "city": "Pontiac, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/zero-hour-new-years-eve-2027-space-wizard-543373",
-    "event_id": "543373"
-  },
-  {
-    "date": "Thu, Dec 31",
     "artists": "Joshwa, ARCS, Nayt",
     "venue": "Magic Stick",
     "city": "Detroit, MI",
@@ -631,12 +649,30 @@
   },
   {
     "date": "Thu, Dec 31",
+    "artists": "ZERO HOUR - NEW YEARS EVE 2027: Space Wizard, PROSECUTE",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/zero-hour-new-years-eve-2027-space-wizard-543373",
+    "event_id": "543373"
+  },
+  {
+    "date": "Thu, Dec 31",
     "artists": "Reptant, Pearson Sound, Roman Fl\u00fcgel, DJ Pierre, mirepoix, Eddie Fowlkes, Norm Talley, Whodat",
     "venue": "Marble Bar",
     "city": "Detroit, MI",
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/reptant-pearson-sound-551344",
     "event_id": "551344"
+  },
+  {
+    "date": "Fri, Jan 1",
+    "artists": "Nora En Pure",
+    "venue": "Russell Industrial Center",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/nora-en-pure-553552",
+    "event_id": "553552"
   },
   {
     "date": "Sat, Jan 9",
@@ -979,5 +1015,32 @@
     "age": "16+",
     "url": "https://edmtrain.com/detroit-mi/two-friends-551675",
     "event_id": "551675"
+  },
+  {
+    "date": "Fri, Jun 4",
+    "artists": "Marsh",
+    "venue": "El Club",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/marsh-553839",
+    "event_id": "553839"
+  },
+  {
+    "date": "Fri, Aug 13",
+    "artists": "Breakaway Michigan",
+    "venue": "Belknap Park",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/breakaway-michigan-553770",
+    "event_id": "553770"
+  },
+  {
+    "date": "Sat, Aug 14",
+    "artists": "Breakaway Michigan",
+    "venue": "Belknap Park",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/breakaway-michigan-553860",
+    "event_id": "553860"
   }
 ]
