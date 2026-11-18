@@ -127,7 +127,7 @@
   },
   {
     "date": "Fri, Nov 20",
-    "artists": "Noncompliant, Flange, SINA, AIDEL, Adri, Duck Trash",
+    "artists": "Noncompliant, Flange, AIDEL, Adri, Duck Trash",
     "venue": "Marble Bar",
     "city": "Detroit, MI",
     "age": "",
@@ -225,6 +225,15 @@
     "event_id": "551659"
   },
   {
+    "date": "Sun, Nov 22",
+    "artists": "Memorial Service for Juan Atkins",
+    "venue": "The Lincoln Factory",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/memorial-service-for-juan-atkins-554215",
+    "event_id": "554215"
+  },
+  {
     "date": "Tue, Nov 24",
     "artists": "Boiler Room",
     "venue": "Encore, The Nightclub",
@@ -232,6 +241,15 @@
     "age": "",
     "url": "https://edmtrain.com/michigan/boiler-room-552987",
     "event_id": "552987"
+  },
+  {
+    "date": "Tue, Nov 24",
+    "artists": "TECHNO TUESDAY",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/techno-tuesday-554086",
+    "event_id": "554086"
   },
   {
     "date": "Wed, Nov 25",
@@ -259,6 +277,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/stacey-hotwaxx-hale-father-dukes-552880",
     "event_id": "552880"
+  },
+  {
+    "date": "Wed, Nov 25",
+    "artists": "DJ Kdirty",
+    "venue": "Big Pink",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/dj-kdirty-553960",
+    "event_id": "553960"
   },
   {
     "date": "Fri, Nov 27",
@@ -304,6 +331,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/steve-bug-john-johr-553581",
     "event_id": "553581"
+  },
+  {
+    "date": "Fri, Nov 27",
+    "artists": "SWDEJAY, DJ IZA",
+    "venue": "Big Pink",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/swdejay-dj-iza-553961",
+    "event_id": "553961"
   },
   {
     "date": "Sat, Nov 28",
@@ -847,21 +883,21 @@
   },
   {
     "date": "Sat, Feb 13",
-    "artists": "2000s Rave",
-    "venue": "Elevation at The Intersection",
-    "city": "Grand Rapids, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/2000s-rave-542245",
-    "event_id": "542245"
-  },
-  {
-    "date": "Sat, Feb 13",
     "artists": "Kayzo, hhunter, Raedy Lex",
     "venue": "Magic Stick",
     "city": "Detroit, MI",
     "age": "18+",
     "url": "https://edmtrain.com/detroit-mi/kayzo-hhunter-551757",
     "event_id": "551757"
+  },
+  {
+    "date": "Sat, Feb 13",
+    "artists": "2000s Rave",
+    "venue": "Elevation at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/2000s-rave-542245",
+    "event_id": "542245"
   },
   {
     "date": "Thu, Feb 18",
@@ -954,6 +990,15 @@
     "event_id": "552599"
   },
   {
+    "date": "Sat, Mar 20",
+    "artists": "Hills",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/hills-554325",
+    "event_id": "554325"
+  },
+  {
     "date": "Fri, Mar 26",
     "artists": "LSDREAM, Distinct Motive, Steller, Fossils",
     "venue": "Detroit Masonic Temple",
@@ -965,11 +1010,20 @@
   {
     "date": "Sat, Mar 27",
     "artists": "Tiffany Day",
-    "venue": "Majestic Theatre Detroit",
-    "city": "Detroit, MI",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
     "age": "All Ages",
     "url": "https://edmtrain.com/detroit-mi/tiffany-day-552307",
     "event_id": "552307"
+  },
+  {
+    "date": "Wed, Mar 31",
+    "artists": "CHVRCHES",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/chvrches-554157",
+    "event_id": "554157"
   },
   {
     "date": "Fri, Apr 2",
@@ -979,6 +1033,15 @@
     "age": "All Ages",
     "url": "https://edmtrain.com/detroit-mi/vnv-nation-517829",
     "event_id": "517829"
+  },
+  {
+    "date": "Sat, Apr 3",
+    "artists": "Twofaced",
+    "venue": "Magic Stick",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/twofaced-nz-554346",
+    "event_id": "554346"
   },
   {
     "date": "Fri, Apr 9",
@@ -1021,7 +1084,7 @@
     "artists": "Marsh",
     "venue": "El Club",
     "city": "Detroit, MI",
-    "age": "",
+    "age": "18+",
     "url": "https://edmtrain.com/detroit-mi/marsh-553839",
     "event_id": "553839"
   },
@@ -1031,8 +1094,8 @@
     "venue": "Belknap Park",
     "city": "Grand Rapids, MI",
     "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/breakaway-michigan-553770",
-    "event_id": "553770"
+    "url": "https://edmtrain.com/grand-rapids-mi/breakaway-michigan-553875",
+    "event_id": "553875"
   },
   {
     "date": "Sat, Aug 14",
@@ -1040,7 +1103,7 @@
     "venue": "Belknap Park",
     "city": "Grand Rapids, MI",
     "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/breakaway-michigan-553860",
-    "event_id": "553860"
+    "url": "https://edmtrain.com/grand-rapids-mi/breakaway-michigan-553876",
+    "event_id": "553876"
   }
 ]

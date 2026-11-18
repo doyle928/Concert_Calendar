@@ -472,11 +472,21 @@
   {
     "date": "Sat, Mar 27",
     "artists": "Tiffany Day",
-    "venue": "Majestic Theatre Detroit",
-    "city": "Detroit, MI",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
     "age": "All Ages",
     "url": "https://edmtrain.com/detroit-mi/tiffany-day-552307",
     "event_id": "552307",
+    "venue_detail": ""
+  },
+  {
+    "date": "Wed, Mar 31",
+    "artists": "CHVRCHES",
+    "venue": "Royal Oak Theatre",
+    "city": "Royal Oak, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/chvrches-554157",
+    "event_id": "554157",
     "venue_detail": ""
   },
   {
