@@ -1,15 +1,5 @@
 [
   {
-    "date": "Thu, Nov 19",
-    "artists": "Volpetron Eternal: Ray Volpe, Tisoki",
-    "venue": "The Intersection",
-    "city": "Grand Rapids, MI",
-    "age": "18+",
-    "url": "https://edmtrain.com/grand-rapids-mi/volpetron-eternal-ray-volpe-519097",
-    "event_id": "519097",
-    "venue_detail": ""
-  },
-  {
     "date": "Fri, Nov 20",
     "artists": "Victory Live: Madeon, Anamanaguchi",
     "venue": "Majestic Theatre Detroit",
@@ -100,6 +90,16 @@
     "venue_detail": ""
   },
   {
+    "date": "Wed, Dec 2",
+    "artists": "Bryce Alakai, IOTA, Raedy Lex",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/bryce-alakai-iota-554475",
+    "event_id": "554475",
+    "venue_detail": ""
+  },
+  {
     "date": "Thu, Dec 3",
     "artists": "AHEE, Mport",
     "venue": "The Intersection",
@@ -160,6 +160,16 @@
     "venue_detail": ""
   },
   {
+    "date": "Fri, Dec 11",
+    "artists": "Deep Dark & Dangerous: Truth, Medicine Place, Dr. Ush\u016bu, JoeBig",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/grand-rapids-mi/deep-dark-and-dangerous-truth-554515",
+    "event_id": "554515",
+    "venue_detail": "Elevation at The Intersection"
+  },
+  {
     "date": "Sat, Dec 12",
     "artists": "RIOT, VLCN, C.A.M, Pandalicious, RE:CVLEBRVTE",
     "venue": "Elektricity",
@@ -211,7 +221,7 @@
   },
   {
     "date": "Thu, Dec 31",
-    "artists": "ZERO HOUR - NEW YEARS EVE 2027: Space Wizard, PROSECUTE",
+    "artists": "ZERO HOUR - NEW YEARS EVE 2027: Space Wizard, PROSECUTE, MYTHM, Drippy, SouthPaw b2b Melt, Due Dilla Gents",
     "venue": "Elektricity",
     "city": "Pontiac, MI",
     "age": "",
@@ -390,6 +400,16 @@
     "venue_detail": "Stache at The Intersection"
   },
   {
+    "date": "Fri, Feb 12",
+    "artists": "HOL!, Izzy Vadim",
+    "venue": "Majestic Theatre Detroit",
+    "city": "Detroit, MI",
+    "age": "18+",
+    "url": "https://edmtrain.com/detroit-mi/hol-izzy-vadim-554533",
+    "event_id": "554533",
+    "venue_detail": ""
+  },
+  {
     "date": "Sat, Feb 13",
     "artists": "2000s Rave",
     "venue": "The Intersection",
@@ -408,6 +428,16 @@
     "url": "https://edmtrain.com/detroit-mi/level-up-costa-dc-542205",
     "event_id": "542205",
     "venue_detail": ""
+  },
+  {
+    "date": "Sat, Feb 20",
+    "artists": "BARELY ALIVE",
+    "venue": "The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/barely-alive-554624",
+    "event_id": "554624",
+    "venue_detail": "Elevation at The Intersection"
   },
   {
     "date": "Fri, Feb 26",
@@ -477,16 +507,6 @@
     "age": "All Ages",
     "url": "https://edmtrain.com/detroit-mi/tiffany-day-552307",
     "event_id": "552307",
-    "venue_detail": ""
-  },
-  {
-    "date": "Wed, Mar 31",
-    "artists": "CHVRCHES",
-    "venue": "Royal Oak Theatre",
-    "city": "Royal Oak, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/chvrches-554157",
-    "event_id": "554157",
     "venue_detail": ""
   },
   {
