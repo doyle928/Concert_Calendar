@@ -1,35 +1,5 @@
 [
   {
-    "date": "Fri, Nov 20",
-    "artists": "Victory Live: Madeon, Anamanaguchi",
-    "venue": "Majestic Theatre Detroit",
-    "city": "Detroit, MI",
-    "age": "18+",
-    "url": "https://edmtrain.com/detroit-mi/victory-live-madeon-502117",
-    "event_id": "502117",
-    "venue_detail": ""
-  },
-  {
-    "date": "Fri, Nov 20",
-    "artists": "SoDown, Noetika, Shamoxis, Ooze",
-    "venue": "Elektricity",
-    "city": "Pontiac, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/sodown-noetika-530784",
-    "event_id": "530784",
-    "venue_detail": ""
-  },
-  {
-    "date": "Fri, Nov 20",
-    "artists": "it's murph, Nils Hoffmann, Gavin Blac",
-    "venue": "Russell Industrial Center",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/its-murph-nils-hoffmann-535267",
-    "event_id": "535267",
-    "venue_detail": "Expo Hall at Russell Industrial Center"
-  },
-  {
     "date": "Sat, Nov 21",
     "artists": "Daily Bread, Vincent Antone, zoska",
     "venue": "Royal Oak Theatre",
@@ -401,7 +371,7 @@
   },
   {
     "date": "Fri, Feb 12",
-    "artists": "HOL!, Izzy Vadim",
+    "artists": "HOL!, Izzy Vadim, HEXX",
     "venue": "Majestic Theatre Detroit",
     "city": "Detroit, MI",
     "age": "18+",
@@ -434,7 +404,7 @@
     "artists": "BARELY ALIVE",
     "venue": "The Intersection",
     "city": "Grand Rapids, MI",
-    "age": "",
+    "age": "18+",
     "url": "https://edmtrain.com/grand-rapids-mi/barely-alive-554624",
     "event_id": "554624",
     "venue_detail": "Elevation at The Intersection"
