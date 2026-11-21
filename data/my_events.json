@@ -1,35 +1,5 @@
 [
   {
-    "date": "Sat, Nov 21",
-    "artists": "Daily Bread, Vincent Antone, zoska",
-    "venue": "Royal Oak Theatre",
-    "city": "Royal Oak, MI",
-    "age": "18+",
-    "url": "https://edmtrain.com/detroit-mi/daily-bread-vincent-antone-520764",
-    "event_id": "520764",
-    "venue_detail": ""
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "Whales, Tokyo Machine",
-    "venue": "Elektricity",
-    "city": "Pontiac, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/whales-tokyo-machine-526298",
-    "event_id": "526298",
-    "venue_detail": ""
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "After Glow Tour: Canabliss, emrys, bl\u00fcejay, Ganja Girl",
-    "venue": "The Intersection",
-    "city": "Grand Rapids, MI",
-    "age": "18+",
-    "url": "https://edmtrain.com/grand-rapids-mi/after-glow-tour-canabliss-532779",
-    "event_id": "532779",
-    "venue_detail": "Stache at The Intersection"
-  },
-  {
     "date": "Fri, Nov 27",
     "artists": "Zeds Dead, Taiki Nulight b2b Moody Good, Rohaan, PapaJay, Die By The Sword",
     "venue": "Detroit Masonic Temple",

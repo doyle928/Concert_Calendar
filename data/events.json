@@ -1,86 +1,5 @@
 [
   {
-    "date": "Sat, Nov 21",
-    "artists": "Daily Bread, Vincent Antone, zoska",
-    "venue": "Royal Oak Theatre",
-    "city": "Royal Oak, MI",
-    "age": "18+",
-    "url": "https://edmtrain.com/detroit-mi/daily-bread-vincent-antone-520764",
-    "event_id": "520764"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "Whales, Tokyo Machine",
-    "venue": "Elektricity",
-    "city": "Pontiac, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/whales-tokyo-machine-526298",
-    "event_id": "526298"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "After Glow Tour: Canabliss, emrys, bl\u00fcejay, Ganja Girl",
-    "venue": "Stache at The Intersection",
-    "city": "Grand Rapids, MI",
-    "age": "18+",
-    "url": "https://edmtrain.com/grand-rapids-mi/after-glow-tour-canabliss-532779",
-    "event_id": "532779"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "Paxahau Presents: Eli Escobar, Peter Croce",
-    "venue": "TV Lounge",
-    "city": "Detroit, MI",
-    "age": "21+",
-    "url": "https://edmtrain.com/detroit-mi/paxahau-presents-eli-escobar-543810",
-    "event_id": "543810"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "Be Kind Rewind",
-    "venue": "The Green Door Lansing",
-    "city": "Lansing, MI",
-    "age": "",
-    "url": "https://edmtrain.com/michigan/be-kind-rewind-547646",
-    "event_id": "547646"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "Fadi Mohem, Echof\u00f8n, Redax",
-    "venue": "Tangent Gallery & Hastings",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/fadi-mohem-echofon-526114",
-    "event_id": "526114"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "Joe Nice, Antithesis",
-    "venue": "215 West",
-    "city": "Ferndale, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/joe-nice-antithesis-mi-549319",
-    "event_id": "549319"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "Clubhouse Sessions: Govan Jones, Dubyah, Le Schlippy, Coogleme, Justeus",
-    "venue": "128 Cadillac Square",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/clubhouse-sessions-govan-jones-550160",
-    "event_id": "550160"
-  },
-  {
-    "date": "Sat, Nov 21",
-    "artists": "John Acquaviva, Terrence Dixon, Pablo R, Ruiz",
-    "venue": "Marble Bar",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/john-acquaviva-terrence-dixon-550576",
-    "event_id": "550576"
-  },
-  {
     "date": "Sun, Nov 22",
     "artists": "Industry Sundays: Nikkie Nocturnal",
     "venue": "Garden Bowl",
@@ -277,6 +196,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/return-to-static-zd-unofficial-afterparty-sloth-554375",
     "event_id": "554375"
+  },
+  {
+    "date": "Sat, Nov 28",
+    "artists": "88 MPH, Austin Buck, J \u00c6 G \u00dc A R, Metawav., ROICE",
+    "venue": "The Vault 313",
+    "city": "Highland Park, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/88-mph-austin-buck-555198",
+    "event_id": "555198"
   },
   {
     "date": "Sun, Nov 29",
@@ -808,6 +736,15 @@
     "age": "",
     "url": "https://edmtrain.com/grand-rapids-mi/2000s-rave-542245",
     "event_id": "542245"
+  },
+  {
+    "date": "Sat, Feb 13",
+    "artists": "MontyCler",
+    "venue": "Papa Pete's",
+    "city": "Kalamazoo, MI",
+    "age": "21+",
+    "url": "https://edmtrain.com/michigan/montycler-555153",
+    "event_id": "555153"
   },
   {
     "date": "Thu, Feb 18",
