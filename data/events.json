@@ -1,23 +1,5 @@
 [
   {
-    "date": "Tue, Nov 24",
-    "artists": "Boiler Room",
-    "venue": "Encore, The Nightclub",
-    "city": "Mount Pleasant, MI",
-    "age": "",
-    "url": "https://edmtrain.com/michigan/boiler-room-552987",
-    "event_id": "552987"
-  },
-  {
-    "date": "Tue, Nov 24",
-    "artists": "TECHNO TUESDAY",
-    "venue": "Marble Bar",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/techno-tuesday-554086",
-    "event_id": "554086"
-  },
-  {
     "date": "Wed, Nov 25",
     "artists": "Amplify Grand Opening: TBA",
     "venue": "Amplify",
@@ -252,6 +234,15 @@
     "event_id": "548423"
   },
   {
+    "date": "Fri, Dec 4",
+    "artists": "DJ Hyperactive, M\u00c6DON, Father Dukes",
+    "venue": "Marble Bar",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/dj-hyperactive-m-don-555389",
+    "event_id": "555389"
+  },
+  {
     "date": "Sat, Dec 5",
     "artists": "MashBit",
     "venue": "Magic Stick",
@@ -430,6 +421,15 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/griz-ravenscoon-538831",
     "event_id": "538831"
+  },
+  {
+    "date": "Sat, Dec 19",
+    "artists": "Audiojack",
+    "venue": "El Club",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/audiojack-555387",
+    "event_id": "555387"
   },
   {
     "date": "Sun, Dec 20",
@@ -916,6 +916,42 @@
     "age": "18+",
     "url": "https://edmtrain.com/detroit-mi/marsh-553839",
     "event_id": "553839"
+  },
+  {
+    "date": "Thu, Jun 24",
+    "artists": "Electric Forest",
+    "venue": "Double JJ Ranch",
+    "city": "New Era, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/electric-forest-555456",
+    "event_id": "555456"
+  },
+  {
+    "date": "Fri, Jun 25",
+    "artists": "Electric Forest",
+    "venue": "Double JJ Ranch",
+    "city": "New Era, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/electric-forest-555457",
+    "event_id": "555457"
+  },
+  {
+    "date": "Sat, Jun 26",
+    "artists": "Electric Forest",
+    "venue": "Double JJ Ranch",
+    "city": "New Era, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/electric-forest-555458",
+    "event_id": "555458"
+  },
+  {
+    "date": "Sun, Jun 27",
+    "artists": "Electric Forest",
+    "venue": "Double JJ Ranch",
+    "city": "New Era, MI",
+    "age": "",
+    "url": "https://edmtrain.com/michigan/electric-forest-555459",
+    "event_id": "555459"
   },
   {
     "date": "Fri, Aug 13",
