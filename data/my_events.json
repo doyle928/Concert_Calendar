@@ -251,16 +251,6 @@
   },
   {
     "date": "Sat, Jan 23",
-    "artists": "Hiatus x Wub Street Present BLOSSM: BLOSSM, WHOiSEE, Skeemuh, ROYALFLU$H",
-    "venue": "Crofoot Ballroom",
-    "city": "Pontiac, MI",
-    "age": "All Ages",
-    "url": "https://edmtrain.com/detroit-mi/hiatus-x-wub-street-present-blossm-blossm-540490",
-    "event_id": "540490",
-    "venue_detail": "Pike Room at Crofoot"
-  },
-  {
-    "date": "Sat, Jan 23",
     "artists": "SPOOKY RIDDIM RETURNS: Hi I'm Ghost, M?STIC, P\u00d8P\u00d8FF, S'moores, Ivy Drip",
     "venue": "Elektricity",
     "city": "Pontiac, MI",
@@ -268,6 +258,16 @@
     "url": "https://edmtrain.com/detroit-mi/spooky-riddim-returns-hi-im-ghost-550493",
     "event_id": "550493",
     "venue_detail": ""
+  },
+  {
+    "date": "Sat, Jan 23",
+    "artists": "Hiatus x Wub Street Present BLOSSM: BLOSSM, WHOiSEE, Skeemuh, ROYALFLU$H",
+    "venue": "Crofoot Ballroom",
+    "city": "Pontiac, MI",
+    "age": "All Ages",
+    "url": "https://edmtrain.com/detroit-mi/hiatus-x-wub-street-present-blossm-blossm-540490",
+    "event_id": "540490",
+    "venue_detail": "Pike Room at Crofoot"
   },
   {
     "date": "Sat, Jan 30",
@@ -467,6 +467,16 @@
     "age": "",
     "url": "https://edmtrain.com/detroit-mi/detroits-inferno-iv-modal-nodes-510888",
     "event_id": "510888",
+    "venue_detail": ""
+  },
+  {
+    "date": "Fri, Apr 30",
+    "artists": "Flux Pavilion",
+    "venue": "Elektricity",
+    "city": "Pontiac, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/flux-pavilion-555833",
+    "event_id": "555833",
     "venue_detail": ""
   },
   {
