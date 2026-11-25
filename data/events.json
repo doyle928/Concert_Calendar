@@ -1,41 +1,5 @@
 [
   {
-    "date": "Wed, Nov 25",
-    "artists": "Amplify Grand Opening: TBA",
-    "venue": "Amplify",
-    "city": "Hamtramck, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/amplify-grand-opening-tba-534489",
-    "event_id": "534489"
-  },
-  {
-    "date": "Wed, Nov 25",
-    "artists": "City Of Machines: HazMat, Jesse James",
-    "venue": "HALO Bar & Lounge",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/city-of-machines-hazmat-detroit-541596",
-    "event_id": "541596"
-  },
-  {
-    "date": "Wed, Nov 25",
-    "artists": "Stacey Hotwaxx Hale, Father Dukes, Dru Allan",
-    "venue": "Northern Lights Lounge",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/stacey-hotwaxx-hale-father-dukes-552880",
-    "event_id": "552880"
-  },
-  {
-    "date": "Wed, Nov 25",
-    "artists": "DJ Kdirty",
-    "venue": "Big Pink",
-    "city": "Detroit, MI",
-    "age": "",
-    "url": "https://edmtrain.com/detroit-mi/dj-kdirty-553960",
-    "event_id": "553960"
-  },
-  {
     "date": "Fri, Nov 27",
     "artists": "Zeds Dead, Taiki Nulight b2b Moody Good, Rohaan, PapaJay, Die By The Sword",
     "venue": "Detroit Masonic Temple",
@@ -396,6 +360,15 @@
     "event_id": "555858"
   },
   {
+    "date": "Sat, Dec 12",
+    "artists": "DJ Swisha, Dru Allan, AK",
+    "venue": "Northern Lights Lounge",
+    "city": "Detroit, MI",
+    "age": "",
+    "url": "https://edmtrain.com/detroit-mi/dj-swisha-dru-allan-556023",
+    "event_id": "556023"
+  },
+  {
     "date": "Sun, Dec 13",
     "artists": "Industry Sundays: Nikkie Nocturnal",
     "venue": "Garden Bowl",
@@ -469,7 +442,7 @@
   },
   {
     "date": "Sat, Dec 26",
-    "artists": "Santa Rave: The Saunderson Brothers, Dantiez Saunderson, DaMarii Saunderson, Rolow, TEZMO, Chefboyarzee",
+    "artists": "Santa Rave: The Saunderson Brothers, Dantiez Saunderson, DaMarii Saunderson, Rolow, TEZMO, Chefboyarzee, Milan Atkins",
     "venue": "Diamondback Music Hall",
     "city": "Belleville, MI",
     "age": "18+",
