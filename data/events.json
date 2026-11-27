@@ -604,21 +604,21 @@
   },
   {
     "date": "Fri, Feb 12",
-    "artists": "Kawaii Rave",
-    "venue": "Stache at The Intersection",
-    "city": "Grand Rapids, MI",
-    "age": "",
-    "url": "https://edmtrain.com/grand-rapids-mi/kawaii-rave-552264",
-    "event_id": "552264"
-  },
-  {
-    "date": "Fri, Feb 12",
     "artists": "HOL!, Izzy Vadim, HEXX",
     "venue": "Majestic Theatre Detroit",
     "city": "Detroit, MI",
     "age": "18+",
     "url": "https://edmtrain.com/detroit-mi/hol-izzy-vadim-554533",
     "event_id": "554533"
+  },
+  {
+    "date": "Fri, Feb 12",
+    "artists": "Kawaii Rave",
+    "venue": "Stache at The Intersection",
+    "city": "Grand Rapids, MI",
+    "age": "",
+    "url": "https://edmtrain.com/grand-rapids-mi/kawaii-rave-552264",
+    "event_id": "552264"
   },
   {
     "date": "Sat, Feb 13",
